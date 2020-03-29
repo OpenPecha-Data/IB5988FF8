@@ -1,0 +1,3391 @@
+༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་གནས།།
+Tibetan Buddhist Resource Center
+Text Scan Input Form - Title Page
+Work:
+W1KG15365
+79520454
+ImageGroup:
+ISBN:
+11KG15391
+n/a
+LCCN:
+Title:
+tibetan manuscripts and blockprints in the library of the oriental institute
+prague
+ཀོལམས་ ངོསེ༦
+Author:
+Descriptor:
+Original Publication:
+|kolmas, josef
+n/a
+dissertationes orientales;v. 16
+Place:
+prague
+academia, rozmn
+Publisher:
+Date:
+1969
+Volume:
+Total Volumes:
+TBRC Pages:
+Introductory Pages:
+In/a
+Text Pages:
+Scanning Information:
+n/a
+Scanned at Tibetan Buddhist Resource Center, 1430 Massachusetts Avenue, Cambridge,
+MA 02138, USA. Comments: 9/2013
+
+
+
+TIBETAN MANUSCRITS
+AND BLOOKTRINTS
+DOSET KOLLAS
+
+
+
+JOSEF KOLMAS
+Tibetan Manuscripts
+and Blockprints
+ACADEMIA, PRAGUE
+
+
+
+ARTHUR PROBSTHAIN
+Oriental Bookseller
+41 Gt. Russell Street
+LONDON, W.C.1
+
+
+
+DISSERTATIONES ORIENTALES
+vol. 16
+edendas curant
+1. HRBEK, A. PALÁT. D. ZBAVITEL
+moderante
+L. ZGUSTA
+
+
+
+© Josef Kolmas, 1969
+
+
+
+Tibetan Manuscripts
+and Blockprints
+in the Library of the Oriental
+Institute Prague
+JOSEF KOLMAS
+ACADEMIA, PRAGUE 1969
+
+
+
+ACKNOWLEDGEMENTS
+Amongst those who helped me to compile this Catalogue of Tibetan
+Manuscripts and Blockprints in the Library of the Oriental Institute, Pra-
+gue, I should like particularly to pay tribute to Professor Friedrich Wel
+Lar and Dr. Manfred Taube, both of the University of Leipzig, without
+whose assistance and advice I could never have completed the work in
+its present form. Both of these scholars read the typescript and made a
+number of invaluable suggestions which I have adopted.
+Likewise I acknowledge with very special thanks the sympathetic
+help of Mr. Samten G. Karmay, of the School of Oriental and African
+Studies in the University of London, in checking the Tibetan text and
+solving a number of textual problems for me. My thanks are due also to
+Professor Johannes Schubert, of Leipzig, and to Dr. Vilém Gam-
+pert, of Prague, both of whom afforded me numerous insights into as
+pects of this work which would otherwise have remained obscure. To Dr.
+Kenneth H. J. Gardiner, of the Australian National University, Can-
+berra, I owe special thanks for looking over the English text.
+I must also thank Miss Marie Sonská for willingly undertaking the
+laborious work of typing the final draft. Finally, I should like to express
+my gratitude to the Oriental Institute of the Czechoslovak Academy of
+Sciences, Prague, for meeting the cost of publication of this work.
+Dr. Josef Kolmas
+Pragwe, May 1968.
+
+
+
+TABLE OF CONTENTS
+Acknowledgements
+Introductory Note
+List of Reference-works ....
+ma
+Catalogue of Tibetan Manuscripts and Block prints
+in the Library of the Oriental Institute, Prague
+i. Canonical Texts and Commentaries (Nos. 1-7) -
+ii. Later Tantrik and Ritual Texts (Nos. 8-33)..
+iii. Philosophical/Theological Texts (Nos. 34-42).
+iv. Mystery Plays and Fairy Tales (Nos. 43-47) ..
+v. Biographies (Nos. 48-59) ......
+vi. Specialised Subjects (Nos. 60-65)
+Notes ....
+Appendices
+Index of Titles -
+Index of Authors and Other Persons Mentioned in the Text ...
+List of Editions of Blockprints.
+Table of Provenance ....
+Concordance of the Oriental Institute Library
+Accession Numbers and Catalogue Numbers
+Concordance of the Oriental Institute Library
+Signatures and Catalogue Numbers ..
+109
+
+
+
+INTRODUCTORY NOTE
+The work of describing and cataloguing Tibetan manuscripts and
+blockprints existing in different European collections has already been
+going on for more than a century. The first bibliographical mention in Eu-
+rope of Tibetan manuscripts and blockprints seems to have been in O.M.
+Kovalevskij's "Katalog Sanskritskim, mongol'skim, tibetskim, man'Eur.
+skim i kitajskim knigam i rukopisjam, biblioteke Imperatorskago Kazan-
+skago Universiteta chranjašćimsja", which appeared in the Učenyja Za.
+piski, izdavaemyja Imperaforskin Kazanskim Universitetom for 1834, no. 11,
+pp. 263-292 (published also separately, Kazan 1834); the Tibetan inate-
+rial, however, is only touched upon here (and so it is in the Katalog kni
+gam, rukopisjam kartan, na kitajskom, man' Ezurskom, mongol'skom, l-
+belskom i sanskritskom jazykacb, nacbodjaščim sja biblioteke Azijat.
+skago departamenta, published in St. Petersburg in 1843). If we exclude
+two of Kőrösi Csoma's pioneer works, viz. "Analysis of Kanjur and Tan-
+jur", published in the twentieth volume of the Asiatic Researches (1836-
+39), and "Enumeration of Historical and Grammatical Works to be met with
+in Tibet", published in the seventh volume of the Journal of the Asiatic
+Society of Bengal (1838), and I. J. Schmidt's Bkab-bgyar-gyi dhar cbag.
+oder der index des Kandjur (St. Petersburg 1845), the first independent
+list of Tibetan manuscripts and blockprints is I. J. Schmidt and O. Boeht
+lingk's "Verzeichnis der Tibetischen Handschriften und Holzdrucke im
+Asiatischen Museum der Kaiserlichen Akademie der Wissenschaften", pu-
+blished in the Bulletin of the St. Petersburg Academy of Sciences for 1847
+(see List of Reference-works).
+Thanks to the cataloguing activities of several generations of Euro-
+pean tibetologists, we are at present in possession of a number of lists
+of Tibetica, however incomplete and unsystematic some of them may now
+appear, which give a reasonably good picture of Tibetan holdings dis.
+seminated in various places in Europe (c. g. in Berlin, Bern, Budapest,
+Dresden, Leipzig, Leningrad/St. Petersburg, London, Mannheim, Mün
+chen, Paris, Stuttgart, Vienna).
+The importance of detailed catalogues of Tibetan funds as the main
+source of bibliography of Tibetan literature being Renerally recognised,
+I shall attempt to follow in the august footsteps of my predecessors and
+
+
+
+contemporaries in this field, and with this in mind offer the following de-
+scriptive catalogue of Tibetan holdings -blockprinted and manuscript
+in the Library of the Oriental Institute, Prague.
+The collection of Tibetan texts - printed books, xylographs, and ma
+nuscripts - as kept in the Tibetan Section of the Library of the Oriental
+Institute of the Czechoslovak Academy of Sciences, is relatively small,
+both with regard to the vast extent of Tibetan literary production itself
+(canonical and non-canonical) and in comparison with much richer and
+more representative collectanea of Tibetan texts in other centres of Ti-
+betan studies in the world.
+Apart from Tibetan books printed and bound in the European way,
+such as new Tibetan publications and/or reprints of older indigenous
+works edited in recent years in China or in India', our biggest and most
+invaluable collection of Tibetan texts is represented by the complete set
+of the Holy Kanjur and Tanjur of the Derge (sDe-dge) edition, consisting
+of 316 volumes (including two index-volumes). This collection was ac-
+quired by the present writer in 1958 in the East Tibetan town of Derge
+with the Peking National Library acting as intermediary, and was subse-
+quently sent to Prague for further treatment. It has now been provided
+with two card catalogues: one basic, filed as subject catalogue within
+sections traditionally observed in the canon (analogous with the Comple-
+te Catalogue of the Tibetan Buddhist Canons, published by the Tōhoku
+Imperial University, Sendai 1934), the other auxiliary, giving Tibetan
+and Sanskrit titles in alphabetical order,
+Another collection of our Tibetica, perhaps unique in Europe, is re-
+presented by the title-leaves of numerous xylographed texts tumed out by
+the two monastie printing-houses in Derge, viz. the dGon-chen monastery
+and the dPal-spungs monastery.
+The dGon-chen Collection consisting approximately of 2,300
+titles is divided into the following twenty groups (in parentheses follows
+the total number of works belonging to each category):
+1. Zu chen tshul khrims rin chen gyi gsung 'bum (174)
+2. Gyud sde kun brus (242)
+3. sGrub thabs kun btus (353)
+4. Je rin po che'i bka' 'bum (180)
+5. Ning thig (68)
+6. Thogs med bka' 'bum sogs (51)
+7. Dwags po'i gsung 'bum (36)
+8. IDeb thung yongs rdsogs (71)
+
+
+
+9. IDeb 'bring gras (62)
+10. dPal Idan chos skyong rtogs brjod sogs (4)
+11. dPe tshan sna tshogs (135)
+12. Mi pham gyi gsung 'bum (166)
+13. sMan skor (55)
+14. mDsod bdun gsung thor bu (35)
+15. gYang tik (? tika) (14)
+16. Lam 'bras slob bśad (106)
+17. Sing rta (295)
+18. Sa skya'i gsung 'bum (136)
+19. A mes bka''bum sogs (23)
+20. E wam bka' 'bum sogs (93)
+The d Palos pungs Collection, larger in extent, but less care-
+fully arranged, consists of some 3,300 titles divided into the following
+fifteen groups
+1. g Ter udsod I (991)
+2. gTer mdsod II (309)
+3. gTer mdsod III (564)
+4. gDams mdsod I (318)
+5. gDams mdsod II (28)
+6. Ngags mdsod (79)
+7. dGongs "dus (26)
+8. mKha' kbyab I (115)
+9. mKha' khyab II (20)
+10. Pe tshan sna tshogs (460)
+11. bka' 'bum sogs (42)
+12. bsDeb chung (208)
+13. bekang sprul bka''bum I (28)
+14. brKang sprul bka' 'bum II (52)
+15. bekang sprul bka''bum III (76)
+As indicated, our library unfortunately possesses only the title-lea-
+ves of the above-mentioned collections, the cost of acquiring the com-
+plete texts of the works themselves being too considerable to be under-
+taken at the time of purchase. However, both collections are kept com
+plete in the Peking National Library (or at least were kept when the au-
+thor worked there in 1959). To facilitate the borrowing of a pertinent
+work in the Peking National Library, our title-leaves have been provided
+with the same consecutive numbers as the copies there.
+
+
+
+The Tibetan maduscripts and xylographs in the Oriental Institute Li-
+brary of which I propose to give a catalogue in the present volume num-
+ber sixty-five items altogether, of which 41 are manuscripts and 24 are
+xylographs (as of 31st December, 1967). Although the task of arranging
+them scientifically was - due to my owo narrow limitations - a difficult
+one, I tried to put all the material in as a reasonable and practical order
+as possible. From many points of view this catalogue is a tentative work,
+needed in further corrections and emendations. The following classifica-
+tion according to the matter has been adopted (numbers in parentheses re-
+fer to the respective numbers in the present catalogue):
+1. Canonical Texts and Commentaries (1-7)
+II. Later Tantrik and Ritual Texts (further subdivided into three
+groups, 8-33)
+III. Philosophical/Theological Texts (34-42)
+IV. Mystery Plays and Fairy Tales (43-47)
+V. Biographies (48-59)
+VI. Specialised Subjects (further subdivided into three groups, 60-65)
+(Among the Biographies special attention may be claimed for the
+mam-tbars of Tilopa, Náropa, Mar-pa, Mi-la-ras-pa, sGam-po-pa, Phag-
+mo-grub-pa, Gling-ras-pa, and gTsang-parGya-ras-pa. Among the texts of
+some literary value and/or ethnological interest may be mentioned: Dri-
+med-kun-Idan, Nor-bu-bzang-po, 'Gro-ba-bzang-mo, sNang-sa-'od-'bum,
+and the amatory poetry of the sixth Dalai Lama.)
+Physical description. The manuscripts and xylographs are written
+printed on paper of a varying quality (thin or thick, of two or more sheets
+stuck together, with or without embossed stamp) and differing degree of
+preservation. The folios are of widely varying sizes. Pages as a rule are
+numbered recto on the left margin; sometimes double pagination, i.e. Ti-
+betan and Chinese, is used. The writing/printing produced without excep.
+tion in an elegant dbu-can is mostly black - seldom red and differs
+greatly in the degree of legibility. The text in some cases has in addi-
+tion been variously coloured. I gave 'up all attempts to examine the natu-
+re or date of the paper used, however, there are good reasons not to over-
+estimate the antiquity of our collection (cf. the presence in the collection
+of sheets of modern Russian paper).
+There is not much to say by way of explanation of the origin of most
+of the texts described below. The majority of the Tibetan manuscripts
+and block prints now in possession of the Oriental Institute Library were
+
+
+
+donated to the latter by the Náprstek Museum of Ethnography, Prague, in
+1960-61. The Museum in its tum got most of its Tibetica from a gift pre-
+sented by Professor B. Rinchen, of Ulan Bator, in 1958 (see Appendix 4).
+Only few items - Nos. 1, 2, 34, 35, 36, and 43 - are the original property
+of the Oriental Institute; in these cases however, no information about the
+provenance of the texts is available. In the present list some Tibetan
+texts from the private collection of the author, acquired during his stay
+in China in the years 1957-59 and 1960-61 are also included. These texts
+have been deposited in the library of the Oriental Institute so that they
+may more readily serve the needs of interested scholars. These works are
+marked with an asterisk.
+In describing individual items of our collection, the following system
+has been adopted (cf. analogous system used by M. Taube in his Tibeti.
+sche Handschriften und Blockdrucke, 4 vols., Wiesbaden 1966):
+i. The basic technical data concerning the manuscript or xylograph
+edition, if known; size; number of folios and lines; sign and/or
+title(s) in the margin; illustrations, signature and accession oum
+ber).
+il. Full title(s) of the work, the name of the author (translator, edi.
+tor, etc.) and the pertinent chronological data, if known.
+iii. The commencement and ending of the text (as much as reasons
+able), or the text in extenso of the colophon, if available.
+iv. Bibliographical references.
+Note on transliteration. The transliteration of Tibetan is as follows,
+in the order of the Tibetan alphabet: ka, kha, ra, nga; ca, cha, ja, ra; ta,
+tha, da, na; pa, pha, ba, ma; tsa, tsha, dsa, wa; ža, za, 'a, ya; ra, la, sa,
+sa; ha, a.
+Abbreviations.
+Acc. no.
+fol. (foll.)
+J.K.C.
+Accession number
+Begins, Beginning
+Colophon
+Ends, End
+folio(s)
+Josef Kolmas Collection
+lines
+manuscript
+Náprstek Museum (Prague)
+11.
+MS
+N. M.
+
+
+
+0.1.C.
+Oriental Institute Collection
+recto
+verso
+xylograph or blockprint
+see J.K.C.
+
+
+
+LIST OF REFERENCE-WORKS
+Abbreviations
+BEFEO
+BHP
+JASB
+JRAS
+SBAW
+ZDMG
+Bulletin de l'École Française d'Extrême Orient
+Bulletin de la Classe historico-philologique (or,
+des Sciences historiques, philologiques et po-
+litiques) de l'Académie Impériale des Sciences
+de St.-Pétersbourg
+Journal asiatique
+Journal (and Proceedings of the Asiatic So-
+ciety of Bengal
+Journal of the Royal Asiatic Society
+Sitzungsberichte der philosophisch-philologi-
+schen und historischen Klasse der Königlich
+Bayerischen Akademie der Wissenschaften
+Zeitschrift der Deutschen Morgenländischen
+Gesellschaft
+J. Bacot, "La collection tibétaine Schilling von
+Canstadt à la Bibliothèque de l'Institut'. JA
+205 (1924), pp. 321-348.
+Trois mysteres tibétains (Tcbrimekundan,
+Djroazanmo, Nansal), traduit avec introduction,
+notes et index par J. Bacot. Paris 1921.
+J. Bacot, "Titres et colophons d'ouvrages non
+canoniques tibétains (textes et traduction)".
+BEFEO 44 (1947-50), pp. 275-337.
+H. Beckh, Verzeichnis der Hibetischen Hand-
+schriften der königlichen Bibliotbek zu Berlin.
+Erste Abteilung: Kanjur (Bkah. hgyur) (= Die
+Handschriften-Verzeichnisse der königlichen
+Bibliothek zu Berlin XXIV). Berlin 1914.
+BACOT Collection
+BACOT Mystéres
+BACOT Titres
+BECKH
+
+
+
+CHANDRA Authors
+CHANDRA Imprimeries
+CHANDRA Materials
+CONZE
+CSOMA/FEER
+CYBIKOV
+Lokesh Chandra, *The Authors of Sumbums".
+Indo-Iranian Journal 2 (1958), pp. 110-127.
+Lokesh Chandra, "Les imprimeries tibétaines
+de Drepung, Derge et Pepung". JA 249 (1961),
+PP- 503-517.
+Lokesh Chandra, Materials for a History of Ti.
+betan Literature, I-III (-Sata-Pitaka Series,
+vols. 28-30). New Delhi 1963.
+E. Conze, The Prajñāparamita Literature (=Indo-
+Iranian Monographs VI). 's-Gravenhage 1960.
+*Analyse du Kandjour, Recueil des livres sac-
+rés du Tibet, par Alexandre Csoma de Körös".
+Traduite de l'anglais et augmentée de diverses
+additions et remarques par Léon Feer. Annales
+du Musée Guimet 2 (1881), PP. 131-349.
+"Spisok tibetskim izdanijam, privezennym Gon-
+božapom Cybikovym v 1902 g. i poZertvovannym
+Muzeju I. P. Geograficeskim Občestvom" (=Mu-
+sei Asiatici Petropolitani Notitiae (curante C.
+Saleman): IVl. Bulletin de l'Académie Imperiale
+des Sciences de Saint-Pétersbourg, 5th series,
+vol. 21, no. 1 (June 1904), pp. 01-07 (19-25).
+B. D. Dandaron, Opisanie tibetskich rukopisej
+* ksilografov Burjatskogo kompleksnogo Naucno-
+Issledovatel'skogo Instituta. Vypusk 1. Moskva
+1960.
+A. David-Neel, Textes tibétains inédits. Paris
+1952.
+M. H. Duncan, Harvest Festival Dramas of Ti-
+bet. Hong Kong 1955.
+J. Filliozat, "Catalogue des manuscrits san-
+skrits et tibétains de la Société asiatique". JA
+233 (1941-42), pp. 1-81.
+A. Grünwedel, "Die Geschichten der vierund-
+DANDARON
+DAVID-NEEL
+DUNCAN
+FILLIOZAT
+GRÜNWEDEL
+
+
+
+HOFFMANN
+HTWH
+KANJUR
+KATALOG
+LALOU Catalogue
+achtzig Zauberer (Mabasiddhas)". Baessler-Ar-
+cbit 5 (1916), pp. 137-228.
+H. Hoffmann, The Religions of Tibet. London
+1961.
+Anonymous, si-tsang wen-hsüeb (Tibetan Li-
+terature). Peking 1958; mimeographed.
+Prague collection of the Tibetan Tripitaka (Der-
+ge edition). Cf. J. Kolmas, "Notes on the Kan-
+jur and Tanjur in Prague", in Archiv orientální
+30 (1962), pp. 314-317.
+Katalog knigam, rukopisjam i kartam, na kitaj-
+skom, want'Eurskom, mongol'skom, libelskom
+i sanskritskom jazykach, nachodjaščimsja v bib-
+lioteke Azijatskago de parlamenta. Sanktpeter-
+burg 1843.
+M. Lalou, Catalogue du Fonds tibétain de la
+Bibliothèque Nationale. Quatrième Partie. I.
+Les Mdo-man (= Buddhica, 2nd series: Docu-
+ments, vol. 4). Paris 1931.
+M. Lalou, "La version tibétaine des Prajnapara-
+mita". JA 215 (1929), PP. 87-102.
+B. Laufer, "Verzeichnis der tibetischen Hand-
+schriften der Königlichen Bibliothek zu Dres-
+den". ZDMG 55 (1901), pp. 99-128.
+L. Ligeti, Catalogue du Kanjur mongol imprimé
+(=Bibliotheca Orientalis Hungarica III). Buda-
+pest 1942.
+J. van Manen, "A Contribution to the Bibliogra-
+phy of Tibet". JASB, New Series, vol. 18 (1922),
+no. 8, pp. 445-525.
+R. O. Meisezahl, "Tibetische Prajñāparamitā.
+Texte im Berischen Historischen Museum".
+Libri 13 (1964), pp. 215-252.
+R. O. Meisezahl, "Die tibetischen Handschrif-
+LALOU Version
+LAUFER
+LIGETI
+MANEN
+MEISEZAHL Bern
+MEISEZAHL Stuttgart
+
+
+
+ten und Drucke des Linden-Museums in Stutt-
+gart". Tribus (Veröffentlichungen des Lindeo-
+Museums) 7 (1957), pp. 1-166.
+NAGY
+L. J. Nagy, Tibetan Books and Manuscripts of
+Alexander Csoma de Kõrös in the Library of the
+Hungarian Academy of Sciences (-Dissertatio-
+nes Sodalium Instituti Asiae Interioris 1.). Bu-
+dapest 1942.
+NEBESKY-WOJKOWITZ R. de Nebesky-Wojkowitz, Oracles and Demons
+Oracles
+of Tibet. 's-Gravenhage 1956.
+NEBESKY-WOJKOWITZ R. M. von Nebesky-Wojkowitz, "Tibetan Block-
+Vienna
+prints and Manuscripts in possession of the Mu-
+seum of Ethnology in Vienna". Archiv für Völ.
+kerkunde 13 (1958), pp. 174-209.
+OTANI
+A Comparative Analytical Catalogue of the Kan-
+jur Division of the Tibetan Tripitaka. Kyoto:
+Otani University Library, 1930-1932.
+PATNA
+The Catalogue of the Tibetan Texts in The Bi-
+bar Research Society, Pama. Vol. I (Miscella-
+neous Series). Edited by Aniruddha Jha. Com-
+piled by Shri Gopi Raman Choudhary. Published
+by The Bihar Research Society, Patna (1965?).
+RINCHEN
+B. Rinchen, Catalogue of Printing Blocks of
+Buddhist Monasteries in Transbaikalia. In: Four
+Mongolian Historical Records (= Sata-Pitaka Se-
+ries, vol. 11). New Delhi 1959, pp. 71-121.
+SCHIEFNER Bericht A. Schiefer, "Bericht über die neueste Bücher-
+sendung aus Peking". BHP 9 (1852), no. 1, pp.
+10-14, and no. 2, pp. 17-32.
+SCHIEFNER Nachträge A. Schicfaer, "Nachträge zu den von O. Böhe-
+lingk und I. J. Schmidt verfassten Verzeichnis-
+sen der auf Indien und Tibet bezüglichen Hand-
+schriften und Holzdrucke im Asiatischen Muse-
+um der Kais. Akademie der Wissenschaften".
+BHP 5 (1848), no. 10, pp. 145-151.
+
+
+
+SCHIEFNER/RALSTON Tibetan Tales derived from Indian Sources.
+Translated from Tibetan of the Kah-Gyur, by
+F. A. Schickner. Done into English from the
+German with an introduction by W. R. S. Rals-
+ton. London 1906.
+SCHLAGINTWEIT E. Schlagintweit, "Die tibetischen Handschrif-
+München
+ten der königl. Hof- und Staatsbibliothek zu
+München". SBAW 2 (1875), Heft I., pp. 67-88.
+SCHLAGINTWEIT E. Schlagintweit, "Verzeichnis der tibetischen
+Stuttgart
+Handschriften der Königlich Württembergischen
+Landesbibliothek zu Stuttgart". SBAW 1904, pp.
+245-270.
+SCHMIDT/BOEHTLINGK 1. J. Schmidt und O. Boehtlingk, "Verzeichniss
+der Tibetischen Handschriften und Holzdrucke
+im Asiatischen Museum der Kaiserlichen Aka-
+demie der Wissenschaften". BHP 4 (1847), nos.
+6-8, pp. 81-125.
+SENDAI
+A Catalogue of the Toboku University Collec-
+tion of Tibetan Works on Buddbism, edited by
+Yensho Kanakura, Ryujo Yamada, Tokan Tada,
+and Hakuyu Hadano. Sendai 1953.
+STEIN
+R.-A. Stein, Recherches sur l'épopée et le bar
+de au Tibet (= Bibliothèque de l'Institut des
+Hautes Études Chinoises, vol. XIII). Paris 1959.
+TANJUR
+see KANJUR
+TAUBE Handschriften M. Taube, Tibetische Handschriften und Block-
+drucke. 4 vols. (Verzeichnis der orientalischen
+Handschriften in Deutschland XI/1-4). Wiesba-
+den 1966.
+TAUBE Verzeichnis M. Taube, "Verzeichnis der Tibetica des Leip-
+ziger Völkerkundemuseums". Jabrbuch des Mu-
+sem für Völkerkunde zu Leipzig 17 (1958),
+Pp. 94-139.
+TOHOKU
+A Complete Catalogue of the Tibetan Buddbist
+Canons (Bkah-hgyur and Bstan-hgyur).
+19
+
+
+
+TUCA
+TUN-HUANG
+WADDELL
+WALSH
+WANG
+A Catalogue-Index of the Tibetan Buddhist Ca-
+nons. Edited by Hakuju Ui, Munetada Suzuki,
+Yensbð Kanakura, and Tokan Tada. Sendai: The
+Tohoku Imperial University, 1934.
+G. Tucci, Tibetan Painted Scrolls. Vols. 1 and
+2. Roma 1949.
+Catalogue of the Tibetan Manuscripts from Tun
+buang in the India Office Library, by the late
+Louis de la Vallée Poussin. London 1962.
+L. A. Waddell, The Buddhism of Tibet or La-
+maism. 2nd edition, Cambridge 1959 (reprinted).
+E.H. C. Walsh, "A List of Tibetan books brought
+from Lhasa by the Japanese Monk, Mr. Ekai Ka-
+wa Gochi". JASB 73 (1904), Part I, no. 2, pp.
+118-177.
+Wang Yao, "Tsang-tsu min-chien hsi-chü ku-shih"
+(Folk stage-plays of Tibet), Cb'ing-bar by. Hsi-
+ning 1958, nos. 1-6.
+H. Wenzel, "List of the Tibetan MSS. and Print-
+ed Books in the Library of the Royal Asiatic
+Society". JRAS 1892, pp. 570-579.
+Three Tibetan Mysteries (T cbrimekundan, Nan-
+sal, Djroazanmo) As performed in the Tibetan
+Monasteries. Translated from the French ver-
+sion of Jacques Bacot by H. 1. Woolf. London
+(1924).
+Akira Yuyama, Indic Manuscripts and Chinese
+Blockprints (non-Chinese texts) of the Oriental
+Collection of tbe Australian National Universi-
+ty Library, Canberra (- Occasional Paper No.6).
+The Australian National University - Centre of
+Oriental Studies, Canberra 1967.
+WENZEL
+WOOLF
+YUYAMA
+
+
+
+CATALOGUE OF TIBETAN MANUSCRIPTS
+AND BLOCKPRINTS IN THE LIBRARY OF THE
+ORIENTAL INSTITUTE, PRAGUE
+
+
+
+1. CANONICAL TEXTS AND COMMENTARIES
+No. 1
+X (Chinese edition), 62 x 14 cm. Foll. 297 (incomplete, foll. 124 and 133-
+136 incl. are wanting). Lines 6 (1v, 2r) and 8. Fol. 296 recto 6 11., verso
+black. End-leaf (unnumbered): recto illustrated with paintings of five de-
+ities, verso blank. Numbering in the left side both in Tibetan (recto) and
+Chinese numerals [both recto (sbang) and verso (bsia)]. Printed on stout
+paper, black and red. Sign in the left margin (starting from 3r): cbia fin
+Chinese) and KA. Title in the left margin (in Chinese): San p'an jo (only
+lv and 2r). Illustrations: 1v-Sa sa ja ba shad pa (sic, left), Ka kya mu ne
+(sic, centre), Ngd brun dan pa (sic, tight); 2r - Dab 'phyod lan mo (sic,
+left), se ra'i 'ul na ma (sic, right). -0.1.C. XyT 3, Acc. no. 2535/67.
+'phags ba (read: po) Ses rab kyi pha rol tu phyin pa brgyad stong pa fes
+bya ba bług(s )sho
+Astasahasrika-prajñāpāramita. Translated and revised by Sakyaseoa et al.
+B (1v1-2) 7agya gar skad du/ arya asta sa ha sri ka bradsňa bi ra mi
+ta/ bod sgad (read: skad) du/ 'phags pa ses rab kyi pha rol tu phyin pa
+brgyad stong pa/ bam po dang po/ /sangs rgyas dang byang chub sems
+dpa' dang/
+C (294v1 - 2952) //bcom ldan 'das ma 'phags pa Ses rab kyi pha rol tu
+phyin pa brgyad stong pa rdsogs so// // /rgya gar gyi mkhan po sakya
+sa (read: se) na dang dsila na siddhi dang zu chen gyi lo tstsha ba 'ban
+de dharma ta si la la sogs pas bskyar (read: bs gyur) cing Zus te gtan la
+phab/ slad kyis dbang phyug dam pa'i mnga' bdag bod kyi dbal (read:
+dpal) lha bts an po bkra šis Iba ste btsan gyi bkas/ rgya gar gyi mkhan
+po subba şi fa dang/ sgrabs gyur gyi lotstsha badge sloog rin chen
+bzang pos 'grel pa dang mthun par bsgyur/ slad kyis rgya gar gyi mkhan
+po pandita chen po di par ka ta sri dsa na dang/ Zu chen gyi lo tstsha
+badge slong rin cben bzang pos yul dbus kyi 'grel pa dang gtugs nas
+bcos sing zus te gtan la phab/ yang slad kyis kyi smad gåetha da (read:
+għe thang) na mo chet/ pandi ta chen po di pani ka ra Sri sila na dang/
+
+
+
+lo tstsha ba 'brom rgyal ba'i 'byung gnas gris kyis brgyad stong pa bśad
+ba'l (read: pa'i) dus su che long zig gtan la phab/ phyi sar (read: phyis
+ra) sgreng gtsug lag khang du lo tstsha ba 'brom rgyal ba'i 'byung gnas
+kyis rgya gar gyi mdo gsum dang gdugs (read: gtugs) nas lan găis gtan la
+phab/ slad kyis yang lo tstsha ba de Did kyis bsad pa mdsad cing phran
+tshegs kyang gtan la phab/ dus phyis lo tstsha ba chen po sakya'i dge
+slong blo Idan ses rab kyis kha che'i dpe dang yuldbus kyi dpe du ma
+bsags nas gran la phab/ slar yang snigs dus kyi thams cad mkhyen pa
+chen po/ za lu lo tstsha ba dpal rin chen cbos skyong bzang po'i zal
+snga nas kyis/ rgya bod kyi dbe (read: dpe) du mas bstun nas Sin tu ram
+par dag par mdsad pa'i ma phyi dang/ rgya dpe gñis dang/ bod dpe par
+ma mnams (295t) //la gdugs (read: grugs) te/ säkya'i dge sloug mngalis
+rab 'byams pa dpal 'byor reyal misban dang/ skad gris smra ba'i btsun
+pa kan dga' cbos bzang gñis kyis/ zus dag bgyis pa'i dpe par ma la gtugs
+terðam (read: tnam?) dbyod (read: dpyod) dang Idan pa du mas lan mang
+du žus sing dag par byas pa'o/ // (The following, 295r3 - 29616, is a
+concluding stanzaie prarthana.)
+CE. KANJUR, Ses-phyin, brGyad-stong, KA (vol. 33, no. 12). CSOMA/FEER II 5
+(p. 200). BECKH II 19 (pp. 8-9). OTANI 734. TOHOKU 12. LIGETI 766. - BACOT
+Collection 3517-3519. DANDARON 29. KATALOG 525. LALOU Version, pp. 92-
+93. MEISEZAHL Bern, pp. 237-242. MEISEZAHL Stuttgart, Preface 75219 Nr. 1
+and 2 (pp. 2-3); U 72159, 72160. RINCHEN 1558. SCHMIDT/BOEHTLINGK 194-
+202. SENDAI 6758. TAUBE Handschriften 4, 5A, 6. WALSH 64. - For further bib
+liographical references, see CONZE Pp. 51-57.
+No. 2
+MS, 19.3 x 7.3 cm. Foll. 24 (beginning and end incomplete). Folios num-
+bered: 12, 21, 25-27, 29, 32 and 33 (a single folio), 34, 37-39, 41 (two fo-
+lios), 42, 43, 49, 69, 76, 90, 93, 95, 97-99. Four lines a page. Very fine-
+ly written in golden dba-can on black lacquered paper. Sign in the left
+margin (recto; on foll. 90 and 99 missing): KA. - O.L.C. RT I, Acc. no.
+2536/67.
+No title
+Vajracchedikä-prajñāpāramita.
+
+
+
+B (12r1-2) ... //'jug gam/ gang zag tu 'du ses 'jug na/
+E (99v3-4) //'pbags pa ses rab kyi pha rol du (read: tu) pbyin pa rdo rje
+gcod pa zes bya ba theg pa chen po'i mdo ...
+CE. KANJUR, Ses-phyin, Ses-rab sna-t shogs, KA, ff. 1211 - 132 (vol. 34, no. 16).
+CSOMA/FEER II 6/V (p. 201). BECKH 11 24/5 (p. 10), OTANI 739. TOHOKU 16.
+LIGETI 771.- BACOT Collection 3532-3535 and 3579 II. (see also p. 348). DAN-
+DARON 65. FILLIOZAT 42A-D. LALOU Catalogue 109. LALOU Version p. 95.
+LAUFER 11-27. MEISEZAHL Stuttgart T 72433 Nr. 1; U 71356-8, 71359 Nr. 1,
+72189; W 110414 Nr. 1. PATNA 1252(?). SCHIEFNER Bericht 119 (p. 11). SCHLA
+GINTWEIT Handschriften IV 1 (pp. 86-87). SCHLAGINTWEIT Verzeichnis 9.
+SCHMIDT/BOEHTLINGK 203-213 and 497. SENDAI 6762-3, 6773. TAUBE Hand-
+schriften 17-44 and 2968. TAUBE Verzeichnis F III 22, F III 38. TUN-HUANG
+100/2, 170-176, 617/1. WALSH 61. WENZEL pp. 571 and 575. YUYAMA no. II.
+Tibetan text of the V. with German translation, "Über das Mahajana und Prad-
+schna-Päramit der Bauddhen", edited by I. J. Schmidt in the Mémoires de l'Aca
+démie Impériale des Sciences de Saint Petersbourg, Vime série, tome 4 (1837),
+pp. 123-229 (not seen). -For further bibliographical references on the Tibetan
+version of the V., see CONZE pp. 64-70, and by the same author, Vajracchedika
+Prajaparamita (Serie Orientale Roma XIII, 1957), especially pp. 16-21. See
+also YUYAMA, especially pp. 70-73 and 122-124.
+No. 3
+X (Buryat edition - Cugolsk Monastery)', 44 x 9 cm. Foll. 16 (complete),
+11. 5. Very finely printed on stout Russian paper, black and red. Abbre-
+viated title in the left margin (recto): Yum gyi sa bcad.-O.I.C. XyT 4
+Acc, no. 5442/61; presented by N.M. (6847b).
+Ser phyin yum stong phrag brgya pa dngos po brgyad du bsgrigs pe'i sa
+bead bugs so
+Satashastik-prajñāpāramita: a synoptic table of eight subjects, by Blo
+bzang-tshul-khrims (1740-1810). Edited by Ngag-dbang-blo-bzang-skal-
+sbyin in the lcags-rla year (1810/70).
+B (lv) //blo mchog mams kyi kun dga' ra ba ste/
+
+
+
+E (1664-5) chos vid mi 'gyur ba bstan pa'i le'u ste bdun cu găis pa'o//
+ies pa'i bar te rdsogs so//
+C (16v5) //dge bées blo bzang tsbul kbrims kyis/
+Indsad pa'i yum gyi sa bcad 'di/
+Ingag dbang blo bzang skal sbyin gyis/
+/lcags rta smin drug tsbes bzir spel// //
+CE. CHANDRA Materials II 9343 (p. 438b). RINCHEN 375. - For a basic text of
+the Tibetan version of the s., see KANJUR, Ses-phyin, 'Bum, KA-DA, and A
+(vols. 14-25, no. 8 = TOHOKU 8). Tibetan text of the S. partly edited by P. Gho
+$a, Bibliotheca Indica (Tibetan Series), 3 vols., Calcutta 1888-1900. For further
+references concerning the s.. see CONZE pp. 37-40, and MEISEZAHL Bem pp.
+219-231.
+No. 4
+X (Buryat edition - Cugolsk Monastery), 44 x 9 cm. Foll. 10 (complete),
+11. 5. Very finely printed on stout Russian paper (embossed stamp: Kosio-
+skoj Fabriki Rjazancevych No. 6), black and red. Title in the left margin
+(recto): Ni kbri'i sa bead. -O.L.C. XyT 5, Acc, no. 5442/61; presented
+by N.M. (6847b).
+& phyin song phrag ii <u Inge po dngos po brgyad don bdun Cur phy •
+nas bsgrigs pa'i sa bcad béugs so
+Pañcavimśatisahasrika-prajñápāramita: a synoptic table of eight subjects
+and seventy topics, by Blo-bzang-tshul-khrims (1740-1810). Edited by
+Ngag-dbang-blo-bzang-skal-bzang-sbyin-pa in the leags-rta year (1810/70).
+B (1v1) 7/kun 'byung mun pa'i sa bon mahar mdsad cing
+E (10v4) yongs su gtad pa'i le'u ste bdun cu drug pa'o// /
+C (10v5) dge ba'i bấes gåen blo bzang tsbul kbrims kyis/
+/bs grigs pa'i ser phyin xi kbri'i sa bcad 'di/
+Ingag dbang blo bzang skal bzang sbyin pa zer/
+Icags rta smin drug bzang po gåis par spel// //
+
+
+
+CF. CHANDRA Materials II 9344 (p. 438b). RINCHEN 376. - For a basic text of
+the Tibetan version of the P., see KANJUR, Ses-phyin, Ni-chri, KA, KHA, and
+A vols. 26-28, no. 9 - TOHOKU 9). For further references concerning the P.,
+see CONZE PP. 40-45, and MEISEZAHL Bem Pp. 232-237.
+No. 5
+X (Buryat edition - Cugolsk Monastery), 44 x 9 cm. Foll. 11 (complete),
+II. 5. Very finely printed on stout Russian paper (embossed stamp: Kosin-
+skoj Fabriki Rjazancevych No. 6), black and red. Title in the left margin
+(recto): bryad stong sa bcad. -0.1.C. XyT 6, Acc. no. 5442/61; pre-
+sented by N.M. (6847b).
+Ser phyin brgyad stong pa dngos po brgyad don bdun cur bagrigs pa'i sa
+bcad bíugs so
+Astasahasrikä-prajnaparamita: a syaoptic table of eight subjects and se
+venty topics, by Blo-bzang-tshul-khrims (1740-1810)." Edited by Ngag.
+dbang-blo-bzang-sbyin-pa in the Icags-rta year (1810/70).
+B (Iv) //na mo gu ru/ smra bsan bejod med ses rab pha rol phyin/
+C(11v3-5) //rgya gar gyi mkhan po śäkya se na sogs kyis lan dgu'i bar
+du Eus dag mdsad pa'i bs gyur byang dang/ tabla ma ses rab rgya mtsbos
+par du blengs pa'i par byang Icang skya rol ba'i (read: pa' ordo rjes mdsad
+pa dang bcas pa rdsogs soll
+1/dge ba'i bses goen blo bzang tsbullbrims pas/
+/bsgrigs pa'i ser phyin brgyad stong sa bcad 'di/
+Ingag dbang blo bzang skal bzang sbyin pa rang/
+/cags rta dbyug pa zla ba'i der bdun spel// //
+CE. CHANDRA Materials II 9345 (p. 438b). RINCHEN 377. - For a basic text of
+the Tibetan version of the A., see KANJUR, Ses phyin, brGyad-stong, KA (vol.
+33, no. 12 - TOHOKU 12). For further references see No. 1 in this Catalogue.
+
+
+
+No. 6
+X (Buryat edition - Cugolsk Monastery), 44 x 9 cm. Foll. 41 (complete),
+II. 5 (end-leaf, verso blank). Very finely printed on stout Russian paper,
+black and red. Title in the left margin (recto). Ser sving mam bsad. -
+O.L.C. XyT 7, Acc. no. 5442/61; presented by N.M. (6847b).
+ſes rab sõing po'i mam bấad zab mo'i de kho na xid gsal bar byod pa'i
+Ni ma ses by a ba bíugs so
+Elucidation of the essentials of the Prajñáhrdaya, by Grags-pa-bśad-sgrub
+(1675-1748) of Co-ne in the Icags-pbag year (1731). Edited by Da-na'i
+ming-can in the Icags-rta year (1810/70)." Scribe Kun-dga-rin-chen.
+B (lv) //na mo gu ru mandsu gho sa ya/ rten 'brel zab moji bio gzigs
+nas ni/
+C (4182-5) //ces pa 'di ni dad Idan mam dpyod Idan pa'i gnas brtan grags
+pa dpal 'byor gyis nan cher bskul ba la brten nas/ co ne'i mdo angags
+zung 'brel gyi bla ma'i go sar gnas pa'i fákya'i dge slong rigs pa smra
+ba don gyi dbu ma par rlom pa grags pa bsad sgrubkyis bakul ba po'i ago
+dang/ phan yon la bsams te lcags phag gi lor gzims khang didas sbyar
+ba'o/ /yi ge pa ni dad stobs Idan pa'i gnas betan kan dga' rin cben no//
+// ses rab sving po'i rnam bśad 'di/
+/btsun chung da na'i ming can gyis/
+/lcags rta grožun (read: bzin) tshes brgyad la/
+/chos sbyin spel phyir par du bkod// //
+CE. RINCHEN 378.
+No. 7
+X (Buryat edition - Gusinoe ozero Monastery)", 45 x 9 cm. Foll. 61 (com-
+plete), 11. 6 (lv - 58 ) and 5 (59-611); end-leaf, verso 2 11. Printed on
+good Russian paper. Title in the left margin (recto): sMan bla. Two por
+traits on fol. Tv: Sakya thub pa la na mo (left), and sMan bla la na mo
+(right). -0.1.C. XyT 8, Acc, no. 5442/61; presented by N.M. (6847b).
+
+
+
+sMan bla'i mdo chog'don bzur (read: zur) du bkol ba yid búin dbang rgyal
+ies bya ba
+An explanation of various vidhis, etc., of sMan-bla (Bhaişajyaguru),
+based on Nga g-dbang-blo-bzang-rgya-mtsho's (1617-1682) work, bDe gśegs
+bdun gyi mcbod pa'i cbog sprigs yid béin dbang rgyal (? CE. SENDAI 5644).
+Edited by ICang-skya Rol-pa'i-rdo-rje (1717-1786).
+B (1v1) //gang gi khyad pat smon lam tshangs pa'i dbyangs)
+E (60r2 - 61v2)
+//'jig rten kun gyi ma 'dris mdsa' bses mchog
+/ston pa mňam med thub pa'i dbang po dang/
+/snigs ma'i mgon po bder gśegs mched bdun la/
+/deng nas byang chub har du gus pas 'dud/
+/gang de'i thugs tje bskul ba'i cho ga'i tshul/
+/mdo don ji bžin mkhan chen zi ba 'tshos/
+/legs par phye ba'i bka' srol dri ma med/
+/mchog dman kun gyi lag tu blang bde bar/
+/rgyal ba kun dngos (60v) phyag na padmo yi/
+/thugs rje'i rang gzugs loga rig thams cad mkhyen/
+/rnam 'dren ngag dbang blo bzang rgya misho yis/
+Imchod chog yid bãin dbang gi rgyal po spel/
+/tshul ngos chos sbyin sgo 'phya 'gyed pa'i phyir/
+Igso rig smra la 'gran zla ma mchis pa'i/
+/dar han em chi 'jam dbyangs rgyal mtsban gyis/
+/lhag bsam dag pa'i gsung gis bskul ba bzin/
+/mthen po'i rigs las son zing dang gtong sogs/
+/yon tan rgyan gyis mdses pa'i sby in bdag che/
+/tă wang bsod nams rab brtan zes bya bas/
+Vrgyu skyen sbyar te bkod legs spar du sgrub/
+/'dir 'bad pa las byung ba'i bsod nams tshogs/
+/ston zla'i dpal la 'khu ba ci mchis pas/
+(616)//bder gśegs bdun gyi sngon gyi smon lam rams/
+/bdag cag rnams la magon du 'gyur bar sog
+/byed po mnams kyang tshe rabs thams cad du/
+/dal 'byor rten thob dam pa'i bốes kyis zin/
+/theg mchog lam la thos bsam sgom pa yis/
+/myur bar byang chub mchog la reg gyur cig
+
+
+
+/'jig rten khams su mi mthun rgud pa'i tshogs/
+/kun du zi zing thub pa'i bstan pa dar/
+/phun tsbogs 'byor pa dbyar gyi mtsho Itar 'phel//
+//bkra sis dge mtshan chen pos khyab gyur cig/
+//ces sman bla'i mdo chog yid bin dbang rgyal gyi 'don cha zur du bkol
+nas (61) sogar du grub pa'i kha byang Ita bu zig dgos tes ta bla ma dar
+ha na em mchi jam dbyangs rgyal misban gyis bakul ba bin/ Icang skya
+rol pa'i rdo rjes sbyar ba dge legs su gyur cig/ //
+CF. BACOT Collection 3560. RINCHEN 41. SCHMIDT/BOEHTLINGK 483 and
+496. CE. also TAUBE Handschriften 1254.
+
+
+
+II. LATER TANTRIK AND RITUAL TEXTS
+1. Rab.gnos and sGrub-thabs (mNgon-rtogs)
+No. 8
+MS, 33 x 9.3 cm. Foll. 28 (complete), 11. 3 (ly, 2c), 5 (2v, 27v, and each
+recto side starting from fol. 3r), and 6 (each verso side starting from fol.
+3v, except fol. 27v). End-leaf: recto 4 11., verso blank. Written in large
+and small dba-car, variously coloured. - O.I.C. RT 2, Acc. no. 4520/60;
+presented by N.M. (9/59).
+Ta mgringsang sgrub kyi sgo nas rab gnas byed tshul byin rlabs rol
+mtsha ies bya ba bíugs so (sign OM superscribed)
+Hayagrīva-pratiştha-vidhi, by Dharma vajra (1737-1802) in skyed-mos-tshal
+hermitage in the phar-ba/lcags-glang year (1781)." Scribe Blo-bzang-kun-
+dga'.
+8 (1v1) //'khor lo'i mgon po rol pa'i rdo rje dang/
+C (27v4 - 28r4) //ces rta mgrin gsang sgrub kyi sgo nas rab gnas byed
+tshul by in rlabs rol mtsho zes bya ba 'di ni rab gnas kyi cho ga du ma
+dang/ dam vºi Phyat bies mthong brgyud bằin rang van la phan do
+kyi bsam pas besun gzugs dbarma badsra gyis/ (28r) //'phar ba żes pa
+Icags mo glang gi lo dbyar dus kyi dga' lang tsho dar la babs pa na/
+bskyed (read: skyed) mos tshal gyi bsti gnas yid dga' chos 'phel du sbyar
+ba'i yi ge pa ni or du su dge slong blo bzang kan dga' bgyis pa sarba dsa
+yantu// mangga lam// bkra śis par 'gyur cig//
+CF. CHANDRA Materials I 4585 (p. 222b). RINCHEN 490(?)
+
+
+
+No. 9
+MS, 34.5 x 11 cm. Foll. 9 (complete), 11. 7 (end-leaf, verso 4 11.). Written
+in large and small dbw.can on stout Russian paper (embossed stamp: Ko-
+sinskoj Fabriki Rjazancevych No. 3); variously coloured. - O.I.C. RT 3,
+Acc. no. 4520/60; presented by N.M. (9/59).
+mKhan chen chos kyi rgyal po'i gsung 'bum las lo ma gyon ma'i sgrub
+thabs ner cho (read: 'tshe) kun sel bi har mi ta
+Pamasabari-sadhana, by mKhan-chen Chos-kyi-tgyal-po Blo-bzang-bstan-
+'dsin-rgyal-mtshan (1639-1704)," in the sing-byi year (1684).
+B (1 v1-2) 7/na mo guru su ma ti dharmma dwa tstsha sri bhadra ya/
+rab 'byams rgyal ba'i mkhyen brtse'phrin las mams/
+C (8v6 -9v1) ces lha mo'i ri khrod ma lo mo (read: ma) gyon ma'i sgrubs
+thabs ver 'tsbe kun sel Zes bya ba 'di ni dad ldan gyi slob ma dge slong
+wgag dbang rgya misbos 'di Ita bu dgos zes bakul pa la beten nas brgya
+rtsa sogs rgya gzung dang/ khyad par rje de Aid kyis mdsad pa'i sgrub
+thams yid bzin du bdag 'dra ba'i sgrub thabs (9) //rtsom pa ni/ sa skya
+pan cben gyis/
+'gro mgon sangs rgyas bzugs bzin du/
+ston pa géan la gźan la gug byed dang/"
+yan lag begyad Idan chu 'gram du/
+bo tshwa'i khron pa brko ba bzin/
+žes gsungs pas dper song na'ang/ bskul ba po'i 'dod pas sgrub thabs
+mang bas phyogs dang mi 'gal par (read: bar) byas sing/ khyad parrje de
+nid kyis mdsad pa'i sgrub thabs gżir béag nas/ bum chog sogs bla ma dam
+pa'i gsungs rgyun Itar 'grigs nas/ nams bskos dsing gir rgyal po'i rigs las
+an chen phyors thams cad las ram par rgyal ba khams gsum
+chos kyi rgyal po don gyi slad du mtshan nas smos te/ rje besun blo bzang
+cbos kyi rgyalapan dpal bzang po'i zal snga nas dang/ rgigs (?!) dkyil
+"khor kun syi bdag po rdo rje 'chang chen po'i dkon mchog rgyal mishan
+gðis kyis (read: kyi) tabs du spyi bor len cing/ gsung gis bdud resi'i
+myong pa'i (read: ba'i) Iha'i btsun pa/ blo bzang bstan'ds in gyi rgyal
+misban gyis Sing pho byi ba'i hor zla bcu găis pa'i tshes la spyar pa'i
+dge ba'i ma gyur sems can thams cad phyi nang gi ver cho'i (read: 'tshe'i)
+
+
+
+thams cad las rgyal nas bide ba can du thogs pa med par (9) 'gro bar gyur
+cig/ (The following, 9v1-1, is a dhåran called 'phags ma Ri khrod ma lo
+ma gyon ma'i gzungs.")
+Cf. CHANDRA Materials II 6921 (p. 338b) and 8585 (p. 111a).
+No. 10
+MS, 30.5 x 9 cm. Foll. 4 (complete), Il. 6 (end-leaf: recto 4 11., verso
+blank). Written in dbw.can. -0.1.C. RT 4, Ace, no. 4520/60; presented
+by N.M. (9/59).
+Phyag rdor gos sngon can gyi bsgrub (read: sgrub) thabs bíugs so
+Vajrapani-nilambatadhara-sadhana.
+B (vl) //phyag na rdo rje grub par 'dod pas/ skyabs "gro sems bskyed
+sogon du 'gro bas/
+E (44) dam tshig pa mams rang did la thim par gyur/ dge'o/ bkra sis
+dpal 'bar'dsam gling begyan du byon//
+CE. TAUBE Handschriften 889(?). TAUBE Verzeichnis F III 13. - A variant text
+of this sidhana partly edited, translated and provided with a commentary by S.
+Hummel, Elemente der Tibetischen Kunst (= Forschungen zur Völkerdynamik Zen-
+tral- und Ostasiens, Heft 3), Leipzig 1949, PP. 61-73 and 83 (text).
+No. 11
+MS, 28.5 x 8.2 cm. Foll. 3 (complete), 11. 7 (end-leaf: recto 2 II., verso
+blank). Written in db-cdn on a paper made of two sheets stuck together. -
+O.I.C. RT 5, Acc. no. 4520/60; presented by N.M. (9/59).
+Phyag rdor gyi mngon togs bugs so (sign KA superscribed)
+
+
+
+Vajrapāņi-sadhana, by Ngag-dbang-blo-bzang-chos-ldan (1642-1714)."
+B (1 v1-2) //bla ma dang dpal phyag na rdo rje'i lha tshogs la phyag 'tshall
+lo/ /'dir phyag na rdo rje'i sgrub thabs bsgom par 'dod pas/
+C (3r1-2) /ces pa 'di ni don gået can'ga' zig gi bskul ba'i ngor/ sňoms
+las pa ngag dbang blo bzang cbos Idan gyis pa'o/ dge'o/ mangga lam
+legs sho// bkra sis/
+CF. CHANDRA Materials 1 3731 (p. 189a) and III 14558 (p. 635b).
+2. Tshogs-mchod, sByin-sreg, and gSol-'debs
+No. 12
+MS, 19.7 x 7.5 cm. Foll. 9 (complete), 11. 5 (end-leaf: recto 2 II., verso
+blank). Very finely written in large and small dbu-can on stout Russian
+paper (embossed stamp: Fabriki Naslednikov Sumkina No. 7).-O.L.C.
+RT 6, Acc. no. 4520/60; presented by N.M. (9/59).
+mGon po yid bfin nor bu'i tshogs chod (read: mchod) bya ba'i tshul ni
+A ceremony in honour" of the mgon-po Yid-bzin-nor-bu (Cintämaņi-nätha).
+B (1 v1-2). //or swa stwi/ bla ma mgón po dbyer med la/ /gus pas chen
+pos rab brud nas/
+E (845 - 9r2) /tgyun du mchod cing gsol ba 'debs legs na// (9r) //skad
+cig tsam yang ma yel grogs mdsad cig/ //
+No. 13
+MS, 22.3 x 8 cm. Foll. 4 (complete), 11. 5 (title-leaf, verso 6 11.; end-leaf:
+recto 4 11., verso blank). Written in large and small dbw.can; variously co-
+loured. - O.L.C. RT 7, Acc. no. 4520/60; presented by N.M. (9/59).
+
+
+
+Myur mdsad mgon po'i tshogs mchod bługs so
+A ceremony in honour of Myur-mdsad-mgon-po (Kurukulle-natha).
+B (1v1) 7/mgon po phyag drug gi tshogs mchod 'bul tshul/ /tsbogs gtor
+ma rdsas dang yo by ad spyan gzigs sogs/
+E (42-4) Ees lhag ma bongo/ mjug turgyas btab te/ bsngo ba smon lam
+ci rigs bya/ sis brjod nas me tog gi char babs par bya'o//
+No. 14
+MS, 21.6 x 7.7 cm. Foll. 2 (complete), numbered: fol. lv. găis, fol. 2r gsum.
+Lines 4 and 5 (end-leaf, verso 6 11.). Written in dbu-can. -0.1.C. RT 8,
+Acc. no. 4520/60; presented by N.M. (9/59).
+sGrol ma'i tshogs mchod
+A ceremony in honour of sGrol-ma (Tarà), by mKhas-grub thams-cad-
+mkhyen-pa."
+B (1v1-2) //ces rje btsun sgrol ma'i tshogs 'khor 'bul bar 'dod pas/
+tshogs 'khor yo byad bśams la/ 'di skad do//
+C (2v5-6) ces mbas grub thams cad mkbyin (read: mkbyen) pa'l (read:
+pas) mdsad pa'o// dga'o (read: dge'o)// mchog stsal du gsol//
+No. 15
+X (Buryat edition - Gegetuevsk Monastery?), 30.8 x 9.3 cm. Foll. 6 (com
+plete), 11. 4 (1v, 2r) and 6 (end-leaf, verso blank). Printing blurred and
+partly damaged, paper made of two sheets stuck together. - O.I.C. XyT 9,
+Acc. no. 4520/60; presented by N.M. (9/59).
+(Hardly recognisable) Bla ma mchod pa'l tshogs mchod bugs so
+
+
+
+A ceremony in honour of the Lamas, by mKhas-grub-sangs-rgyas."
+B (1v1-2) V/om ah hūm/ lan gsum/ ngo bo ye ses la mam pa nang mchod
+C (66) /cas (read: ces) brjod/ mabas grub sangs rgyas kyi (read: kyis)
+mdsad pa'o// //
+C. RINCHEN 1550 (5 foll.!). SCHMIDT/BOEHTLINGK 427/1. and 2. (?) and 428(?).
+No. 16
+MS, 28.8 x 8.6 cm. Foll. 7 (complete), 11. 7 (end-lcaf, verso 3. 11.). Written
+in dbu-can on a paper made of three sheets stuck together. - OL.C. RT 9,
+Acc. no. 4520/60; presented by N.M. (9/59).
+Cha gsum gyi cho ga mchod gtor inams bzugs sho (sign KA superscribed)
+On the tripartite offering.(?)
+B (Ivi-2) //bla ma dang lhag pa'i phyag 'tshal lo/ 'dir cha gsuri gtor
+ma zur du byed par 'dod na/ skyabs 'gro sems bskyed tshad med bs gom
+pa sngon du btang nas/
+E (7v2-3) bdag gi bsam pa'i stobs dang oi/ zes pa nas thogs pa med par
+byung gyur cig/ mangga lan//
+CF. TAUBE Handschriften 1462-1464(?) and 1466(?). TAUBE Verzeichnis F III
+Be(?)
+No. 17
+MS, 33.7 x 8 cm. Foll. 33 (complete), II. 6 and 7 (end-leaf, verso 4 11.).
+Roughly written dow-can. -0.1.C. RT 10, Acc. no. 4520/60; presented
+by N.M. (9/59).
+
+
+
+Ta mgrin gsang sgrub gyl (read: kyi) ii rgyas dbong gsum gyi sbyin sreg
+gi cho ga ye ses me 'od ies bya ba bzug(s )so
+Hayagriva-homa-vidhi, by Dharmavajra (1737-1802) in Bla-brang bKra-sis-
+'od-'bar, in the 'pbar-ba/Icags glang year (1781). Scribe Blo-bzang-kun-
+dga'.
+B(lvi) //bde stong gõis med ye ses me thab tu/
+C (33r3 - 33v4) /ces eta mgrin gsang sgrub kyi îi rgyas dbang gsum sbyin
+sreg gi cho gn ye ses me 'od ces by a ba 'di ni lha 'di nid yi dam du byed
+bdag gis såen pa'i Icha bskong dang/ rang gzan gyi rim 'gro sogs la sbyin
+sreg sgrub dgos pa'i skabs du mar/ yig cha gzan mang po la ltos midgos
+pa'i tshig chog lag len tu sgril ba žig byung legs pa 'dug bsam/ rang did
+kyis 'dri 'dun yod thogs chos sde blcra śis (33v) chos gling gi khri pa zwa
+dmar rab 'byams pa cbos stan grags kyis kyang bskul ba la brten nas gsang
+ba spyi'i cho ga 'od kyi ste (read: sie) ma'i dgongs pa biin khams gsum
+chos kyi rgyal po Isong (read: btsong) kha pa chen po'i bka' stol dang
+mthun par ku så li dba rma badsra gyis 'phar bu (read: ba) zes pa lcags
+mo glang gi lo'i rgyal zla ba'i yar tshes la bla brang bkra sis 'od 'bar gyi
+gzim chung bde chen phug tu sbyar ba'i yi ge pa ni dge slong blo bzang
+kun dgas bgyis pa'o// bkra sis//
+CI. CHANDRA Materials 1 4586 (p. 222b).
+No. 18
+MS, 30.6 x 8.7 cm. Foll. 18 (complete), 11. 5 (end-leaf: recto 6 11., verso
+blank). Written in large and small dbu-can on stout paper; text on fol. 2x
+slightly damaged. - O.1.C. RT 11, Acc. no. 4520/60; presented by N.M.
+(9/59).
+brGya bit'i cho ga bklags pas don grub ces by a bo bíugs sho// dge legs
+'pheV/ (sign BA in the right margin)
+A půjä-vidhi for the performance of the brgya-bãi ceremony, by bstan-
+dsin ming-can.
+
+
+
+B (1v1) 1/mi "jigs bzi Idan sakya'i rgyal po dang/ /sku bãi'i bdag řid
+bla ma'i Žabs brud nas/
+C(186) ces brgya bģi'i cho ga klags (read: bklags) pas bdon (read: don)
+grub ces bya ba 'di si/ sngags rams pa mams kyi ngag rgyyn phyag srol
+Itar/ säkya'i btsun pa bstan'dsin ming can gyis blod pa'o// //mang-
+galam// dge legs sho
+CF. TAUBE Verzeichnis F III 47. Listed among the Tibetan sources (no. 35) in
+NEBESKY-WOJKOWITZ Oracles, p. 582.
+No. 19
+MS, 26.5 x 8.6 cm. Foll. 3 (complete), numbered: fol. lv gcig, fol. 2r gis,
+and fol. 3r gris (sic). Lines 6. Very finely written in large and small dbu-
+can. Titles in the left margin: Grog spyin (lv, 3r) and Grog spyod (2r). -
+O.I.C. RT 12, Acc. no. 4520/60: presented by N.M. (9/59).
+Srog chags grog ma la spyin pa gtong tshul bzugs so
+Presentation of offerings to ants (?), by Dharmavajra (1737-1802)."
+B (1v1-2) 7/na mo gu ru ratna ya/ srog chags grog ma la zas kyi spyin
+pa gtong tshul ni/ dbyar dus sogs grog tshang brtol ba'i dus su/
+C (3v2-6) /tes sogs smon lam dang khor gsum dmigs med kyis rgyas
+btab bol grog spyin gtong tshul zer ba'i yi ge 'ga' iig na lo rgyus sogs
+kyi gtam nag nog mang po žig bris 'dug pa la/ vid brtan mi snang la/
+grog ma sogs zan za ba'i da dang 'bu srin sogs de dag la mi gnod pa'i
+zas ster na phan yon che ba gor ma chags pas kun slong bzang pos bśad
+ma thag pa bžin sgrub na phun sum tshogs par 'gyur ro// ces pa'ang
+dbarma badsra gyis rang did bro'tshal nas ngan slong la spyin gtong sogs
+rim gro mang tu sgrub skabs 'di Ita bu yang tshogs bsoggi yan lag tu 'gyur
+bar bsam nas lag len tu bgyis pa'i tshe phral mar bris pa'o// //
+CE. CHANDRA Materials i 4495 (p. 220a).
+
+
+
+No. 20
+MS, 31.7 X 8.5 cm. Foll. 8 (complete), 11. 5 (end-leaf: recto 3 11., verso
+blank). Negligently written in dbu-can on coarse paper made of two sheets
+stuck together. -0.1.C. RT 13, Acc. no. 4461/60; presented by N.M.
+bTshogs bţing błu gso (sic)
+B (1v1-2) (...) /ma bcos hun grub chos sku sprol bral/ dpal Idan
+sang(s relyas
+E (7v5-83) dge ba'i rtsa ba zag bcas dang zag med tham's cald la
+tjes( sju yi rang ngo/ (8r) /smin grol gřis kyi 'khor lo bskor du gsol/
+sku mya ngan las mi 'da' bar gsol ba 'debs/ dge ba'i rtsa ba bla na med
+byang chub chen por bsngo'o/ or badsra puswe/
+No. 21
+MS, 44 x 10.8 cm. Foll. 20 (complete), numbered 1 to 19 (number 2 twice:
+fol. 2 gtis, fol. 3 għis 'og). Lines 5 (lv), 7 (2t, 2v), and 8 (end-leaf: rec-
+to 3 II., verso blank). Written in dbu-can on stout paper, black, red, and
+blue. Sign in the left margin (recto): KA. - 0.I.C. RT 14/1-4, Ace. no.
+4450/60; presented by N.M. (UH, 137/1.).
+(Common title, 1r) Grub chen brgya (read: brgyad) bcu rtsa Inga'i gsol
+'debs bzugs sho
+Prayer to eighty-five Mahasiddhas.25
+No. 21/1 (foll. 1vl - 5+1)
+(Grub chen brgy ad bcu rtsa bii la phyag 'tshal pa tes by a ba)
+Salutation to eighty-four Mabasiddhas, by Do-rje-gdan-pa. Translated and
+revised by Abhyakara and Dar-ma-grags.
+39
+
+
+
+B(1v1-2) 7/rgya gar skad du/ maha siddhi asta sad tsa durna mo na
+mah bod skad du/ grub chen brgya (read: brgyad) bcu rtsa bfi la phyag!
+'tshal pa zes by a ba/ sangs rgyas thams cad'dus pa'i sku//rdo rje
+dsin pa'i ngo bo xid/
+C (4vB - Srl) /grub chen tgya (read: begyad) bcu rtsa Inga (sic)la gsol ba
+'debs pa/ bla ma rdo rje gdan pas (5r) //mdsad pa rdsogs so// / //rgya
+gar gyi mkhan po a bbya ka ra dang/ bod kyi lo tstsha ba găen darma
+grags kyi (read: kyis) bs gyur cing Zus te gtan la phab pa'o// //
+No. 21/2 (foll. 5r2 - 6v5)
+(Grub chen brgyaJ kyi togs pa briod pa ies bya ba)
+Examination of eight Mahasiddhas.
+B (512-3) //rgya gar skad du/ ma ha sidhi pa asa pa ri ka a si dha na
+ma/ bod skad du/ grub chen brgyad kyis (read: kyi) rtogs pa bejod pa
+żes bya ba/ /dpal mkha'('gro sing po sdom pa dra ba'i rgyud chen po
+las/
+E(6v5) /ces gsungs sol /gruo chen brgyad kyi ttogs pa brjod pa/tdogs
+sho// //
+No. 21/3 (foll. 6v6 - 13r4)
+(Grub thob chen po brgy ad bcu rtsa bii'i rtogs pa 'gur du biengs pa zes
+bya ba)
+Examination of eighty-four Mahasiddhas. Translated by Abhy Akara and
+Sangs-rgy as-grags-pa.
+B (676-7) //rgya gar skad du/ ma ha sidhi pa asta sad tsa tur ka a sa
+ngha gir ta na mah/ bod skad du/ grub thob chen po brgya (read: brgyad)
+bcu rtsa bži'i rtogs pa 'gur du bźengs pa zes bya ba/ de yang dur khrod
+chen po bsil ba'i tsbal tu grub chen brgya (read: brgyad) bcu rtsa bãi la/
+
+
+
+C (13r3-4) /grub thob begya (read: brgyad) beurtsa bai'i rtogs pa 'gur du
+gsungs pa rdsogs sho// //rgya gar gyi mkhan po abbya ka ra dang/ bod
+kyi lo tstsha ba tsa mi sangs rgyas grags pas bsgyur ba'o// //
+No. 21/4 (foll. 13-5 - 1943)
+(Thugs kyl gsong ba'i dho ha glur blangs pa ies bya ba)
+By mKha'-'gro-ma, translated by Ža-ma lo-tstsha-ba (11th ceot.).
+B (13r5-6) //rgya gar skad du/ tsi ta ghutya dho ha gir ti na mah/ bod
+skad du/ thugs kyi gsang ba'i dho ba glur blangs pa zes bya ba/ /'jam
+dpal gzon nur gyur pa la phyag 'tshal lo/ bram ze chen po sa ra has
+thugs kyi rtogs pa 'gur du bźengs pa/
+C(1912-3) /grub thob pha mo brgya (read: brgyad) bcu'i rtogs pa brjod
+pa//mkba' 'gro mas yi ger btab ste gsang mdsod na gnas pa las/
+dbyings kyi gtso mo roams kyis bka' sgros nas rje dam pa rgya gar la
+gnang ba rdsogs sho// //ża ma lo tstsba bas legs par bsgyur ba'o// Zus
+dag go/ //
+CE. TANJUR, rGyud, ZI, foll. 67-71. (TÕHOKU 2443) (?).
+3. bZlog-bssyur, gZings (Man-ngog), etc.
+No. 22
+MS, 33.6 x 8.1 cm. Foll. 2 (complete), Il. 5 (end-leaf, verso 6 11.). Written
+in large and small dbu-can, variously coloured. -0.1.C. RT 15, Acc. no.
+4520/60; presented by N.M. (9/59).
+"Dir bsang (read: gsang) pa'i (read: ba'i) bdag po dpal phyag na rdo rje
+bzlog Sgyur (read: bsgyur) bíes (read: Ses) by a ba bíugs so
+
+
+
+Vajrapāņi exorcism.
+B (1v1-2) //na mo gu ru badsra på ni ye/ 'dir gsang ba'i bdag po dpal
+phyag na rdo rje la phyag 'tsbal lo/ .bla ma yi dam phyag na rdo rje'i
+bzlog bagyar gyi cho ga zes bya ba/ gtor chen geig chung ba gñis 'am
+gtor ma brgyad/
+E (26) ces pa 'di yang chos skyong phyag rdor gyi rtsa brgyud gzungs
+las 'byung len pas bris gsung ago/l mangga lan//
+No. 23
+MS, 26.4 x 9.1 cc. Foll. 11 (complete), 11. 6 (end-leaf, verso 4 11.). Written
+in large and small dow-can on stout paper, wariously coloured. -0.1.C.
+RT 16, Acc. no. 4520/60; presented by N.M. (9/59).
+'phags ma sGrol ma'i bzlog bsgyur béugs so
+(Khadiravani-) Tärä exorcism, by Blo-Ei ming-can.“
+B (1v1-2) //na mo ārya tā re/ rje btsun 'phags ma seng Iding (read:
+Ideng) nags sgrol ma'i/ žabs kyi padmor gus pas phyag byas te/ de'i
+sgo nas nad rims gdon bgegs sogs/
+C(11v3-4) ces bzlog bs gyur 'di ni rlung rta rgud pa nad rims 'bar ba kha
+smras thug po'i gyol po 'dre langs pa chag che ba lo žag skeg dang/ mi
+phyugs kyi god kha mams la nams su langs na phan yon sin tu che'o//
+ces pa 'di ni blo ki ming can gyi (read: gyis) smras pa'o// //
+CI. CHANDRA Materials II 9757 (p. 453b) (?).
+No. 24
+MS, 31 5 x 11 cm. Foll. 5 (complete), 11. 7 (fol. 4, 6 11.; end-leaf: recto
+8 11., verso blank). Written in large and small dbu-can, variously colou-
+red. -0.1.C. RT 17, Acc. no. 4520/60; presented by N.M. (9/59).
+
+
+
+Je btsun sgrol ma'i bzlog bskyur (tead: bsgyur) Les bya ba bíugs so
+Tärä exorcism, by bSod-nams-tgya-mtsho-dpal-bzang-po (19th cent.).
+B (after a homage to arya-Tārā, ivl) ... //rje btsun ma 'phags ma sgrol
+ma la bsten nas bzlog bskyur (read: bs gyur) gtor zor by ed pa ni/
+C (517-8) ces tje btsun tham(s cad mkhyen pa hsod nams rgya mis bo's
+dpal bzang po' byang dus che tham(s cald chos smras pa chen po sbyar
+pa'// che sri chu sri dar sri pho yi sri mo yi sri nang gỉ sri dur sri
+gong sri dgra sri phung sri rgyal sti gnod sri gzon 'dibs (read: 'debs?)
+kun tu 'rjoms (read: 'joms) palo/ //
+No. 25
+MS, 28.3 x 9 cm. Foll. 3 (complete), II. 7 (end-leaf, verso 6 11.). Written
+in large and small dbw.can on a coarse paper made of two sheets stuck
+together, slightly damaged. -0.1.C. RT 18, Acc, no. 4520/60, presented
+by N.M. (9/59).
+Chos skyong treg (read: dregs) pa Icom sring gi bzlog bsgyur bíug (read:
+bugs) so (sign KA superscribed)
+Dharmapala Dregs-pa-lcam-sring exorcism.
+B(IvI) //chos skyong Icam sring gi bzlog bsgyurgyi cho ga žes by a ba/
+gtor ma chen po geig/ chung ba gåis/
+E (3v5-6) /ces pa 'di ni chos skyong leam sring gi rtsa brgyud gzung las
+byung ba len pa bris gsungs so dge legs 'phel/ bkra bóis (read: sis)
+magalan (read: manggalan)// bzlog pa bya/ mthun pa'i dn gos grub// W
+C. MEISEZAHL Stuttgart L. 24351 Nr. 4(?).
+
+
+
+No. 26
+MS, 34.7 x 8.8 cm. Foll. 8 (complete), 11. 7 (end-leaf, verso 2 11.). Written
+in large and small dow-car.-O.I.C. RT 19, Ace. no. 4520/60; presented
+by N.M. (9/59).
+Chos skyong Icam sting gi bzlog bsgyur ses bye babéuga se
+Dhammapala ICam-sring exorcism, by Blo-bzang-dpal-mgon ming-cao."
+B (1v1) //bcom Idan 'das 'jam dpal gáin rje'i gsed la phyag 'tshal lo/
+chos skyong Icam sting gi sgo nas bzlog bsgyur bya ba la
+C(816 - 842) es pa 'di ni chos skyong Icam sring girtsa brgyud géung
+las lin pa'i de ni sin tu bsdus pa'i phyir de las chung durgyas nas bgyi
+bates er de ni tsas sang nang so bstas pa dar rgyas tes by a ba 'di ni
+Itſa b)u dgos Zes nan tan gyis yang yang bskul pa'i ngo mchog par skyabs
+gnas dam pa dsa ya panti (read: pandi) ta blo bzang silan grags dge legs
+nam reyal dpal bzang Ipo (8v) blo ma mams kyis tha al ba byung rgyas
+do sang pa'il "blo bzang apal mgon ming can gyis bei pala Ibag chad
+logs pa'i Res skyon thams cad bla ma lha dang chos skyong lcam sting
+"khor bcas syis thur (read: thugs) brtse'i ba bzod par mdsad du gsol/ gal
+te legs cha cung zad yod na de sa sogs 'phro kun des nas sgrub ma thob kyi
+bar du lam bzang gi rkyen ngan chad kun bzlog pa'i grogs par syur eig
+magga lan/ bkr (a )is/
+No. 27
+MS, 35.2 x 10.4 cm. Foll. 9 (complete), 11. 8 (end-leaf: recto 5 11., verso
+blank). Written in large and small dbu-can (the last two lines in dbu-med).-
+O.I.C. RT 20, Acc. no. 4520/60; presented by V.M. (9/59).
+dBal (read: dPal) Idan lha mo'i sgo nos bzlog bsgyur íos bya ba bugs so
+(sign BHYOH superscribed)
+Sif-Devi exorcism, by Blo-bzang-dpal-mgon ming van."
+B (lvl-2) 7/na mo gu ru ka ling de wa ye/ 'dir dpal Nan lha mo'i sgo
+nas bzlog bsgyur byed pa la/ thog mar yi dam bdag bskyed dang/
+
+
+
+C (8v8 - 914) zes 'di ni che ba jang jong wang gi (91) //dge bsgos tsas
+song nang so cbos "pbel tes bya ba/ thams cad mkhyen pa bsod nas
+gya nisbo'i mdsad pa bzlog bsgyur sin tu bsdus pa'i 'dir (read: phyir?)/
+de nas rgyas pa zig bgyis tes bskal ba la ngo ma Idog par/ dsa ya pandi
+ta blo bzang silan grags dge legs enam rgyal dpal bzang po'i slob ma'i
+tha sal ba byung rgyal du song ba blo bzang dpal mgon ming can gyi(read:
+gyis) bgyis pa'l des tshogs kun lha mo 'khor dang bcas pa byams sing
+bzod par gsol/ 'on kyang gang bgyis ba kun la phan pa dang bkra sis bar
+(read: par) gyur cig// ...
+No. 28
+MS, 36 x 10.5 cm. Foll. 3 (complete), 11. 6 (end-leaf: recto 2 II., verso
+blank). Carelessly written in large and small dow-can, black and red. -
+0.1.C. RT 21, Acc, no. 4520/60; presented by N.M. (9/59).
+Sir (read: Ser) såing gi bulag bsgyur íes bye pa (read: ba) bugs so (sign
+KA superscribed)
+Prajäähedaya exorcism, by Blo-bzang-phrin-las ming-can."
+B (1v1) 7/an mo gu ru pra dsda pa ra me ta ya/ /'dir dir (read: ser) săing
+gis (read: gi) bzlog bisgyur la gtor ma zur gsum khu gang geig gii bdag gi
+gtor ma bśams/
+C(276 - 32) "dir ser såing gi bzlog bsgyur săigs Inga bdos dus skyen
+ngan sdug bungal 'bab la rang la (3r) //skal miam phan géan a srid sdams
+pas ger byes pa'i glun bu sing khams chos rje blo bzang 'pbrin las ming
+can gyis bla ma gong ma raams kyis gsung tgyun la brten pa'i sug bris
+pa'o// dge 'o sa rba manggalan/
+No. 29
+MS, 33.6 x 8 cm. Foll. 5 (complete), 11. 6 (end-leaf, verso blank). Written
+in large and small dbu-can. - O.I.C. RT 22, Ace. no. 4520/60; presented
+by N.M. (9/59).
+
+
+
+bZang spyod smon lam gyi bzlog bsgyur mi mthun g.yu (read: g.yul) las
+rnam rgyal bzugs so
+Bhadracaripranidhana exorcism, by tje-btsun thams-cad-mkhyen-pa dPal-
+bzang-po."
+B (Ivi) 7/na mo gu ru/ 'phags pa bzang spyod bzlog bsgyur byed ba
+(read: pa) la "dod pa'i/ sngon 'gro dngos gi 'jug dang po ni/
+C(514-6) ces pa 'di ni bzang spyod smon lam bzlo (gbs) gyur mi bzang sõigs
+ma'i dus kyi 'gro ba'i sems can thams cad la phan ba'i (read: pa'i) phyir
+dmongs p (m) anchag 'od thad (read: thang?) gis (read: gi) rab byams pa
+blo bzang Ilan pa dang dge cbos dar rgyas bltad (read: pa Itar?) mkhas pa
+mang po yang yang bakul pa (read: ba) bitar rje btsun ibani (s ca) dmkyin.
+(read: mkbyen) pa dpal bzang po mds ad po' (read: pa'o)// // //
+No. 30
+MS, 33.8 x 9.6 cm. Foll. 4 (complete), II. 4(Iv), and 6 (end-leaf, verso 2
+11.). Written in dbu-can. -O.I.C. RT 23, Acc. no. 4520/60; presented by
+N.M. (9/59).
+Gya nag sgag (read: skag) bzlog gi bzlog bsgyur 'bzug(s )so (sign KA
+superscribed)
+Formula for averting bad luck (derived from the Chinese?).
+B (lvl) //rgya nag pa'i zlog thabs skad bzlog gar byed par 'dod na
+C (4v1-2) /ces pa 'di rgya nag skag bzlog gyis bsgyur ñi ma than ta re
+phyogs gam dpon mo bde mo sprul sku žu bas// dge palo (read: ba'o////
+Cf. NAGY 24(?). SCHLAGIN TWEIT Handschriften III 11 and 12(?). TAUBE Hand
+schriften 2218-2222(?). WALSH 62(?). - Cf. also F. A. Bischoff, "Une incanta-
+tion lamaique anti-chinoise", Central Asiatic Journal 10 (1965) (pp. 128-135),
+especially item 1) on p. 130.
+
+
+
+No. 31
+MS, 33.2 x 10.5 cm. Foll. 3 (complete), 11. 11 (end-leaf, verso 4 11.). Rough-
+ly written dbw.car, green.- O.L.C. RT 24, Acc, no. 4520/60; presented
+by N.M. (9/59).
+Byis ba'i (read: pa'i) gdon chen bco Inga ti bar byed pa'i gzung (read:
+gzungs) bíugs so
+DhQranſ for appeasing fifteen kinds of evil spirits attacking children.
+B (lv) //dkon mchog gsum la phyag 'tshal lo/ /stong chen mo rab tu
+'joms ma la phyag 'tshal lo/ /de nas tshangs pa tshanrs chen rvis/
+E (3v2) byis pa'i gdon chea bco Inga i par (read: bar) byed pa'i gzungs
+rdsogs so// (The following, 3V2-4, is a magical formula consisting most-
+ly of strings of Sanskrit syllables.)
+CF. LALOU Catalogue DD 1 (p. 84).
+No. 32
+MS, 33.1 x 10.5 cm. Foll. 5 (complete), 11. 11 (end-leaf, verso 6 II.). Rough-
+ly written dbu-can, blue and green. - 0.1.C. RT 25, Acc, no. 4520/60; pre-
+sented by N.M. (9/59).
+Byis ba (read: pa) bsrung pa'i (read: ba't) man ngag bugs so
+Mantra for protecting children.
+B (1v1) //na mo gu ru bhyah byis pa bsrung ba'i gdams ngag nams su len
+tshul nid bos pu (read: bu) dmar po mar can bcu dang/
+E (5v5-6) ces bejod cing me tog gi char 'bebs nas/ sa za mo dang ma mo
+dang sting mo mams dgyes bzin du rin mtshan tag tu bsrung ba'i lam
+mdsad par bsam mo// bkra Sis par gyur cig// dge'o//
+
+
+
+No. 33
+MS, 32.5 x 9.5 cm. Foll. 7 (complete), 11. 6 (ead-leaf: recto 5 11., Verso
+blank). Written in large and small dbu-can. Tides in the left margin: IN
+mo'i glud (lv), and Glud (2 to 7, recto). -0.1.C, RT 26, Acc, no. 4520/60;
+presented by N.M. (9/59).
+IHa mo'i srog blud (read: glud) iis (read: fes) bya ba bługs so (sign KA su-
+perscribed)
+A "life-ransom" offering of the goddess Ha-mo (Devi)."
+B (1 v1-2) //swabha was stong par sbyangs/ stong pa'i ngang las mdses
+sing yid du 'oag ba'i ngar glud lus agag yid gsum phung po khams skye
+mched the stog dbugs dbang po laga sogs tshang Zing/
+E (714-5) zes pa nas // chos dbyangs dbang phyug ma gcig bdud kyis
+(read: kyi) yum// zes pa nas/ sa ma ya// de nas zlog pa bya'o//
+
+
+
+III. PHILOSOPHICAL / THEOLOGICAL TEXTS
+No. 34*
+MS, 45.5 x 13.5 cm. Foll, 13 (beginning and end incomplete), numbered
+67 to 79. Lines 4 (fol. 70 both recto and verso 3 11.). Very finely written
+in large dbs-can on stout paper, black and red. Sign in the left margin
+(tecto): KA. - 0.I.C. RT 27, Ace, no. 2537/67.
+No title
+(An eschatological text.)"
+B (671) ... //dag dsogs pa'i sangs rgyas sa ru skyol/ de Itar mos gus
+drag pos gsol ba btab pas/
+E (79v4) Ihan skyes ye ses gsal ba'i 'od lam la/ dpa' bo rigs 'dsin mams
+kyis lam sna drongs/ yum mchog ...
+No. 35**
+MS, 45.5 x 13.5 cm. Foll, 23 (complete), numbered 81 to 103. Lines 3 (81v,
+B2r, 103t) and 4 (end-leaf verso blank). Very finely written in large du
+can on stout paper, black and red. Sign in the left margin (recto): KA. -
+O.I.C. RT 28, Ace. no. 2538/67.
+Khro bo'i bar do bzugs so
+The "intermediate state" of Khro-bo.
+B (81v1) //da ni khro bo'i bar do 'char tsbul bstan par bya ste/
+E (103r2-3) /bar do'i gdams pathos pa tsam gyis grol ba bstan pa tsam
+gyis grol bates by as chos Nid bar do'i ngo sprod rdsogs sho// bkra sis dge'o
+
+
+
+No. 3640
+MS, 45.5 x 13.5 cm. Foll. 39 (incomplete at the end), numbered 104 to 142.
+Lines 3 (104) and 4. Very finely written in large dbw.can on stout paper,
+black and red. Sign in the left margin (recto): KA; title-leaf, 104r, marked
+GA (recto) and KA (verso). -0.1.C. RT 29, Acc. no. 2539/67.
+Srid pa bar do'i ngo sprod gsal 'debs blugs so
+Explanation of the "srid-pa bar-do".
+B (104v1-2) /srid pa bar do'i ngo sprod gsal 'debs thos grol Zesbya ba
+zab pa'i xid (read: ding) khu zes bya ba'i dbus phyogs lags/ /bla ma yi
+dam lha tshogs la/ /gus pa'i yid kyis pbyag 'tshal lo/
+E (142v4) /gžan yang te du rnams kyis ngus skad dang mya ngan dang
+smre sngags mi 'don/ /dge ba'i las...
+Cf. RINCHEN 1414(?). - For a discussion and interpretation of these and relac-
+ed eschatological texts, see W. Y. Evans-Wentz (ed.). The Tibetan Book of the
+Dead, London 1927 (3rd edn., 1957), and the same in French (Paris 1933) and
+German translation (Zürich-Leipzig 1936; 5th edn., 1953). G. Tucci, 11 libro ti-
+betano dei morti, Milano 1949. DAVID-NEEL pp. 128-144. P. Poucha, "Das tibe-
+tische Totenbuch im Rahmen der eschatologischen Literatur (Ein Beitrag zu sein
+ner Erklärung)". Archiv orientální 20 (1952), pp. 136-162.
+No. 37
+X (Buryat edition - Cugolsk Monastery), 44.3 x 9 cm. Foll. 25 (complete),
+11. 5 (end-leaf: recto 4 11., verso blank). Very finely printed on good Rus-
+sian paper, black and red. Title in the left margin (recto): Blo sbyong don
+bdun ma. - O.I.C. XyT 10, Acc. no. 5442/61; presented by N.M. (6847b).
+Gyal sras thogs med bzang po dpal gyis mdsod pa'i blo sbyong don bdun
+ma'i sňan brgyud kyi tshig rams bkral ba bługs so
+Elucidation of (Ye-ses-do-rje's) Blo sbyong don bdun ma" by Gyal-sras
+Thogs-med-bzang-po-dpal (1295-1369) in dNgul-chu'i-chos-rd song. ** Edit-
+
+
+
+ed by bsKal-bzang-sbyin-pa in bkra-sis-chos-'phel-gling monastery, in the
+Icags-rla year (1810/70).
+B (lvi) //thugs rje chen po la pbyag 'tshal lo/ /bslab gsum ram dag
+byang chub thugs gåis 'byongs/
+C (251-4)//blo sbyong don bdun ma'i sňan begyud kyi tshig mams yi ge
+Xung ngu'i sgo nas bkral ba 'di/ theg pa mchog gi mal 'byor pa grags pa
+rgyal mtsban gyis yang dang yang du bskul ba la buten nas brsun pa ibogs
+med kyis dben gnas dngul chu'i chos rdsong du sbyar ba'o// //
+Tgyal stas lhogs med bzang po dpal/
+/mdsad pa'i blo sbyong don bdun ma/
+/kun rdsob don dam by ang chub sems/
+/bsgom pa'i man ngag sñan brgyud 'di/
+/dge 1dan bkra śis chos 'phel gling/43
+/dge slong bskal bzang sbyin pat rang/
+dge mtshan lcags rta me khyi'i bcur/
+/dge sems rgya cher spel phyir brkos// //
+CI. CHANDRA Materials III 13585 (p. 606a). RINCHEN 395. SENDAI
+6965(?).
+No. 38*
+X (Derge edition), 54 x 10.5 cm. Foll. 94 (complete), II. 4 (lv, 2r), and 6
+(end-leaf verso blank). Well printed on good paper. Titles in the left mar-
+gin: Ngag cbos gsung (recto) and Pod cbew drug gi glam (verso).-J.K.C.,
+Peking 1959.
+Bod kyi mkhas pa snga phyi dag gi grub mtha'i fan 'byed mtha' dpyod dong
+bcas pa'i 'bel ba'i gtam skyes dpyod Idan mkhas pa'i lus rgyon rin chen
+mdses pa'i phra tshom bkod pa bíugs so
+An analysis of the doctrines of earlier and recent Tibetan scholars, by
+Ngag-dbang-chos-grags," in the dkar po/sa-s brul year (1749 etc.). Scri-
+be Chos-grags-bzang-po.
+
+
+
+B (VI) //byang chub sems kyi rtsa barab brtan tshogs gáis bye ba'i
+yal gas bres/
+C (943-6) ces pa 'di ni mkhyen rab kyi dhang phyug dpal sa skya pa 'jam
+dbyangs wgag dbang kan dga' bsod nams bkra sis grags pa rgyal misban
+dpal bzang po'i gsung gi mga bo ches bskul ba las don gyi slad du mtshan
+nas smos te mkhan chen "jam pa'i dbyangs dbang pbywg dpal bzang sogs
+yongs dsin dam pa roams kyi bka' drin las rgyal ba'i bka' dang dgongs
+grel gyi bstan bcos mams la blo gros cung zad 'byongs pa'i khungs su
+byas sing/ bstan pa dang bstan'dsin gyi skyes bu kun la mi phyed pa'i
+dad pa'i rba labs gting nas g-yo ba/ śákya'i dge slong sde snod 'dsin
+pa ngag dbang cbos grags kyis dkar po zes pa sa mo sbrul gyi lo'i gro un
+(read: bzin) zla ba'i yar tshes nas dbu bzung/ tha skar zla ba'i yar ago'i.
+tshes Inga'i din legs par grub pa'i yi ge pa ni cbos grags bzang po'o/
+/'dis kyang royal ba'i bstan pa rin po che spyi dang/ khyad par dpal Idan
+sa skya pa'i bstan pa dri ma med pa yun ring du gnas par gyur cig/sarba
+da ka lya qan bha ba tu/
+No. 39
+MS, 44.3 x 9.8 cm. Foll. 19 (complete), 11. 3 (1v, 19r), 4 (2r), and 5 (end-
+leaf made of two sheets bound together, verso blank). Written in large
+dbw.can on stout paper. Sign in the left margin (recto): CHA -0.1.C.
+RT 30, Ace, no. 4493/60; presented by N.M. (14315).
+SÑing po don gsum bíugs sho
+A guide to the upadeša (or amnāya) called sNing po don gsam which is
+said to have been transmitted from Mitra.
+B (Iv1-3) // //na mo lo ki śwo ra ya/ sing po don gsum gyi khrid yig
+gi dmigs rims (read: rim) duga' Idan du sgrod (read: bgrod) pa'i them skas
+Zes by a ba/ /'phags pa spyan ras gzigs dbang phyug la phyag 'tshal lo/
+grangs med rgyal ba kun gyi mkhyen brtse ni/
+C (1845 - 193) gong du bśad pa mnams rje besun mitra'i gdam par bston
+pa ste/ so lo ka 'di rje btsun mitra'i gsung min par mngon no// (190) //
+
+
+
+//de Itar na såing po don gsum du grags pa'i dams len gyi rim pa rams/
+Sin tu go sla Zing 'khyer ba bśad zin no/ /'dis kyang bstan pa dang sems
+can la phan thogs rgya chen po 'byung bar gyur cig/ //dge'o// bkra sis
+par gyur cig/
+CF. PATNA 690 (?). SENDAI 5548 (6).
+No. 40
+MS, 41.5 x 8.5 cm. Foll. 93 (complete), 11. 3 (lv) and 4 (end-leaf verso 3
+11.). Carelessly written in large and small dbw.can on coarse paper made
+of two sheets stuck together. - O.I.C. RT 31, Acc. no. 4461/60; present-
+ed by N.M.
+Bla ma nor bu rgya mtsho las/ las byang nor bu pad ma'i ljon sing gl
+Than thabs dang mchog sgrigs Itas mchag bskod (read: bkod) pa bzugs so
+Las-byang: a supplement(?), by bla-ma Nor-bu-rgya-mtsbo."
+B(1vl) //brgyud pa'i gsol bdeb sani (read: 'debs ni)// hi// nub phyogs
+bde ba chen po'i zing khams su//
+E (93v1-2) /gsang sngags bla ma'i las byang le'u gsuń pa/ nor bu
+padma'i ljon sing tes bya ba rdsogs sho/ sa ma ya/ rgya rgya rgya/
+gter rgya/ sbas rgya/ gtad rgya/ bka' tgya/ dam rgya/ gsang rgya/
+gya egya rgya/ sarba mangga lař//
+No. 41
+MS, 43.3 x 9 cm. Foll. 6 (complete), 11. 6 and 7(end-leaf: recto 3 11., ver-
+so blank). Written in dbw-can on Russian paper (embossed stamp: Fabriki
+Naslednikov Sumkina (the number undecipherable)]. -0.1.C. RT 32, Acc.
+no. 4520/60; presented by N.M. (9/59).
+
+
+
+Bal po a hum bcas pa'i dgongs don tshang ba glang chen nang bugs
+B (vl) //ta pa'i rab gnas la/ gtor ma'brang rgyas zas sna sing tog sogs
+kyi bskor ba
+E (6r1-3) dkar gsum mngar gsum yang brda tsam gtong/ mchod pa la yang
+dkar gsum mngar gsum steng/ phyi'i rdsas la rta glang ra lug go khrab
+glang chen sogs/ bsangs pa'i rdsas dngos bsams yid sprul bya ba'i phyag
+len dang bzes pa Itar dang/ de nas dar tshon sna Inga/ gos chen sna
+tshogs/ bkra fisrtags brgyad/ tgyal srid sna bdun sogs/ rab gser dogul
+sogs 'byor ba dang bstun nas gnang ba yin nam sifam lags//
+No. 42
+MS, 44.3 x 10.9 cm. Foll. 12 (incomplete at the end), numbered 1 to 12.
+Lines 6 (lv, 2r) and 8. Finely written in dbu-can on stout paper, black
+and red. Sign in the left margin (recto): KHA. Two water-coloured por-
+traits on fol. lv: Do rje 'chang la na mo (left) and Sakya (read: Sakya)
+thub pa la na mo (right). - O.I.C, RT 33, Ace, no. 4450/60; presented by
+NAM, (UH 137/I.).
+dPal rdo rje 'chang gi sku gsung thugs kyis (read: kyi) bkod pa kun khyab
+sňan pa'i sgra dbyangs bzug(s )sho
+Sri-Vajradhara catechism (?).
+BC v1-2) // 77rje btsun bla ma dam pa mnams kyi ngo bo lhag pa'i ha
+roams "dus pa'i bdag nid drug pa rdo rje 'chang chen po'i Zibs la gus par
+phyag 'tshal lo/
+E (12v8) /de dag rang rig thob pa'i rgyu/ 7de phyir dam tshig gtso bor
+bsrungs/ / ...
+
+
+
+IV. MYSTERY PLAYS AND FAIRY TALES
+No. 43
+X, 30.5 x 7.8 cm. Foll. 50 (complete), II. 5 (lv, 2r) and 6 (end-leaf: recto
+5 11., verso blank). Printed on coarse paper. Title in the left margin (recto):
+Dri med kun Idan. - 0.1.C. XyT 11, Acc, no. 2540/67.
+Chos kyi rgyal po dri med kun Idon gyi mdsad tshul rgyas pa mu tig phreng
+ba bíugs so
+The story of Dri-med-kun-ldan (Visvantara).
+B (1v1-2) //ou mani padme hùm hrīh 'phags pa spyan ras gzags (read:
+gzigs) dbang phyug la phyag 'tshal lo/ sngon bskal pa dpag tu med pa
+na yul bhe ta'i grong khyer chen po na
+C (50r3-5) //rgyal bu dri med kun Idan gyi roam thar lo rgyus dang bcas
+pardsogs so// 7/ ces bstandang 'gro ba thams cad la phan thogs rgya
+cher "byung ba'i bsam pas kun nas blangs te chos rgyun rgya cher spel
+ba'i ched du rgyu ma'i nor la siog po len ses pa bde rab spetshong hre
+chos nas par du bskrun pa'i dge bas dge mams thar pa'i sa la phyin pa'i
+rgyur gyur cig/ //dge legs 'phel// //
+C. BACOT Titres 46. PATNA 1077(?), 1308. SENDAI 7081. - Tibetan text edited
+by E. D. Ross, The story of Ti-med-kunder, in Bibliotheca ludica, New Series,
+no. 1326 (Tibetan Series), Calcutta 1912. Another text-edition, viz. Chos kyi reyal
+po dri med ka Idar eyi wdsad sul rgyas pa ww tig phreng ba bugs so by Nal-
+"byor pa Ras pa'i-rgyan-can, was published in Hsiening (Ch'ing-hai) in 1958. For
+translations see J. Bacor, "Drimedkundan. Une version tibétaine dialoguée du Ver
+santara Jataka", JA, 11• ser., tome IV (1914), pp. 221-305. BACOT Mystères, PP.
+19-131 (WOOLF pp. 11-115), M. H. Duncan, More Harvest Festival Dramas of the
+bel (London 1967), pp. 63-123. HTWH pp. 26-27. M. H. Morrison, Ti-Me-Kn-Dan,
+prince of Buddhist benevolences a mystery play, London 1925. WADDELL PP.
+541-551. WANG 1958/6. Cf. also SCHIEFNER/RALSTON pp. 257-272. -
+* Addendum: Cbos royal dri med kun Iden gyi rtogs briod. The Tale of Prince
+Dri-med-kunIden. Printed at the Sikkim Darbar Press, Gangtok 1959.
+
+
+
+No. 44
+X, 30.3 x 7.4 cm. Foll. 218 (complete), Il. 4 (1v-3r) and 6 (end-leaf: recto
+2 ll., illustrated with paintings; verso blank). Printed on thin paper, il-
+legible in places. Miniature portraits: fol. 14 - Chos sku'od dpag med
+mchan žabs (left), sTon pa sä kya'i rgyal po'i Žabs (right); fol. 2r - "Jigs
+brten (read: 'Jig rten) dbang phyugs (read: phyug) răing (read: sing)
+rje'i lha (left), Gyal kun yum mchog tā re la (right): fol. 2v. Kun
+la dbang bsgyur gra' khri btsan (left), Gya 'od lha gcig stong besan tje
+(right); fol. 3r. Chos rgyal khri srong sde'u btsan zabs (left), gSang bdag
+chos rgyal khri ral rje (right). - 0.1.C. XyT 12, Acc. no. 4494/60; present-
+ed by N.M. (205a/57).
+Chos kyi rgyal po nor bu bzang po'i mnam that phyogs bsgrigs byas pathos
+chung yid kyi dgo' ba ston zes bya ba búugs so
+The story of Nor-bu-bzang-po, attributed to Tshe-ring-dbang-'dus of Ding-
+chen (cf. fol. 3v).
+B (1 v1-2) //om sa sti/ dam chos gser gyi 'khor lo rtsibs stoog can/
+/phyogs dus kun tu bsgyur ba'i raam 'phrul mkhan/
+E (21811-3) Võin mtshan tag du bde legs sing/ /sky abs gnas dkon mcbog
+gsum gyi bkra śis sog mangga lain//
+C. PATNA 1320-SENDAI 7082. STEIN p. 38. - Text-edition: Chos rgyal nor bzang
+gi wam thar phyogs bsgrigs, Hsi-ning (Ch'ing-hai) 1958. For the summary of con-
+cents see HTWH pp. 17-18. WADDELL pp. 551-553. WANG 1958/3. Cf. also SCHIEF-
+NER/RALSTON pp. 44-74.
+No. 45
+X, 30.7 8.8 cm. Foll. 66 (complete), 11, 4(1v, 21), 5 (2v, 3r) and 6 (end-
+leaf: recto 3 II., verso blank). Printed on thin paper, imperfect in places.
+Title in the left margin (tecto): 'Gro ba. - 0.1.C. XyT 13, Acc. no. 5447/61;
+presented by N.M.
+
+
+
+mKha' 'gre 'gro ba bzang mo'i gsung rab enam thar bíugs so
+The story of 'Gro-ba-bzang-mo.
+B (1 v1-2) //na ma sri ka li tsakrå ya/ mkha''gro ma 'gro ba bzang
+mo'i rnam thar "di/ nam lang xi ma sar ba by as la dam tshig rnam pa
+gsum dang Idan pa te/
+E (66t2-3) de nas rgyal blon 'khor 'bangs thams cad bde Zing dga' spro'i
+dpal la 'dod dgu'i longs spyod du bzugs so/lbkra sis// //zal gro/
+For a mimeographed text edition published by the Central Institute for National
+Minorities in Peking, 1952 (76 pp.), sce J. Kolmas, Tibetan Literature in Chi-
+na", Archiu orientálnr 30 (1962, pp. 638-644), p. 639. For translations see BA-
+COT Mystères pp. 133-221 (WOOLF pp. 117-197). DUNCAN pp. 25-86. HTWH
+B. 18 WANG 1958/2.- Addendum: Mkhal gro't bu mo'gro ba bzang mo'lam
+tbar. Published and printed at the Tibetan Educational Printing Press, Kashmir
+House, Dharmsala Distt., Kangra, H. P., (India), s. a.
+No. 46
+X, 30.2 x 8 cm. Foll. 87 (complete), 11. 4 (1v, 2r), 5 (2v, 3r), and 6 (end-
+leaf, verso 3 11.). Printed on thin paper of a rather poor quality, illegible
+in places. Title in the left margin (recto): sNang sa. - 0.1.c. XyT 14,
+Acc. no. 4495/60; presented by N.M. (205b/57).
+(Hardly recognisable) Rigs bzang gi mkha''gro ma snang sa 'od 'bum
+gyi mnam thar bíugs so
+The story of sNang-sa-'od-'bum.
+B (lv) //na mo gu ru de wa da ki ni/ /thabs mkhas thugs rje säkya'i
+rigs 'khrungs Sing/
+E (87v2-3) chos 'byor bde skyid kyi dga' ston phun sum tshogs pa'i goas
+skabs dang mthar thug gi phan bde zad mi ses pa'i dpal la rang gi longs
+spyod par mdsad dol/
+
+
+
+CF. PATNA 1306. Text-edition: Nang sa 'od 'bum gyi lo rgyus, Hsiening
+(Ch'ing-hai) 1958. For translations see BACOT My scères pp. 223-296 (WOOLF
+pp. 199-266). R. Cunningham, "Nangsal Obum", in the Journal of the West China
+Border Research Society 12 (1940), Series A, pp. 35-75. DUNCAN pp. 167-271.
+HTWH pp. 20-21.WADDELL pp. 553-565. WANG 1958/4.
+No. 47*
+X, 30.6 x 6.9 cm. Foll. 58 (complete), 11. 4 (1v, 2.) and 6 (end-leaf: recto
+3 11., verso blank). Printed on coarse paper. Titles in the left margin: Mi
+To (recto) and Tse sgrung (verso). - J.K.C., Peking 26. 5. 1959: present-
+ed by Mr. Wang Yao (Peking).
+Ngos grub can gyi sgrung dgos 'dod 'char 'bebs bíugs so
+Fairy tales of the Vetāla, by Klu-sgtub rin-po-che.
+B (I v1-2) // swa sti/ /sogon bskal pa thog mar rgya gar gyi yul na
+sgyu ma mkhan Zes pa spun bdun yod pa/
+C (58r1-3) //slob dpon klu sgrub siing po'i sgrub pa mdsad/ rgyal bu
+bde byed bzang po'i dka' ba spy ad cing/ rten 'di ston pa giis Zes grags
+par 'byung/ longs spyod Idan ing chos la spyod par sog /tes slob dpon
+klu sgrub rin po ches mds ad pa'o// sarba da ka lya nath bha wa ntu//
+1/dge 'o// //dge 'o// //dge 'o//
+For a detailed analysis and evaluation of the text in question, see L. 18rincz,
+"Les Contes du cadavre en sorcele (Ro-sgri) dans la littérature et le folklore
+tibétains". Acta Orient. H . 18 (1965), pp. 305-316. - Text-editions: C. Dam
+dinsürünk. Töbed mongol siditu kegarn iliger (Tibeca and Mongolian Tales
+of Vetala), 2 vols., Ulaanbaatar 1963-64 (= Corpus Scriptorum Mongolorum, to-
+mus II). Tibetan Fairy Tales of the Vetala (Ro dogos grub can Ryi gtam rayud
+brugs so), Mussoorie (MA-su-ri), India, 1964. Tibetan text edited and translated
+by A. V. Macdonald, Materiaux pour l'étude de la infrature populaire Ribetaine, la
+Edition et traduction de deux manuscrits cibétains des "Histoires du cadavre".
+Paris 1967. For further bibliographical references see A. W. Macdonald, op. cit.
+Introduction, pp. 1-27, and also STEIN p. 40.- Addendum. The story of Corpse,
+by Acharya Nagarjun and Kumar Shankar. Edited, printed and published by G.
+Tharchin at The Tibet Mirror Press, Kalimpong 1964.
+
+
+
+V. BIOGRAPHIES
+No. 48*
+X (Derge edition), 54 x 10.5 cm. Foll. 269 (complete), 11. 5 (lv, 2r) and 6
+(end-leaf, verso blank). Well printed on good paper. Title in the left mar-
+gin (verso): mDsad pa. Two portraits on fol. 1v: Rim gsum chos kyi 'khor
+lo yis/ /'jig rten snang byed śäkya'i tog (left), sNgon par chos 'khor
+bskor ba yi/ gsol 'debs tshangs pa brgya byin gris (right). - J.K.C., Pe-
+king 1959.
+Sangs rgyas bcom Idan 'das kyi rnam par thar pa rmad du byung ba mdsad
+pa 'khrul pa med par brjod pa bde bar gsegs pa'i spyod pa mchog gl gter
+żes bya ba bzugs
+(Bu ddha bba ga bā no bi mo kýā dbhu ta ka ra bhra ma wā tsa su ga ta
+sya tsa ro tta ma ni dhi nā ma bi ha ra ti sma)"
+The life of the Buddha, by skal-bzang-chos-kyi-rgya-mtsho-bsod-nams-
+dbang-po'i-sde (18th century) in Bra-gor monastery.
+B (1v1-2) 7/sangs rgyas bcom Idan 'das kyi mam par thar pa rmad du
+byung ba mdsad pa 'khrul pa med par brjod pa bde bar gsegs pa'i spyod
+pa mchog gi gter kes by a ba/ byang chub sems dpa' sams (read: sems)
+dpa' chen po srid pa tha ma pa byang chub kyishing por char sprin ltar
+sngo bali tswa len pa la mngon par phyogs pa/
+C (268v6 - 26903) /sangs rgyas bcom Idan 'das kyi mam par thar pa rmad
+du byung ba mdsad pa 'khrul pa med par brjod pa bde bar gSegs pali spyod
+pa mchog gi gter zes by a ba 'di ni/ zab mo mkhyen pa'i spyan dang Idan
+pa chos kyi rje chag lo tsa ba rin chen chos kyi rgyal (269r) //po'i bkas
+nan tan du bskul ba dang/ rang gi slob ma mang po'i ngot/ bka' dang/
+de bar mkho ba'i bstan bcos tshang ma mams la byang bar byas la/ gsang
+chen thabs mkhas dang chos bcu pa dang/ das chen gyi mdo mams las
+bstan pa'i gdams ngag zab mos ne bar sim Zing/ theg pa chen po'i mdo
+sde rams kyi mthu las/ sangs rgyas kyi mdsad pa brjod par spobs pa
+can Säkya'i dge slong sna nam gyi btsun pa skal bzang cbos kyi rgya
+
+
+
+misbo bsod names dbang po'i sdes/ dmar ser can te sing pho stag gi lo
+chu stod kyi zla ba'i dkar phyogs kyi tshes brgyad rgyal bas chos kyi
+"khor lo bskor ba'i dus tshigs khyad par can gyi xin/ seng ge'i dus sbyor
+la rdsogs par dpal Idan bra gor gyi chos grwa chen por sbyar ba 'dis kyang
+lus can mtha' dag thub pa'i dbang po'i mdsad pa la dad pa brtan po thob
+par gyur cig/ // (The following, 2694-6, is an invocation of twenty stan-
+zas, seven syllables each.)
+Second colophon (2696) /ces pa 'di yang tsbul kbrims Tin cben gyis smas
+so// //
+CI. KATALOG 500. SCHMIDT/BOEHTLINGK 285-286. For a more detailed de
+scription of this work see 1. J. Schmidt, "Neueste Bereicherung der Tibetisch-Mon-
+golischen Abtheilung des Asiatischen Museums der Kaiserlichen Akademie der
+Wissenschaften", BHP, tome 1 (1844), no. 3. pp. 46-48 (also reprinted in B. Dom's
+Das Asiatische sem der Kaiserlichen Akademie der Wissenschaften zu St. Pe
+tersburg, St. Petersburg 1846, Beilage No. 142, pp. 680-683). Partially translat-
+ed by A. Schiefner, Eine tibetiscbe Lebensbescbreibung Cakyamuni's, des Be.
+gründers des Buddhathums, im Auszuge mitgetheilt, in Mémoires présentés a l'A-
+cademie Imperiale des Sciences de Saint-Pétersbourg par divers Sants, come
+VI, livraison 3, 1851, pp. 231-332 (not seen). See also O. Boehtlingk's "Rapport
+sur un mémoire intitulé 'Eine Tibetische Lebensbeschreibung Cakjamuni's, des
+Begründers des Buddhathums, im Auszuge mitgetheile von Anton Schiefner", BHP
+5 (1848), pp. 93-96.
+X (Mongolian edition), 61.3 x 10.2 cm. Foll. 180 (complete), 11. 5 (2 - 4r),
+6 (179v, 180r), and 7(end-leaf, verso blank). Printed on stout paper made
+of two sheets stuck together, defective in places. Illustrations: lv - Nine
+miniature portraits (text scarcely decipherable); 2. Chags med skyon bral
+padma 'byung gnas dpal (left), Gyal ba kun 'dus ghu ru rin po che (centre),
+Yon tan kun tdogs padma sam bha wa (right); 2v - mKhyen rab dbang phy48
+blo Idan mchog srid rtsal (left), Khams gsum dbang sdud ghu ru padma'i
+rgyal (right); 3c - 'Gro blo'i mun sel ši ma'i 'od zer 'phrod (left), Log Ita
+bdud(? the rest undecipherable) (right); 3 - Mu stegs dam sri 'dul mdsad(?)
+seng ge'i sgra (left), bgegs gtso'i rdo rje khro bo yod (right): 4r - Zab
+gter bstan pa rgyal mdsad u rgyan gling (left), bka' drin 'khor med rtsa
+ba'i bla mar 'dud (right); 179v - Text undecipherable (left), dpal Idan (the
+
+
+
+rest illegible) (right); 180r - Drang srong khyab 'jug tahan pos rten 'di gen
+(left), skyes bu ba dara sa dhus bka''di skyongs (tight). - J.K.C. 1961;
+presented by Mr. Č. Žugder (Ulan Bator).
+U rgy an ghu ru padma 'byung gnas kyi skyes rabs tam par that pargyos
+par bkod pa padma bka'i thang yig ces bya ba bíugs so
+Biography of Padmasambhava, found by O-rgyan-gling-pa in the cbu-'brug
+year (1352). Edited by bs Tan-pa-dar-rgyas. Provided with a postscript by
+Blo-bzang-bstan-'dsin-rgyal-mtshan (1639-1704) in the Padma-yo-ga colle-
+ge of the Ri-bo-dge-rgyas dga'-ldan-bśad-sgrub-gling monastery in Khu-te
+chen-mo (Urga), in the gdong-ngan/me-sprel year (1656).
+B (21-2) u rgyan skad du/ ru akça sa ka ra pa/ bod skad du/ ghu ru
+padma "byung gnas kyi skyes rabs mam par thar pa zes bya ba/bden pa
+rang byung sangs rgyas sku Inga 'chang/
+Extracts from the colophon (177v4.78016):
+1. fol. 177v4-7
+/dbyangs can sprul pa ye ses 'ts ho rgyal gyi (read: gyis)/
+/mi brjed gzungs thob ma 'ongs phyi rabs don/
+/padma bka' yi thang yig ces kyang bya/
+/mam thar skyes rabs rgyas pa žes kyang bya/
+khri srong Ide'u btsan bka' chems zes kyang bya/
+lo pan dkar chags chos kyi 'gyur by ang 'di/
+yi ger btab nas rio cben gter du sbas/
+skal Idan las 'phro can dang 'phrad par sog/
+chu 'brug zla ba bi pali tshes brgyad gza'zla ba dang skar ma do 'jom
+pa'i din yar klung sel gyi brag rdsong padma brtsegs pa'i ngos padma sel
+phug gi sgo srungs khyab 'jug chen po'i thugs ka nas ghu ru s rgyangling
+pas/ las Idan gyi grogs gzu kun rab hot ba sgom sāk dang bcas gter nas
+spyan drangs pa'o/ 78og ser sog dril gcig 'dug cing/ yi ge sam skri ta'i
+lugs su 'dug pa las ma dag pa tshig gcig kyang med par phab pa'o//
+II. foll. 179v6 . 1806
+/ces dpal o rgyan sangs rgyas gåis pa padma 'byung gnas kyi skyes rabs
+
+
+
+mam par thar pa rgyas par bkod pa padma'i bka'i thang yig es by a ba 'di
+la gter kha gong 'og nas 'byung ba tshigs bead lhugs mang (180r) //du
+yod pa las kyang dir ni tje orgyan gling pas gter nas gdan drangs ba
+bod dang ma ba si na'i yul du dar rgyas che bar beten gas/ yig dpon dad
+Idan dge slong bstan pa dar rgyas kyis par du bzengs pa'i dge bardsogs
+byang du bongo ba'i tshigs bcad 'di Ita bu zig dgos zes rab dkar Thardsas
+ja rgyali skyes legs dang bcas bskul ba'i ngor/ rgyal khams ba blo bzang
+bstan'dsin rgyal misban gyis rab tshes gdong ngan zes bya me pho sprel
+lo'i rgyal zla ba'i mar phyogs kyi dga' ba dang por sug bris su bgyis pa
+dge legs 'phel/ zwa ser bstan pa'i gsal byed sgron me'i/ /byang phyogs
+'gro ba yongs kyi mgon po skyabs mgon je btsun mchog gi gdan sa bsad
+bsgrub bstan pa'i 'byung gnas khu re chen mo ri bo dge rgyas dga' Idan
+bśad sgrub gling gi padma yo ga grwa tshang du 'byon pa 'dis kyang rgya
+bod hor sogs spyi dang khyad par hal ba'i yul khams kun gyi 'dre ngan
+sogs nag po hdud kyi dpung tshogs meg med dujoms sing bde skyid
+rdsogs ldan gyi dpal la 'gran pa'i dga' ston la spyod pa'i bsams don ma
+lus pa lhun gyis grub pat gyur cig/ sarba mangga lam/ //
+Cf. CYBIKOV 38 and 62. PATNA 1304, 1332, 1423. SCHIEFNER Bericht 434a
+(p. 20). SENDAI 7045. STEIN p. 39. WALSH 9-10. WENZEL p. 575. - Translated
+and/or discussed by E. Schlagintweit, "Die Lebensbeschreibung von Padma Sam
+bhava dem Begründer des Lamai smus, in Abbandlungen der philosopbisch-philo.
+logischer Klasse der Königlich Bayerischen Akademie der Wissenschaften (Mün-
+chen), vol. 21/2 (1898-9), pp. 417-444, and vol. 22/3 (1903-1), PP. 519-576. B.
+Laufer, Uber die Zeit der Abfassung der Lebensbeschreibung des Padmasambha-
+va, in his Der Rom. einer tibetischen Königin (Leipzig 1911), PP. 239-251. G.
+C. Toussaint, Le dict de Padma. Padma thang yig, MS. de Litbang (Bibliothè-
+que de l'Institut des Hautes Erudes Chinoises III), Paris 1933. Separace parts
+of this translation appeared in BEFEO 20/4 (1920), pp. 13-56; A 203 (1923), pp.
+257-328, and Etudes asiatiques II (1925), PP. 313-373.) For further bibliographi-
+cal references, see G. C. Toussaint, op. cit., p.), and A. l. Voscrikov, Tibetska
+ja istorice skaja literatura (Bibliotheca Buddhica XXXII), Moscow 1962, pp. 29-
+36 (with notes on pp. 163-176).
+No. 50
+MS, 44.3 x 10.8 cm. Foll. 34 (complete), 11. 6 (lv), 8 (2r - 33t) and 7 (33v).
+End-leaf: recto 4 11., verso blank (tabs). Very finely written in dbw.can
+on stout paper. Sign in the left margin (recto): GA. Two water-coloured
+62
+
+
+
+right). - O.L.C. RT 34,
+portraits on fol.lv: Te lo (left) and bDe mchog (?
+Acc. no. 4450/60; presented by N.M. (UH 137/1.).
+Nel 'byor gyi dbang phyung (read: phyug) te lo pa'i ram 'thar (read: thor)
+'gur 'bum grub pa'i gtam bzang// tshangs pa'i sgradbyangs íes bya ba
+bíugs pa'i dbu phyogs bíugs pa lags sho he he
+Biography of Ti-lo-pa (about 950 A. D.), by 'Od-dpag-rdo-rje in the
+mNgon-dga' hermitage."
+B (1v1-2)// //om swa sti bhe/ mam gha lam sidbi swaha// 'gro loga
+'di dag sangs rgyas mnga' bdag řid/ /gar mkhan bzang dang ri mo mkhan
+Itar snang//
+C (34r1-4) /dpal bde mchog 'khor lo'i grub pa bsnes pa dpal Idan te lo
+prad dsia bha tra'i mam par thar pa dang/ rdo rje'i 'gur cung zad bsdus
+pa byin bulabs kyis sprin chen chos kyi sgra dbyangs íes by a ba chos kyi
+blo gros dang ldan ba'i (read: pa'i)/ mal 'byor pa 'od dpag rdo rje ies
+bya ba magon dga'i ri khrod du bkod pa 'dis kyang sangs rgyas kyi bstan
+pa yun ring du gnas sing 'gro kun rdo rje 'dsin ba'i (read: pa'i) go 'phang
+myur du thob par gyur cig/ swiha// // 'di bris dge bas bdag dang yon
+mchod 'khor bcas dang/ /khams gsum sems can sangs rgyas myur thob
+sog/ //dge'o/ zal dro'o// //
+CF. BACOT Titres 33(?). PATNA 1313-1314(?). - On Telo-pa or Ti-lo-pa see
+GRÜNWEDEL p. 170, and HOFFMANN p. 141 et seq.
+No. 51
+MS, 44.3 x 10.8 cm. Foll. 34 (complete), 11. 8 (lv, 3r - 33v) and 7 (2r, 2v).
+End-leaf: recto 7 11., verso blank (tabs sog). Very finely written in dbw.can
+on stout paper, black and red. Sign in the left margin (recto): NGA. Two
+water-coloured portraits on fol. lv: Na ro (left) and Kye'i rdo rje (right). -
+0.1.C. RT 35, Acc. no. 4450/60; presented by N.M. (UH 137/1.).
+Grub pa'i dbang phyug dpal Idan na (read: nd) to po'i mam par thor pa/
+dpag bsam gyis (read: gyi) dga' tshal chos kyi sgradbyangs béugs sho ang//
+
+
+
+Biography of Na-to-pa (1016-1100), by 'Od-dpag-rdo-rje in the tnNgon
+(par)-dga' (-ba) hermitage."
+B(lvl) //bsod nams chu gter las thon ye( $) es Ihun po géan doa dpag
+bsam egyas/
+C (34r6-7) /grub pa'i dbang phyug dpal ldan na (read: nä) to pa'i/ ram
+par thar pa dpag bsam gyis (read: gyi) dga' 'tsbal (read: tshal) chos kyi
+sgra dbyangs zes bya ba 'di ni mal 'byor pa 'od dpag rdo rje žes bya bas/
+magon bair (read: par) dga' ba'i ri khrod du bkod pa rdsogs sho// //main
+gha lam bha wan tu mari// //
+CF. BACOT Titres 33(?). - On Naropa (or Nadapada, Nátotapa), see A. Grün wedel,
+Die Legenden des Nā-ro-pa, Leipzig 1933 (and corrections provided by G. Tucci,
+"A propos the Legend of Náropa". J RAS 1935, pp. 677-688). H. V. Guenther, The
+Life and Teaching of Närope, Oxford 1963. See also GRÜNWEDEL pp. 168-169.
+No. 52
+MS, 44.3 x 10.8 cm. Foll. 50 (complete), numbered 1 to 51 (the same folio
+43 numbered 43 and 44). Lines 6 (1v), 8 (2 - 50r) and 7 (50v); end-leaf:
+recto 4 11., verso blank (tabs). Very finely written in dbu-can on stout
+paper, black and red. Sign in the left margin (recto): CA. Two water-co-
+loured portraits on fol. 1v: Mar ba (read: pa) (left) and Kye'i rdo rje (right).-
+0.1.C. RT 36, Acc. no. 4450/60; presented by N.M. (UH 137/1.).
+mNga' bdag mar pa lotstsha'i mam thar mgur 'bum bde chen 'brug sgra
+sian ba'i (read: pa'i) sgra dbyangs tes bya ba bzugs so ang
+Biography of Mar-pa the Translator (1012-1097), by 'Od-dpag-med-do-rje
+in the mNgon-dga' bermitage."
+B (vl) //'gro kun kun mkhyen lam la 'god pa'i sku/
+C(50v7 - 5114) //dpal mar pa lo tstsha'i mam par thar pl (517) //mgur
+'bum/ cung zig bkod pa byin brlabs bde chen 'brug sgra sňan ba'i (read:
+
+
+
+pa'i) sgra dbyangs tes bya bad chos kyi blo gros dang Idan ba'i (read:
+pa'l) roal 'byor pa/ 'od dpag med rdo rje zes bya bas mngon dga'i ri khrod
+du bkod pa re sig rdsogs sho// //
+bka' tgyud bla ma'i thugs dgongs rdsogs phyir dang/
+/drio can pha ma'i sdig sgrib sbyang slad du/
+'di bris dge bas bdag dang yon mchod rams/
+mngon dga'i zing du sangs rgyus (read: rgyas) myur tbob sog/
+//bkra sis dpal 'bar'dsam gling brgyan du sog//
+/dge'o/ zal dro bar sog/ /
+Cf. BACOT Titres 27 (?) and 33(?). PATNA 1315-1316(?). WALSH 16(?). - For
+translations of Mar-pa's biography see J. Bacot, La vie de Marpa le "Traducteur"
+(Buddhica, lre série, tome VII), Paris 1937. Liu Li-ch'ien, "Ma-pa i-shih chuan".
+in the K'ang Tsang yen-chis ydeb-k'an, nos. 1-22, Ch'eng-tu 1946-19-48.
+No. 53*
+X (Derge edition), 54 x 10.5 cm. Foll. 102 (complete), II. 5 (lv, 2r) and
+6 (end-leaf, verso blank). Very finely printed on good paper. Title in the
+left margin (recto): Mila. Pictures on fol. lv: Rim găis gom pas grub pa'i
+grong/ /rab son bżad pa'i rdo rje can (left), Grub pa'i lugs bzang gangs
+can ljongs/ /gsal mdsad zla 'od gźon nu'i tabs (right). - J.K.C., Peking
+1959.
+Nel 'byor gyi dbang phyug dom pa rje btsun mi la ros pa'i rnam thar thar
+pa dang thams cad mkhyen pa'i lom ston bzugs so
+Biography of Mi-la-ras-pa (c. 1040-1123), by mal-'by or-pa Rus-pa'i-rgyan
+can (1084-1161) in the pbur-bu ( sa-spre) year (1128)."
+B (1v1-2) //na mo gu ru/chos sku'i lha lam ma rig chu 'dsin gdod bral
+dbyings na gzugs sku lag pa'i Hin mtshan mgon ni bdud chu'i sgra gcan
+Itsa bral "phrin las mkhyen brtse'i 'od 'gyed mtha' yas dpal 'bar bas/
+C (102r4-6) /mal 'byor gyi dbang phyug dam pa tje btsun mi la ras pali
+mam par thar pa/ thar pa dang thams cad mkhyen pa'i lam ston mgur
+chings dang bcas pa 'di Nid/ tje btsun gyi mnam thar du ma mthong nalang/
+
+
+
+thun mong ma yin pa'i slob dpon gyi žal nas byung ba ji lta ba báin dur
+khrod nul ba'i moal 'byor pa rus pa'i rgyan can gyis/ phur buli lo ston
+zla 'bring po'i yar tshes brgyad la/ ma dang mkha' 'gro 'du ba'i gnas
+chen "brog la phyi gangs kyi ra bar dag cing rdsogs par yi ger bkod pa
+"dis kyang/ bstan pa dang sems can la phan bde rgya chen po 'khor ba
+ma stongs kyi bar du "byung bar gyur cig/ sarba mangga lam// //
+Cf. KATALOG 519. NEBESKY-WOJKOWITZ Vienna 134479 (p. 203). PATNA 1398.
+SCHIEFNER Bericht 436c. (p. 21). SENDAI 7046. STEIN p. 38. TAUBE Hand-
+schriften 2741. WALSH 8. See also BACOT Titres 28 and 29. - Tibetan text edit-
+ed by J. W. de Jong, Mi Taras para tbar. Texte tibélais de la vie de Milard
+pa (= Indo-Iranian Monographs IV), 's-Gravenhage 1959. For translations of Mi-
+la-cas-pa's biography see J. Bacor, Le poéte tibétain Milarépa (Les Classiques
+de l'Orient XI), Paris 1925. W. Y. Evans-Wentz (ed.), Tibet's Great Yogi Milare-
+pa, London 1928 (2nd ed., 1951), and the same in German translation, Milarepa -
+Tibets grosser Yogi München-Planegg 1937. Vang l-nuan, Hsietsang sheng-che
+Mr-la-fab-pa li t-sheng (1949), 2nd edn., Shanghai 1955. See also HTWH pp. 16-17.
+For further bibliographical references see J. W. de Jong, op. cit., Préface, pp. 7-14.
+No. 54
+MS, 44 x 10.8 cm. Foll. 172 (incomplete), numbered 1 to 183 (desunt foll.
+30-39 incl.; the same folio 143 numbered 143 and 144). Lines 6-8; end-
+leaf: recto 4 11., verso blank (abs lags sho). Very finely written in dbu.
+can on stout paper, black and red. Sign in the left margin (recto): CHA.
+Two water-coloured portraits on fol. lv: Mi la (left) and Kye'i rdo rje
+(right). - 0.1.C. RT 37, Acc. no. 4450/60; presented by N.M. (UH 137/1.).
+dPal mi la ras pa'i ram thar 'gur 'bum bsam yas lha Inga'l sgra dbyangs
+bíugs so
+Mi-la-ras-pa (c. 1040-1123), his Biography and Chants, by 'Od-dpag-rdo-
+rje in the mNgon (-par)-dga'(-ba) hermitage.
+B (1v1) // // om swa sti/ rin chen ri bo'i dbus na lhun po Itar/
+C (182v7 - 183r4) /tshul 'di ni dpal ras chung pa'i mam thar géir géag
+(183r) //oas do rje'i 'gur mams kyi gleng gźi dang/ 'gur yig mang po
+
+
+
+ltas nas/ roam thar dang'grig pa rams so sor bkod pa/ dpal mi la ras
+pa'i rnam par thar pa dang/ 'gur 'bum rag (read: rags) rim bsdus pa/ bsamin
+yas lha Inga'i sgra dbyangs zes bya ba 'di ni chos kyi blo gros dang dan
+pa'i mal 'byor pa 'od dpag rdo rje zes bya bas mngon bar (read: par) dga'
+ba'i ri khrod du bkod pa'o/ /'di bris dge bas bdag dang yon bdag dang/
+'gro drug sems can ma. lus mams/ yang dag rdsogs pa'i sangs rgyas myur
+thob sog/ // //dge legs su gyur cig// //bkra śis so// //tal dro//
+Cf. BACOT Titres 28-30. SCHIEFNER Bericht 436d. (p. 21). TAUBE Handschrif-
+ten 2742-2743. For further references on Mi-la-ras-pa, see No. 53 above.
+No. 55
+MS, 44 x 10.8 cm. Foll. 44 (complete), 11. 6 (1v) and 8. End-leaf: recto 5
+11., verso blank (éabs sog). Very finely written in dbu-can on stout paper,
+black and red. Two water-coloured portraits on fol. lv: sGan po pa (left);
+the inscription in dbw-med under the picture on the right side undecipher-
+able. - O.I.C. RT 38, Acc, no. 4450/60; presented by N.M. (UL 137/1.).
+dPal dags (read: dwogs) po zla 'od głon nu'i mam thar'gur bcas 'dsam
+gling kun khyab grags pa'i sgra dbyangs bíugs so
+Biography of Zla-'od-gżon-au of Dwags-po (1079-1153), by 'Od-dpag-rdo-
+rje in the mNgon-dga' hermitage."
+B (Iv) // //or gu ra (read: ru) maha sid dhi bhe/ mtshan dpes rab
+brgyan sgyu 'phrul bkod mdsad sku/
+C (44r1-5) /bla ma chos rje rin po che sgam po pa'i rnam thar 'gur 'bum
+dang bcas pa di ni me gpas chen co bãi dang bran ka ri chen po la sogs
+pa'i slob ma mams bka' sgros nas phyogs cig tu sdebs pa yin no/ /de
+Nid gźir byas nas mam thar gían las cung zadrgyas pa rnams kha bkang
+ba yin bas (read: pas) de Itar ses par bya'o/
+/de Itar zla med zla 'od głon nu yis (read: yi)/
+/rnam thar 'gur 'bum 'gur bcas dkyil 'khor yongs rdsogs par/
+/rab yangs ses bya'i mkha' la rab bkod pas/
+/bdag sogs 'gro kun kun mkhyen mchog thob sog
+
+
+
+grub pa'i dbang phyug dpal Idan 'gran zla thams cad dang bral ba sgam
+po pa zla 'od głon nu'i mam thar 'gur dang bcas pa ston zla rab rayas
+'dsam gling kan khyab grags pa'i sgra dbyangs zes bya ba roal 'byor pa
+od dpag rdo rjes mngon dga'i ri khrod du bkod pa'o// //'di bris dge bas
+you mchod sangs reyas myur thob sog/ //dge Eing bkra fis par gyur cig/ //
+No. 56
+MS, 44.2 x 11 cm. Foll. 29 (complete), 11. 6 (lv), 7 (26) and 8 (end-leaf,
+verso 2 11.). Very finely written in dbw-cam on stout paper, black and red.
+Two water-coloured portraits on fol. 14: Phag mo grub pa (left) and De
+mchogt? - right). - O.I.C. RT 39, Acc. no. 4450/60; presented by N.M.
+(UH 137/1.).
+dPal phag mo grub pa'i mam thar 'gur 'bum grags pa'l agra dbyangs
+bług(s )so
+Biography of Phag-mo-grub-pa (1110-1170), by 'Od-dpag-rdo-rje in the
+mNgon-dga' hermitage.
+B (1 v1) 7/gang tig ses bya'i dkyil 'khor yongs rdsogs sku/
+C (29v1-2) /dpal Idan phag mo grub pa'i roam par thar pa/ 'gur dang bcas
+pa grags pa'i sgra dbyangs Zes bya ba/ chos kyi blo gros dang Idan ba'i
+(read: pa'i) coal 'byor pa 'od dpag rdo rjes magon dga'i ri khrod du bkod
+pa'o/ /'di bris dge bas yon mchod sangs rgyas 'grub par sog /rdsogs
+sho// //dge'o/ zal dro// bkra sis so// //
+No. 57
+MS, 44 x 11 cm. Foll. 30 (complete), 11.7(lv, 2r) and 8 (end-leaf, verso 3
+11.). Very finely written in dbu-can on stout paper, black and red. Two
+water-coloured portraits on fol. lv: Gling ras (left) and bDe mchog?
+right). -0.1.C. RT 40, Acc, no. 4450/60; presented by N.M. (UH 137/1.).
+68
+
+
+
+Grub thob gling ras kyl ram thar 'gur 'bum bsdus pa seng ge'i sgradbyangs
+bug(s) sa
+Biography of Gling-ras-pa (1128-1128), by 'Od-dpag-rdo-rje in the mNgon-
+dga' hermitage."
+B(Ivi) //bde chen 'gyur med mngon gyur gdong Inga pa/
+C (30v1-3) /grub pa'i dbang po gling ras pa'i mam thar 'gur "buen seng
+ge'i sgra dbyangs zes bya ba chos kyi blo gros dang ldan ba'i (read: pa'i)
+moal 'byor pa 'od dpag rdo rjes mngoc dga'i rikbrod kyi dben gnas su ye
+(read: yi) ger bkod pa'o// //'di bris dge bas yon mchod togs pa gling
+ras pa dang mňam par sog/ dgo'o (tead: dge'o)// // tal dro'o// //bkra
+sis so// //legs so// //
+No. 58
+MS, 44.3 x 11 cm. Foll. 19 (complete), 11. 6 (1v, 2r) and 8 (end-leaf, verso
+2 11.). Very finely written in dbw-car on stout paper, black and red. Two
+water-coloured portraits on fol. 1v: gTsang pa rGya ras (left) and Kye'i
+rdo rje (right). -0.1.C. RT 41, Ace. no. 4450/60; presented by N.M.
+(UH 137/1.).
+gTsang pa rgya ras kyi nam thar 'gur "bum khyu mchog gi sgra dbyangs
+bugs so
+Biography of gTsang-parGya-ras-pa (1161-1211), by 'Od-dpag-rdo-rje in
+the mNgon-dga' hermitage."
+B (IvI) //bdag gis skal pa du mar tshogs gåis chu gter bsags/
+C (19v1-2) mal 'byor gyi dbang phyug gtsang pa rgya ras kyi mam thar
+'gur 'bum yon tan kun 'byung/ glang po rin po che'i sgra dbyangs Ees
+bya ba/ chos smra ba'i mal 'byor pa 'od dpag rdo rje Les bya bas mngon
+dga'i ri khrod du bkod pa rdsog(s) sho// //'di bris dge bas yon mchod
+sangs rgyas myur thob sog/ //mani gba lan swaha// //
+
+
+
+No. 59*
+X (Der ge edition), 53.5 x 10.5 cm. Foll. 64 (complete), 11. 5 (1v) and 6
+(end-leaf verso blank). Well printed on good paper. Titles in the left mar-
+gin: Gyal sras (recto) and Bla wa'i mam thar (verso). - J.K.C., Peking
+1959.
+rGyal sras rin po che thogs med bzang po dpal gyi mam par thar pa gian
+la phan pa'i 'od zer íes by a ba bługs
+Biography of Gyal-stas rin-po-che Thogs-med-bzang-po-dpal (1295-1369),
+by dPal-gyi-rin-chen (14th/15th century)." Edited by Kun-dga'-phrio-las-
+rgya-mtsho.
+B (1 v1-2) //na mo gu ru ratna/ dus gsum gyi rgyal ba sras dang bcas
+pa thams cad kyi mkhyen brtse dang phrin las gcig tu bsdus pa'i bdag Hid
+rgyal sras rin po che'i mam par thar pa gźan la phan pa'i 'od zer zes bya
+ba/ bla ma dang dkon' mchog gsum la phyag 'tshal lo/
+C (64r3-6) //rgyal sras lag len gyi don gyi 'grel pa legs par bśad pa
+padmo'i chal (read: padma'i tshal) zes kyang bya/ rgyal sras rin po che'i
+mam par thar pa gían la phan pa'i 'od zer zes kyang bya ba mtshan giis
+dang Idan pa'i mam par thar pa 'di rtsom pa'i dus surmi lam du sems dpa
+chen po ñid kyi bkas gnang ba'i rten 'brel yang byung Zing/ gzan phan
+gyi blos 'di rts om dus din re bžin sems bskyed lan gsum gsum blangs te/
+sgro skur dang rang bzo spangs nas/ rang gzan la phan pa'i don du dpal
+Idan bla ma dam pa rgyal sras rin po che de l'id la mos pa dang gus pa
+Thur len pa žan po ba (read: pa) btsun pa dpal gyi rin cben gyis phag loss
+zla ba gsum pali tshes bcu gsum la tigru 'dsin dngul chu'i dben gnas su
+rdiogs par blod pa'o// //bi dsa yantu/
+byang chub spyod gsal chos kyi sbyin pa'i rgyun/
+/dpal ldan stobs bcu mnga' ba'i chos skyong ba/
+/da (read: de) yi bka' Itar sde dge bla ma che/
+/kun dga' phrin las rgya mis hos rnam par spel/
+sarba mangga lam// //
+Ct. CHANDRA Imprimeries 80.
+
+
+
+VI. SPECIALISED SUBJECTS
+1. Poetry
+No. 60
+X, 26 x 7.8 cm. Foll. 10 (complete), IL 3 (lv), 4 (26) and 5 (end-leaf: recto
+2 11., verso blank). Printed on thin paper of a rather poor quality, imper-
+fect in places. - O.I.C. XyT 15, Acc. no. 449/60; presented by N.M.
+(205c/57).
+Tshangs dbyangs rgya mtsho'i mam thar sňan 'grugs kyis bkod pa ces by a
+ba bługs so
+Love songs of the Sixth Dalai Lama Tshangs-dbyangs-rgya-mtsho (1683.
+1706).01
+B (1v1-2) 7/sar phyogs ri bo'i rtse nas dkar gsal zla ba sar byung/
+E (10r1-2) /'di nas khrig khrig mi 'dug de nas khrig khrig gnang zu//
+dsa yan tu// //
+CE. WALSH 42. - Tibetan text edited by S. C. Das, An Introduction to the Gram
+mar of the Tibetan Language (Darjeeling 1915), Appendix IX, pp. 33-35. For trans
+lations see Ya Dawchyuan (Yü Tao-ch'uan), Love Songs of the Sixth Dalailama
+Tsang s-dbyangsergy-misho (Academia Sinica Monographs, Series A. No. 5). Pei-
+ping 1930. Liu Chia-chü, Hsi-isang ch'ingeko, Shanghai 1932. DAVID-NEEL Pp.
+83-96. Wang I-nua, H stetsang Iwan sbih cbi, Peking 1958 (passim). M. H. Duncan
+Love Songs and Proverbs of Tibet (London 1961), pp. 119-135.
+No. 61*
+Duplicate of No. 60. - J.K.C., Peking 26. 5. 1959
+
+
+
+Tshangs dbyangs rgya mtsho'i mam thar såan "grugs kyis bkod pa ces
+bye ba bíugs so
+Love songs of the Sixth Dalai Lama Tshangs-dbyangs-rgya-mtsho (1683-
+1706).
+No. 62*
+X (printed by the Church of Scotland Guild Mission at the Tibetan Press,
+Kalimpong), 25.5 x 9.6 cm. Foll. 8 (complete), 11. 5-8. Well printed on good
+paper. - J.K.C., Peking 17. 10. 1957.
+dPal gyi chos "khor lha sa dran glu bugs so
+Memories of Lhasa. Composed by H. E. Shelkarlingpa (i. e. Sel-dkar-gling-
+pa), at Darjeeling, in 1910. Edited and published by Tharchin (i.e. m Thar-
+phyin) in 1936.
+B (1v1-2) // gang gang rkyen las grub pa'i dagos ma lus/ /de de rang
+bzin did kyi stong gyur kyang/
+C (8r8) /sa skyong mi dbang sel gling mchog nas 'pbags yul rdor gling
+du bługs skabs brtsams par mdsad pa'o// //
+CE. A Song of Lhasa Memories and A Poem in Alpabetical Order. Composed by
+H. E. Shelkarlingpa at Darjeeling in 1911, on the occasion of H. H. che 13th
+Dalai Lama's visit to India. Third revised edition. Printed and published by G.
+Tharchin at the Tibet Mirror Press, Kalimpong 1965.
+2. "Politics
+No. 63
+X (Derge edition), 54 x 10,5 cm. Foll 79 (complete), 11. 4 (1v, 2r) and 6
+(end-leaf: recto 3 11., verso blank). Well printed on good paper. Sign in
+
+
+
+the left margin (recto): OM. Title in the left margin (verso): Ra dsa śdstrani.
+Miniature portraits: lv - Gyal ba sras dang bcas pa yi/ /mkhyen pa'i dkyil
+chor "jam dpal dbyangs (centre); 2r - Gangs khrod mkhas pa'i dbang po che/
+/mi pham mam par rgyal ba'i zabs (centre). - J.K.C., Peking 1959.
+Gy al po lugs kyi bstan bcos sa gíi skyong ba'i rgyan íes bye ba bíugs so
+(Ra dsa ni ti sa stra bha mi pa la sya la ngkara na ma bi ha ta ti sma)
+Rajanītisastra, by Mi-pham-tnam-par-rgyal-ba alias 'Jam-dpal-dgyes-pa'i-
+rdo-rje (1846-1914?) in Hun-grub-steng monastery, in the Sing-lug year
+(1895). Scribe bSod-sams-dpal-grub.
+B (1v1-2) 7/egya gar skad du/ rādsa ni ti śāstra bhū mi på la sya sa
+langkā ra nā ma/ bod skad du/ rgyal po lugs kyi bs tan bcos sa gîi skyong
+ba'i rgyan {es bya ba/ bla ma dang mgon po 'jam pa'i dbyangs la phyag
+'tsbal lo/
+Chapters:
+1. Bag yod pal'i rab tu byed pa) (1v-3v)
+2. Mi bdag mkhas pa brtag pa (3v-6v)
+3. sPyod pa brtag pa (6v-9v)
+4. bDag dang gian gyi ngag brtag pa (9v-12v)
+5. 'Khor gyi skye bo brtag pa (12v-17)
+6. Den smra lung bstan pa'i mdo las gsungs pa rgyal po'i tshul gyi le'u'i
+don bśad pa (17-251)
+7. mDo sde dran pa šer bzag las gsungs pa rgyal po'i lugs (257-275)
+8. gSer 'od dam pa las byung ba'i rgyal po lugs kyi bstan bcos (27v-29v)
+9. brTan zing brtson pa brtag pa (29v-34r)
+10. Mi bdag dul ba brtag pa (34r-36v)
+11. Kun la sňoms pa brtag pa (36v-398)
+12. sNing rje brtag pa (39v-42v)
+13. Mi yi bdag po rang gis rang nid legs par bsrung ba'i tshul brtag pa
+(42v-511)
+14. Yul 'khor bde bar srung ba'i tshul brtag pa (511-54v)
+15. Gros brtag pa (547-56v)
+16. dGe beu'i chos dang Idan pa'i tsbul brtag pa (56v-58v)
+17. Chos kyi rgyal po'i khrims brtag pa (58v-63v)
+
+
+
+18. Thabs la mkhas pa'i sgo nas phyogs las ram par rgyal ba'i tshul
+brtag pa (63v-681)
+19. Chos la sems pa'i tshul brtag pa (68r-70v)
+20. bsod nams by a ba'i dogos po brtag pa (70v-74)
+21. Lugs la gaas pa dang lugs kyi bstan bcos kyi yon tan brtag pa (741-76)
+C (7712 - 78v1) /ces rgyal po lugs kyi bstan bcos sa gti skyong baligyan
+Zes bya ba 'di'ang/ rgyal ba'i sras po gang Zig rgyal rigs sing si la chen
+po Ita bur smon lam gyi dbang gis sku "khrungs pa/ chung ngu'i dus nas
+dam pa'i ngang tshul ma sbas par gsal ing/ ya rabs kyi lugs la sin tu
+gzol ba/ dam pa'i chos don du gñer ba la mi ldog pa'i 'dun brtson dang/
+mkhyen rab kyi spyan ras mchog tu yangs pa/ ris su ma chad pa'i bistan
+pa dang sems can la phan pa'i thugs bskyed mchog tu dkar ba sogs bsngags
+'os kyi yon tan rgya mtshos mdses sing/ dkar phyogs skyong ba'i lhamams
+kyis "jigs med seng ge'i khri la mnga' gsol ba/ mdo khams sde dge sa
+skyong bla ma ngag dbang 'jam dpal rin chen gyi žal saga nas lha rdsas
+bzang po'i gnang skyes dang bcas te rgyal po lugs kyi bstan bcos don'dus
+la/ yig tshogs mang ba la mi 'dsem par mchog dman sus kyang sin tu go
+sla ba sig bris na sõigs dus (77v) kyi skye 'gro ratas la phan pa'i gsos
+su 'gyur ba'i slad du spar du bkod rgyu'i thugs 'dun gyis bskul ma nan tan
+mdsad pa las/ mdo rgyud rig gnas dang beas pa'i gžung la thos bsam gyi
+mig thob pas/ legs par bsad pa kun la mi "jigs pa'i spobs pa dge ba can/
+bstan 'gro'i don la lhag bsam mi dman Zing/ thag pa'i lha yi Labs pad gus
+pa'i grsug gis len pa mi pbam Tham par rgyal ba'am/ jam dpal dgyes pa'i
+rdo rje žes by a bas/ 'phags pa gser 'od dam pa dang/ sa sing 'khor lo
+bcu pa/ mdo sde dran pa ner gzag /byang chub sems dpa'i spyod yul la
+thabs kyis roam par 'phrul pa bstan pa'i mdo/ klu yi rgyal po mga sgra'i
+tshigs bead sogs de bzin gśegs pa'i bka' du ma dang/ slob dpon klu sgrub
+kyis mdsad pa'i lugs kyi bstan bcos ses rab brgya pad /ses rab sdong bu/
+skye bo gso ba'i thigs pa mams dang/ gźan yang tin chen phreng ba sogs
+gtam tshogs skor dang/ slob dpon ma ti isi tras rgyal po ka nis ka la
+springs pa dang/ sangs rgyas gsang bas bod rgyal blon la spring
+ba sogs spring yig dang gtam tshogs kyi skor roams dang/ ki ma
+sbas pa'l tshigs su bcad pa'i mdsod/ mcbog sred kyi tshigs bcad brgya
+pa/ ma su rakšas byas pa'i lugs kyi bstan bcos/ /tsa na (78t) //ka't
+rgyal po lugs kyi bstan bcos/ dor yod 'cbar gyi dris lan rin po che'i phreng
+ba/ dpal Idan sa skya pandi ta'i legs par bśad pa sogs rgya bod mkhas
+pas betsams pa'i lugs kyi bstan bcos du ma dang/ bod yul chos rgyal roams
+kyi bka' chems sogs gžung sna tshogs las gsungs pa'i lugs dang lugs min
+
+
+
+rnam par 'byed pa'i don mtha' dag gcig tu bsdus nas/ chos srid lugs brgya'il
+dun sa chen po dpal ldan lhun grub steng du grags pa chos kyi rgyal po'i
+rgyal khab pho brang chen po'i gnas ga la bar/ rab tshes Sing mo lug gi
+lo'i cho 'phrul zla ba'i yar tsbes bcu bzi gza' ska mchog tu dge ba la dbu
+brtsams nas/ legs smon gyis 'brel ba'i dbang gis gzung 'di skul ba po lha
+sras sa dbang bla ma rin po che ngag dbang 'jam dpal rin chen sogs la
+byams chos skor gzung bſad bgyis pa'i thun gseng rnams su bris te/ phyi
+ma dbo z la ba'i dkar phyogs kyi dga' ba gỏis pa gza' skar legs sing dus
+dge ba'i char grub par bgyis pa'i yi ge pa ni yig ris dang/ tig by ed kyi
+gzung mams la blo gros gsal ba mdun na 'don bs od namsidpallgrubkyis bgyis
+pa ste/ 'dis kyang nam mkha' ji stid du bstan pa dang sems can la phan
+pa rgya chen po 'byung ba'i rgyu byed par gyur cig/. //(78v) mangga lam//
+(The following, 78v1 - 7972, is a prarthanā of thirty-two stanzas, nine syl
+lables each.)
+Second colophon (79-2-3) ces spar byang smon lam tshigs su bcad pa'i
+me tog bkra šis rtags kyi grangs ldan 'di'ang 'jam mgon bla ma rin po che
+dang/ sa skyong ma ha pandi ta mchod yon gyi bka' drin chen pos bskyangs
+pa'i gus 'bangs "jam dbyangs dge legs chos 'pbel lam/bsod nams dpal
+grub kyis Thun grub steng gi rgyal khab chen por smras pa dsa yantu//
+C. BACOT Titres 53. CHANDRA Materials 1 3182 (p. 160a). NEBESKY-WOJKO-
+WITZ Vienna 134472 (p. 190). PATNA 1268. - * Addendum: Rgyal po lngs krys
+bstan bcos sa géi skyong ba'i rgyan zes bya ba bzugs so. Rajniti Shastra Bhu-
+palsya Alankara in Tibetan, by Kheschhorg Mipham. Published by Gelong Jamyang
+Ladakh Institute of Higher Studies, Alipur, Delhi (India) 1968.
+3. Lexicography, Orthography, etc.
+No. 64*
+X (Nepalese edition), 50 x 10.5 cm. Foll. 53 (complete), 11. 6-8 (end-leaf
+verso blank). Very finely printed in large and small dbw.can, variously co-
+loured. Title in the left margin (recto): Dag yig ke ta ka. - J.K.C., Pe-
+king 1959; presented by Mr. Blo-bzang Kun-dga' (Lhasa).
+
+
+
+Bod tab lo 927 (left), rGya spyi'i lo 1954 (right)
+Bod kyl brda yi batan bcos bye brag gsal bar byed pa legs bad ke ta ka
+yi do Sal fes bya ba bługs so
+(Bho ţa sam dsnä sa stran bi ma tran kah ka ra su bha si ta ke ta ka ha
+ra khya bi dsa ha ra)"
+Tibetan lexicon and four other minor works on the correct use of words,
+by Ngag-dbang-yon-tan-pa during the lcags-yos (1951) and the cbu-'brug
+(1952) years. Scribe Ngag-dang-chos-grags. Printing blocks kept at the
+School of medicine and astrology (sMan rtsis slob-grwa) of the gSong-rong-
+spyi-dgon Kun-dga'-gling monastery in Sar-khums (Eastern Nepal).
+B (1v5-214) //mkhyen pa chen pos srid £i miam par gzigs/
+/thugs tjes gdul bya'dul la spro bas drangs//
+//gsung dbyangs drug cus thar pa'i lam ston pa/
+/rnam 'dren så kya seng ger phyag 'tshal lo//
+Chapters:
+1. Ngon 'jug tjes 'jug sogs yi ge'i sbyor ba tgyas par béad pa (3r-43v)
+2. gDam aga can bsad pa (43v-456)
+3. Don geig la tshig sna mang 'jug par bsad pa (45r-48r)
+4. Tshig geig, gis don mang la 'jug par bśad pa (48-49v)
+5. sByor tshul tshig 'phrad dang bcas pa rgyas par bsad pa (49v-51v)
+C (52v3 - 5318) Zes dag yig ke ta ka żes bya ba 'di ni rong 'di phyogs
+su dag yig ha cang dkon stabs kyis saga ma nas 'di 'dra Lig rtsom 'dun
+yod khar/ spyi dgon 'di ka'i dge 'dun spyi nas nan chen pos bskul ma
+mdsad pa Itar ia lu lo tsas mds ad pa'i za ma tog ngag dbang 'fig rten
+dbang physg grags pa'i rdo rjes ljags 'grigs mdsad pa'i mngon brjod mkhas
+pa'i ma rgyan/ dpal khang lo tsas mdsad pa'i dag yig ngag sgron/ ngag!
+dbang rdo rjes mdsad pa'i me long ma/ sa pan gyis mdsad pa'i sdeb sbyor
+rin chen rgya mtsho/ mkhas dbang tsbe Ting dbang rgyal gyis mdsad pa'i
+ka li'i phreng 'grigs/ tsis zur rgya mtsbos mdsad pa'i agron gsalmams
+gir bzung mkhan chen ngag dbang batan dar gyis mdsad pa'i legs bsad
+skya rengs gsar pa dang/ yig bsad mkhas pa'i kha rgyan/ rje dharma
+bba dras mdsad pa'i mngon bejod rgya mtsho'i chu thigs/ dbyangs can
+grub pas mdsad pa'i brda gsar ning khyad par bstan pa gsar bu'i blo gros
+
+
+
+skyed byed/ ngag dbang yon tan gyis mdsad pa'i kun brus/ kbams brag
+pas ngagsgron mchan bkod bcas kyis zur brgyar/ kå mad sum cu 'phul
+dang mgo med kyang pa go sla ba mams kyang bod skad legs par mi ses
+pa nams la mokho ched 'grigs gang thub bgyis te bkod pa 'di ni la stod
+rdsa rong skyabs nje wgag dbang bstan'dsin nor bu dang/ 'bras spungs
+mkhan chen ngag dbang bstas dar (53r) //byang yangs dgon mkhan po jam
+dbyangs cbos grags/ bod gžung sman rises (read: rtsis) slob grwa ba mkhas
+dbang dpal Idan rgyal misban/ dge ba'i báes gñen chen po mdo smad pa
+kbas grab ma ni mangga bcas kyi abs rdul spyi bor reg pa gor rgyal Sar
+phyogs angki gsum pa'i mnga' 'og far khums gśong rong dgon glung dang
+rigs bla brang du skyes pa spyi dgon grwa gras tha fal mu Ito ba emongs
+gzugs ngag dbang yon tan pas rab byung bcu drug pa'i lcags yos rang lo
+sum cu'i thog spyi dgon bsod nams bde gling mtshans khang du 'go tshugs
+zin kyang/ glo bur rkyen zig gis lo gcig tsam bgyangs rung slar yang dus
+thog gsang ba'i bdag po mi yi zlos gar du 'phags pa la stod rdsa rong mkhan
+chen ngag dbang blo bzang mdo sngags bstan'dsin dpal bzang po zes mtshan
+bejod par dka' ba'i dam pa des kyang legs bśad re dgos fes bka' sog goang
+skyes bcas yang yang spyi bor phebs pa dang chabs cig tu beda dag la mos
+pa'i skal Idan spyi dgon spyi khyab dge slong ngag dbang phun tsbogs kyis
+par bskrun yon bdag dang bcas lhan cig lha ras dri med dang rin 'khordbarg
+po'i grangs Idan bcas stsal te nan bskul bgyis par brten rang lo so gcig pa
+chu 'brug khrums stod zla ba'i dkar phyogs dga' ba gsum pa'i res gza' zla
+ba'i phyed yol bdud tsi thun mtsbams kyi dus dge bar mchan bu bcas rdsogs
+par blod/ par yig yig chen žabs zu ba'ang brda dag la sbyangs pa phul du
+phyin pa rang slob ngag dbang cbos grags dang/ mchan bu roams bgyis pa
+po rang gis legs par bris te tu dag kyang nan gyis btang ba yin rung songs
+pa mcbis na mkhas dbang mams kyis bcos par mdsod cig mam dkar 'dis
+kyang bstan 'gro'i mi mchun mtshan ma meg med du i nas rgyal bstan
+phyogs bcur brtas sing/ /'gro kun sas byar dbang sta mthar thug rgyal ba'i
+dgongs pa bde blag tu rtogs pa'i rgyur gyur cig/ //sarba budha sya dharma
+dsa ya dsa ya dsa ya/ manggalami mastu/ subham/su bham/su bham/
+slar
+legs bsad sengge'i 'o ma 'di/
+mos Idan gser snod ma gtogs pa/
+/B.yo khram Ita log phal snod du/
+mi 'dug myur du zags gyur cig
+/ces Pa'ang smras so/ par 'di sar khum (read: khums) gsong rong spyi
+dgon kun dga' gling gi sman rtsis slob grwar bługs// bkra is// //
+
+
+
+No. 65
+X (Chinese edition), 46 x 9.8 cm. Foll. 30 (complete): numbered I to 29,
+end-leaf unnumbered (both recto and verso blank). Lines 4-6. Very finely
+printed in different types of script on stout paper. Titles in the left mar-
+gin: Yi ge (1-16, recto), 'Dulris (16v, and 17-21, recto), Na ro (22-24,
+tecto), dPyad dpe (24v, and 25-28, recto), and Dung (29r). All recto and
+verso sides marked gong, "above" and 'og. "below respectively. In the
+right margin: cb'ian,"complete" (recto) and pagination in Chinese numer
+als supplemented with sbang, "above" (recto) and bsia, "below" (verso)
+respectively. - J.K.C., Peking 5. 12. 1958.
+rGya dkar nag rgya ser kosmi ra bal bod hor gyi yi ge dang dbe (read: dpe)
+ris mam grangs mang ba bzugs so
+Graphic tables of thirty-three Indic (and related) scripts with Tibetan trans-
+literation (some without it) (foll. 2v-16r); and various illustrations, e.g.
+of ritual instruments, yoga practices, surgical tools, musical characters,
+etc. (foll. 16v-29v)."
+B (14) //rgyal kun 'dus pa'i bdag iid Min mor byed/
+E (29v2-4) bdag gi skye ba gong ma de nid dmag zor ma'i bsren sgrub
+mdsad ba'i (read: pa'i) moal lam du rang gi drin can bla ma la mjal bar
+khyod chos 'khor rgyal nas brgyud pa'i dka ba dang len ma'i dbyangs
+ses na 'then dogs gyis gsun zes pa 'i dbyangs sagar nas blo la nges pa
+Itar 'then nas phul bar thugs mňes ba'i (read: pa'i) tshul mdsad ba (read:
+pa) žig byung gsung ngo//
+This work is fully described in TAUBE Handschriften 2929-2930, and especially
+in YUYAMA pp. 86100. The latter gives a detailed analysis of its contents toge
+ther with most valuable bibliographical references (for Addenda and Corrigenda
+see pp. 105-106, 114-115, and 124). - As far as I know, this work was first res
+ported in KATALOG 590. Further on, it was quoted by O. Boehtlingk in his ar
+ticle, "Ueber einige Sanskrit-Werke in der Bibliothek des Asiatischen Departe-
+ments", BHP 2 (1845) (pp. 339-349). Pp. 342-343 (I am indebted to my friend Akira
+Yuyama who pointed out to me this reference, which had until then escaped my
+attention). Later on, in 1848, mentioned by SCHIEFNER Nachträge 125aaa (pp.
+146 147), Cl. also W. Kotwiez, "Les 'Khitai's' et leur écriture", in Rocznik Oru
+jentalistyczny 2 (1919-1924) (pp. 248-250), p. 250; L. Ligeti, Rapport preliminar-
+
+
+
+redan voyage d'exploration fait en Mongolie Chinoise 1928-1931 (Budapest 1933),
+p. 31; W. Heissig. Die Pekinger lamaistischen Blockdrucke in mongolischer Spra-
+che (= Göttinger Asiatische Forschungen II, Wiesbaden 1954), p. 160; S. Sakai,
+*Kazo Chibetto Zögai Butten no Oboegaki', in Nippon Chibetto Gakkai Kaibo,
+no. 3 (1956), p. 2 (not seen) and G. Kara, "Un texte mongol en écriture soyom-
+bo", in Acta Orient. Hung. 9 (1959) (pp. 1-38), p. 1. Recently, Miss Miyoko Na.
+kano of Sapporo, Japan, published an article entirely devoted to the examination
+of this particular blockprint, entitled "Ruya-dkar.nag rya-ser kesmiera bal bod
+bor-gyl yi-ge dan dpe dpe-ris mam-grais maniba ni tsuite -'Phags-pa ji to sono
+shüden (On the Rgyd-dhar wag..., the 'Phags.pa script and its relatives). The
+study appeared in the joumal Tobogaku (Eastern Studies), published by the Toh
+Gakkal (Institute of Eastern Culture), Tokyo 1968, no. 36, pp. 1-16 L149-134
+(sic)] with a plate after p. 7(143).
+79
+
+
+
+NOTES
+Some of which have already been described in my short bibliographical
+notices, "On Some More Recent Tibetanistic Publications Edited in the
+Chinese People's Republic", Archiv orientální 29 (1961), pp. 476-479,
+and * Tibetan Literature in China", ibid. 30 (1962), pp. 638-644.
+2 The Kanjur and Tanjur collection being tolerably well known from the
+bibliographical point of view, is not included in the present catalogue.
+A short preliminary notice of the Kanjur and Tanjur in Prague by the
+present writer appeared in Archiv orientální 30 (1962), pp. 314-317.
+3 Cf. also Lokesh Chandra, "Les imprimeries tibétaines de Drepung, Der-
+ge et Pepung", Journal asiatique 249 (1961), no. 4, PP. 507-516.
+4 Cf. Lokesh Chandra, op. cit., pp. 516-517.
+5 I was able to procure these rare collections in 1959 through the kind
+mediation of my teacher, Professor Yü Tao-ch'uan (Yu Dawchyuan),
+who also worked up its preliminary classification and suggested that
+an identical numbering be employed between the texts kept in Peking
+and the title-leaves preserved in Prague. - I hope one day to be able
+to give a more detailed description of the dGon-chen and the dPal-
+spungs collections as a whole, or of some parts of them at least.
+6 In one case - no. 2 - the text is written with golden ink.
+"Buryat editions," says Professor Rinchen in his Catalogue p. 73 (see
+List of Reference-works), "are distinguished from the Tibetan by great
+clarity of print, good outline of letters, the superior skill of cutters and
+better quality of paper". - Nos. 3-7, 15(?), and 37 in the present cata-
+logue have been turned out by the monastic printeries in Buryat Mongo-
+lia. See also Appendix 3. For a catalogue of printing blocks in the Cu-
+golsk Monastery (Čügel-in Dašičoyiopolling), see RINCHEN pp. 84-95.
+8 For a biography of Cha-har dge-bśes Blo-bzang-tshul-khrims, see S. Bi-
+ra, Mongol'skaja ribetojazyčnaja istoričeskaja literatura (XVII-XIX)
+(-Studia Historica III/1, Ulan Bator 1960), pp. 43-45, and R. Kaschew-
+sky, Das Leben des lamaislis cben Heiligen Tsongkbapa Blo-bzan.
+grags-pa (1357-1419) (Ph.D. thesis, Rheinische Friedrich-Wilhelms-
+
+
+
+Universität, Bonn 1967), pp. 69-76. See also CHANDRA Materials II,
+pp. 40-42. The dkar-chag of his collected works in 10 volumes is to
+be found in CHANDRA Materials II 9222-9698 (pp. 433-450). Accord-
+ing to a communication by Dr. M. Taube, B. D. Dandaron of Ulan Ude
+is preparing a full description of Blo-bzang-tshul-khrims' gsung' bum.
+- Ngag-dbang-blo-bzang-skal-sbyin (i.e. Ngag-dbang-blo-bzang-skal-
+bzangosbyin-pa, see Nos. 4 and 5) belongs to the 19th century.
+9 See note 8 above.
+10 See note 8 above.
+11 According to V. A. Bogoslovskij, Tibetskie rukopisi i ksilografy, in:
+Vostokovednye fondy krupnejšicb bibliotek Sovetskogo sojuza (Mosk-
+va 1963), p. 58, Grags-pa-bšad-sgrub of Co-ne lived in 1675-1748. See
+also A. I. Vostrikov, Tibetskaja istoričeskaja literatura (= Bibliotheca
+Buddhica XXXII), Moskva 1962, p. 95. TAUBE Handschriften 1526
+quotes another work by this author. - Da-na'i ming-can (lit. "one na
+med Dana") is identical with Ngag-dbang-blo-bzang-skal-bzang-sbyin-
+pa mentioned above, Nos. 3-5.
+12 See note 7 above. For a catalogue of printing blocks in the monastery
+of Gusinoe ozero (Kölüng-un Gandangdarjaling), see RINCHEN pp. 79-82.
+13 For a short biography of Dharmavajra, also known as the Thulu-bkwan
+hutukhtu III Blo-bzang-chos-kyi-ri-ma, see CHANDRA Materials I, pp.
+51-54, and 55 (two dkar-cbags of his writings given ibid., pp. 215-228
+and 233-234 respectively),
+14 Blo-bzang-bstan-dsin-rgyal-mtshan alias Khan-chen Chos-kyi-rgyal-
+po (1639-1704) was a pupil of Kon-mchog-rgyal-mtshan (cf. TAUBE
+Handschriften 1740) who, in his turn, was a disciple of the Fourth
+Panchen Lama Blo-bzang-chos-kyi-rgyal-intshan-dpal-bzang-pe (1569.
+1662; see TAUBE Handschriften 2615). For a short biography of Khan
+chen Chos-kyi-rgyal-po (also known as Khan-chen Chos-rgyal), see
+CHANDRA Materials II, pp. 19-20 and 35-36 (two dkar.cbags of his
+writings given ibid., pp. 334-340 and 410-412 respectively). - Regard-
+ing the worship of the goddess Lo-ma-gyon-ma, see R. de Nebesky-
+Wojkowitz, "A contribution to Mahāyāna iconography", in Stepping
+Stones, vol. 2, no. 3 (Kalimpong 1951), pp. 77-82.
+15 The second line reads in the original as follows: ston pa gían la gus
+
+
+
+byed pa/. Cf. Sa-skya'i legs-bsad bugs-so (Ch'eng-tu 1958), p. 107.
+16 äry a-Parnasabari-sadhana, Compare a somewhat larger treatise of this
+name in KANJUR, gZungs-'dus, WAM, fol. 149 - 149v (vol. 102, no.
+995 - TOHOKU 995), especially lines 3-5 on fol. 149v. (Cf. LAUFER
+94. MEISEZAHL Stuttgart T 72435 Nr. 23. TAUBE Verzeichnis F.
+III 2.)
+For a detailed biography of Ngag-dbang-blo-bzang-chos-ldan, also
+known as 1Сang-skya hutukhtu I, see K. Sagaster, Subud Erike - Bin
+Rosenkranz aus Perlen. Die Biograpbie des 1. Pekinger I Can skya
+Kurukhtu Nag dbani blo bzan los ldan ( Asiatische Forschungen,
+Band 20, Wiesbaden 1967), and by the same author, Nag dari blo bzan
+d'os Idan (1642-1714). Leben und bistorische Bedeutung des 1. (Pe-
+kinger) ICar skya khutubtu (Ph. D. thesis), Bonn 1960. His collect-
+ed works (gsung-'bum) were printed by 1724 in seven volumes (KA-JA)
+and have been anastatically reproduced by the Tibetan Tripitaka Re-
+search Institute in Kyoto at the end of the Kanjur-Tanjur photoprint
+(ed. by D. T. Suzuki, 1961). Xylographed copies in Europe are fouod
+in the Oriental Institute, Leningrad (three copies; see CHANDRA Au-
+thors no. 25) and in the Royal Library of Copenhagen (Coll. Münter).
+Cf. CHANDRA Materials I, p. 37. A dkar.cbag of Ngag-dbang-blo-bzang-
+chos-Idan's collected works is found in K. Sagaster's Subud Erike,
+pp. 351-373, and in CHANDRA Materials I, pp. 184-191. Our text, ac-
+cording to K. Sagaster's data (op. cit., p. 365), forms Part 22 of the
+vol. 7 (JA), whereas according to L. Chandra (op. cit., p. 189a) Part
+21 of the same volume. However, according to the catalogue compiled
+by Klong-rdol-bla-ma in the 18th century (reproduced in CHANDRA
+Materials III, pp. 603-696), it forms Part 6 of the vol. 5 (CA), CE.
+CHANDRA Materials II 14558 (p. 635b).
+18 Tsbogs mcbod, elliptically for tshogs-kyi 'kbor-lo'i mcbod-pa'i cho-
+ga (ganacakra-pājā-vidhi).
+19 Dr. M. Taube has suggested that the author's real name is Khas-
+grub-rje dGe-legs-dpal-bzang po. In this case he would have lived
+from 1385 to 1438, and have been one of the leading disciples of
+bTsong-kha-pa. However, the present work is not listed amongst
+mKhas-grub-rje's collected writings in either Klong-rdol-bla-ma's Ca-
+talogue (cf. CHANDRA Materials III, pp. 619-621) or the Sendai Ca-
+talogue (nos. 5456-5521, pp. 139-159).
+
+
+
+20 See note 7 above, For a catalogue of printing blocks in the Gegetuevsk
+Monastery (Gegetü-yin Dambabrayibungling), see RINCHEN pp. 115-117.
+21 Not identified.
+22 See note 13 above.
+23 Not identified. - On the various ways in which the brgya-béi ceremo-
+ny can be performed, see NEBESKY-WOJKOWITZ Oracles, pp. 523-527.
+24 See note 13 above.
+25 On the eighty-four (five) Mahāsiddhas, see GRÜNWEDEL pp. 137-228,
+and TUCAI 1, PP. 226 et seq. Also Rāhula Sãoktyayana, "Les B4 Sid-
+dhas" ſ'in his "Recherches bouddhiques" published in JA 225 (1934),
+pp. 195-230). Pp. 218-230. D. L. Snellgrove, Buddhist Himalaya (Ox-
+ford 1957), pp. 85-87 and 296-297. T. Schmid, The Eighty-five Siddbas
+(Reports from the Scientific Expedition to the North-Western Pro-
+vinces of China under the Leadership of Dr. Sven Hedin, Publication
+42, VIII. Ethnography 7), Stockholm 1958.
+26 Blo-fi ming-can (i.e. Šire getü chos-rje Blo-bzang-Ei-ba-dpal-bzang-
+po), a Mongol author of the 17th century, was a chief disciple of the
+Jaya-pandita Il Blo-bzang-bstan-dsin-'phrin-las (born 1642). For a
+short biography see CHANDRA Materials II, pp. 42-43. His collected
+works (gsung-'bum) are listed in CHANDRA Materials II, pp. 451-454,
+and TAUBE Handschriften pp. 1129-1130.
+27 bSod-nams rgya-mtsho-dpal-bzang po belongs to the 19th century. He
+was famous for his grammatical erudition. Seven volumes of his col-
+lected works (gsung-'bum) were xylographed and the eighth volume
+was handwritten. See CHANDRA Materials II, pp. 52-54. The dkar
+cbag of Sod-nams-rgya-mtsho-dpal-bzang-po's works is reproduced
+in CHANDRA Materials II, pp. 495-499. The work in question, how-
+ever, is not listed in the dkar.cbag.
+28 On the ICam-sring class of protective deities, their worship, etc., see
+NEBESKY-VOJKOWITZ Oracles p. 88 et seq.
+29 Not identified.
+30 Dr. M. Taube has suggested that po blo na mass kyis tba fal babyung
+rgyas "do sang pa'i should be read po' i slob marams kyi tha sal ba
+byang rgyal du song ba'i. Cf. an analogous text in No. 27.
+84
+
+
+
+31 Not identified. See note 29 above.
+32 Not identified.
+33 Not identified.
+34 Written pan with letter ma subscribed,
+35 On glud or "ransom" ceremonies, see NEBESKY-WOJKOWITZ Oracles
+Pp. 360-362.
+36 Nos. 34-36 in the present catalogue represent but a section of a larger
+collection of eschatological texts, of which only foll. 67-79 and 81-
+142 are extant in the library of the Oriental Institute, Prague. Foll.
+1-66, 80, and 143 et seq. are wanting.
+37 For references see No. 36.
+38 See note 36 above.
+39 See under No. 36.
+40 See note 36 above.
+41 Blo sbyong don bdun ma by 'Chad-kha-pa Ye-ses-rdo-rje of Bya (1101-
+1175). CF. TUCCI I, p. 99. The work is listed among the blo-sbyong
+texts in Klong-tdol-bla-ma's Catalogue; cf. CHANDRA Materials III
+13584 (p. 606a). Thogs-med-bzang-po-dpal's commentary on Ye-ses-
+rdo-tje's work is quoted ibid., no. 13585.
+Gyal-stas Thogs-med-bzang-po-dpal, also known as Gyal-sras rin-
+po-che Thogs-med-bzang-po-dpal (1295-1369) was a contemporary of
+Bu-ston rin-po-cbe (1290-1364). For his biography by dPal-gyi-rin-
+chen, see No. 59 in the present catalogue. A short biography together
+with a list of his writings is found in the tbob-yig of the Jaya-pandi-
+ta II Blo-bzang-bstan-dsin-'pbrin-las, vol. 3, fol. 14 ff. (I am indebt-
+ed to Dr. M. Taube for this information). - The present text presumab-
+ly was written in 1368/69 when the author stayed at dNgul-chu'i-chos-
+rdsong (see the colophon).
+43 bkra-sis-chos-'phel-gling (Dašičoyinpolling) is a Buddhist monastery
+in Buryat Mongolia famous for its large printery. See also note 7 above.
+44 bsKal/sKal-bzang-sbyin-pa is Ngag-dbang-blo-bzang-skal-bzang-sbyin-
+pa. See Nos. 3-6 in the present catalogue. Possibly he began his work
+
+
+
+in 1810/70 (Icags-rla year) and completed it in the tenth month of the
+fire-dog year (me kbyi'z bcur), i.e. 1826/86 ?
+45 Not identified.
+46 Not identified.
+47 Professor F. Weller was kind enough to suggest the following recon-
+struction of the hybrid Sanskrit title (in a letter to the author of 18th
+October 1967): Buddhal sya) bhagavato vimokşadbhutak arábhramavica
+sugatasya carly)ottamanidhi(t) nama viharati sma.
+48 dmar ser can te sing pho stag gi lo. dmar-ser.can (Skrt. pirigala) year
+in Brhaspati cycle corresponds to the memo) sbrul (fire-female-ser-
+pent) year in the element animal cycle (i. e. 1737/97), whereas sing
+(pbo) stag (tree-male-tiger) year in the element-animal cycle (i.c.
+1734/94) corresponds with the kun-dga' (Sket. ananda) year in Brhas.
+pati cycle. The passage in question should therefore read either (a)
+dmar ser can te me mo sbrul gyi lo (1737/97), or (b) kun dga' ste sing
+pbo stag gi lo (1734/94).
+49 Cf. note 14 above.
+50 I have so far been unable to identify either the author, 'Od-dpag-rdo-
+rje (i.e. 'Od-dpag-med-rdo-rje, see No. 52), or mNgon-dga' hermitage.
+The latter may well be a metaphorical designation meaning the Whee
+mitage (ri-kbrod) of a manifest (mngon-par) delight (dga'-ba)".
+51 See note 50 above.
+52 Not identified. See note 50 above.
+53 Nal-'byor-pa Rus-pa'i-tgyan-can ("The yogi having ornaments of bo-
+ne"). The author's real name perhaps is that of the second of Mi-la-
+ras-pa's disciples, namely, Ras-chung-pa rDo-rje-grags-pa (1084-1161).
+54 See note 50 above.
+55 See note 50 above. - For an account of Zla-'od-gzon-nu (Candraprabha-
+kumāra), also known as sGam-po-pa, see H. V. Guenther, "Dvags.po.
+lha.rje's 'Ornament of Liberation Journal of the American Oriental
+Society 75 (1955) (pp. 90-96), PP. 90-92, and by the same author, Je.
+wel Ornament of Liberation (London 1959), Introduction, pp. IX-XIV.
+See also HOFFMANN p. 156 and TUCCI I, p. 90b.
+
+
+
+56 See note 50 above. - On Phag-mo-grub-pa, the famous bka'-rgyud-pa
+Master, see HOFFMANN pp. 156-157, and TUCCI I, p. 90b.
+57 See note 50 above. - On Gling-ras-pa Padma-do-rje, the founder of
+the 'Brug-pa branch of the bKa'-brgyud-pa sect, see TUCCI I, P. 90b.
+58 See note 50 above. - On gTsang-pa Gya-ras-pa Ye-ses-rdo-rje (i.e.
+gYong-drung-dpal), disciple of Gling-ras-pa Padma-rdo-rje (see No. 57),
+see TUCCI I, PP. 90h, 125b and note 220 on p. 260a. Cf. also HOFF-
+MANN p. 157!
+59 dPal-gyi-rin-chen, also known as Nan-pa-po bla-ma dPal-rin, is count-
+ed amongst the chief disciples (bu chen) of Thogs-med-bzang-po-dpal
+(1295-1369), and can therefore be assigned to 14th/15th century.
+phag lo- "the year of a hog" (the element component is missing in the
+original). Taking for granted that the biography in question could have
+been written only after 1369, i.e. the year of Thogs-med-bzang-po-dpal's
+death, and bearing in mind that it was written by the latter's disciple,
+the date of composition may be any one of the following five: - Icags-
+pbag year (1371), chu-pbag year (1383), Sing-pbag year (1395), me-phag
+year (1407), and sa-phag year (1419).
+61 On the Sixth Dalai Lama see i. a. G. Schulemann, Geschichte der Dalai-
+Lamas (Leipzig 1958), p. 278 ff.
+62 Rajanitisāstra bhūmipālasyālankāra náma viharati sma.
+63 Mi-pham-mam-par-rgyal-ba, according to CHANDRA Materials I, p. 33,
+is referred to under various names: sMra-ba'i-seng-ge Mi-pham-phyogs-
+las-mam-par-rgyal-ba (so on the title of the dkar.chag of his comple-
+te works in vol. 9 (ŚRĪH); cf. CHANDRA Materials I 3334 (p. 165b),
+Jam-ragon Mi-pham-rgya-mtsho (on the title of his collected works;
+cf. CHANDRA Imprimeries p. 508 no. 13), and Mi-pham Jam-dpal-
+dgyes-pa'i-rdo-rje (see our colophon). Cf. also STEIN pp. 38 and 226.
+His gsung-'bum was printed at the Derge monastery in 19 volumes, di-
+vided into two series, viz. the medium format (Ideb 'bring in nine vo-
+lumes) and the long format (Ideb cben or Ideb ring, in ten volumes).
+The first volume (OM) of the medium size series of Mi-pham's collect-
+ed works opens with our text in 79 foll. Cf. CHANDRA Materials I,
+Pp. 34 and 160a.
+
+
+
+64 For a slightly different table of contents, based on the Lhasa edition
+of Rajasästra in 157 foll., see BACOT Titres pp. 314-315.
+65 Bhotasamjñaśāstram vimätrakakārasubhasitaketakahärākhya vijahara.
+66 Born in 1921/22. Cf. the corresponding passages of the colophon:-
+(fol. 53r2) rab byung bcw drug pa'i (the XVIth cycle, 1. e. 1927-86)
+Icags yos (i.e. 1951) rang lo sum cu'l(i. e. 30) tog ... and (fol. 53-5)
+rang lo so geig pa (i.e. 31) cbn 'brug (i. e. 1952).
+67 The authorship of this work is attributed to Cang-lung arya-pandita
+Nga g-dbang-blo-bzang-bstan-pa'i-egyal-mtshan-dpal-bzang po, a dis-
+tinguished Mongol polymath of the early 19th century. For a short bio-
+graphy, and the dharcbag of his collected works, see CHANDRA Ma-
+terials II, pp. 14-15 and 289-299 respectively. The work in question
+is listed ibid., no. 6047 (p. 297a). Cf. also TAUBE Handschriften 2929.
+A one-volume biography of ICang-lung arya-pandita is also reported in
+KATALOG 523.
+
+
+
+APPENDICES
+
+
+
+Appendix 1.
+INDEX OF TITLES
+(1) References are to numbers of the Catalogue.
+(2) Work-titles marked with an asteriske represent either the latter,"or-
+namental part of the real title of a work, or the conventional shorten-
+ed form of a title to facilitate reference.
+(3) Only titles of works described in the present Catalogue are listed;
+titles of other works mentioned solely in the colophon have not been
+included.
+(4) bugs so ("is herein contained") or zes bya ba bings so ("so to be
+styled, is herein contained"), usual endings of the Tibetan book-tit-
+les, have been omitted in the present Index.
+(5) Abbreviations:
+(B) title as given at the beginning of the text
+(C) title as given at the end of the text or in the colophon
+(M) shortened form of a title as given in the margin of the work
+(TL) title as given on the title-leaf
+Tibetan
+*Kun khyab sňan pa'i sgra dbyangs 42
+*Ke ta ka yi do śal 64
+*Khyu mchog gi sgra dbyangs 58
+Khri srong Ide'u besan bka' chems 49 (CI.)
+Khro bo'i bar do 35 (TL)
+mkhan chen chos kyi rgyal po'i gsung 'bum las lo ma gyon ma'i sgrub
+thabs der 'tshe kun sel 9 (TL)
+mKha''gro 'gro ba bzang mo'i gsung rab mam thar 45 (TL)
+mKha' 'gro ma 'gro ba bzang mo'i mam thar 45 (B)
+*Grags pa'i sgra dbyangs 56
+Grub chen brgyad kyi rtogs pa brjod pa 21/2(B,
+
+
+
+Grub chen brgyad bcu rtsa Inga la gsol ba 'debs pa 21/1(C)
+Grub chen brgyad bcu rtsa lnga'i gsol 'debs 21 (TL)
+Grub chen brgyad bcu rtsa bởi la phyag 'tshal pa 21/1 (B)
+Grub thob gling ras kyi roam thar 'gur "bum bsdus pa seng ge'i sgra
+dbyangs 57 (TL)
+Grub thob brgyad bcu rtsa bãi'i rtogs pa 'gur du gsungs pa 21/3 (C)
+Grub thob chen po brgyad bcu rtsa bzi'i rtogs pa 'gur du bźengs pa 21/3 (B)
+Grub thob pha mo brgyad bcu'i rtogs pa bejod pa 21/4 (C)
+Grub pa'i dbang po gling ras pa'i mam thar 'gur 'bum seng ge'i sgra
+dbyangs 57 (C)
+Grub pa'i dbang phyug dpal Idan 'gran zla thams cad dang bral ba sgam
+po pa zla 'od gzon nu'i mam thar 'gur dang bcas pa ston zla rabrgyas
+'dsam gling kun khyab grags pa'i sgra dbyangs 55 (C)
+Grub pa'i dbang phyug dpal Idan nā to pa'i rnam par that pa dpag bsam gyi
+dga' tshal chos kyi sgra dbyangs 51 (TL, C)
+Grog spyin 19 (M)
+Grog spyod 19 (M)
+*Glang po rin po che'i sgra dbyangs 58 (C)
+"Gling ras pa 57
+Glud 33 (M)
+Ghu ru padma 'byung gnas kyi skyes rabs mam par thar pa 49 (B)
+mGop po phyag drug gi tshogs mchod "bul tshul 13 (B)
+mGon po yid bžio por bu'i tsbogs mchod bya ba'i tshul 12 (TL)
+'Gro ba 45 (M)
+**Gro ba bzang mo 45
+Gya dkar nag rgya ser kasmi ra bal bod hor gyi yi ge dang dpe ris mam
+grangs mang ba 65 (TL)
+Gya nag skag bzlog gi bzlog bs gyur 30 (TL)
+Gyal po lugs kyi bstan bcos sa gîi skyong ba'i rgyan 63 (TL, B, C)
+Gyal bu dri med kun Idan gyi mam thar lo rgyus dang bcas pa 43 (C)
+Gyal sras 59 (M)
+Gyal sras thogs med bzang po dpal gyis mdsad pa'i blo sbyong don bdun
+ma'i sňan brgyud kyi tshig mams bkral ba 37 (TL)
+Gyal sras tin po che thogs med bzang po dpal gyi mam par thar pa gźan
+la phan pa'i 'od zer 59 (TL)
+Gyal sras rin po che'i mam par thar pa gzan la phan pa'i 'od zer 59 (C)
+rGyal sras lag len gyi don gyi'grel pa legs par bsad pa padma'i tshal
+59 (C)
+*sam po pa 55
+
+
+
+sGrol ma'i tshogs mchod 14 (TL)
+*phags ma Grol ma'i bzlog bsgyur 23 (TL)
+brGya bži'i cho ga bklags pas don grub 18 (TL, C)
+brGyad stong sa bcad 5 (M)
+Ngag chos gsung 38 (M)
+dNgos grub can gyi sgrung dgos 'dod 'char "bebs 47 (TL)
+mNga' bdag mar pa lotstsha'i roam thar mgur 'bum bde chen 'brug sgra
+sňan pa'i sgra dbyangs 52 (TL)
+bCom Idan 'das ma 'phags pa ses rab kyi pha rol tu phyin pa brgyad stong
+pa 1 (C)
+Cha gsum gyi cho ga mchod gtor mams 16 (TL)
+Chos kyi rgyal po dri med kun Idan gyi mdsad tshul rgyas pa mu tig phreng
+ba 43 (TL)
+Chos kyi rgyal po nor bu bzang po'i mam thar phyogs bsgrigs byas pa thos
+chung yid kyi dga' ba ston 44 (TL)
+Chos skyong Icam sring gi bzlog bsgyur 26 (TL)
+Chos skyong lcam sring gi bzlog bs gyur gyi cho ga 25 (B)
+Chos skyong dregs pa lcam sring gi bzlog bsgyur 25 (TL)
+*Chos id bar do'i ngo sprod 35 (C)
+tje btsun sgrol ma'i bzlog bsgyur 24(TL)
+Je besun ma 'phags ma sgtol ma la bsten nas bzlog bsgyur gtor zor byed
+pa 24 (B)
+Ni khri'i sa bcad 4 (M)
+*Ner 'tshe kun sel 9
+sNing po don gsum 39 (TL)
+sNing po don gsum gyi khrid yig gi dmigs rim dga' ldan du bgrod pa'i them
+skas 39 (B)
+*Te lo pa 50
+Ta mgrin gsang sgtub kyi sgo nas tab gnas byed tsbul byin labs rol mtsho
+8 (TL, C)
+
+
+
+Ta mgrin gsang sgrub kyi zi rgyas dbang gsum gyi sbyin sreg gi cho ga
+ye ses me 'od 17 (TL)
+Ta mgrin gsang sgrub kyi ki rgyas dbang gsum sbyin sreg gi cho ga ye
+ses me 'od 17 (C)
+"Thar pa dang thams cad mkhyen pa'i lam ston 53
+Thugs kyi gsang ba'i dho ha glur blangs pa 21/4(B)
+Thogs med bzang po dpal 59
+* Thos chung yid kyi dga' ba ston 44
+Dag yig ke ta ka 64 (CM)
+Dung 65 (M)
+Dus gsum gyi rgyal ba sras dang bcas pa thams cad kyi mkhyen brtse
+dang phrin las geig tu bsdus pa'i bdag ñid rgyal sras rin po che'i
+mnam par thar pa gzan la phan pa'i 'od zer 59 (B)
+Dri med kun ldaa 43 (M)
+"bDe chen 'brug sgra sňan pa'i sgra dbyangs 52
+'Dir gsang ba'i bdag po dpal phyag na rdo rje bzlog bsgyur 22 (TL)
+'Dul ris 65 (M)
+Ná ro 65 (M)
+"Na ro pa 51
+*Nor bu bzang po 44
+Nam thar skyes tabs rgyas pa 49 (C 1.)
+Nal 'byor gyi dbang phyug te lo pa'i mam thar 'gur 'bum grub pa'i gram
+bzang tshangs pa'i sgra dbyangs 50 (TL)
+Nal 'byor gyi dbang phyug dam pa rje btsun mi la ras pa'i mam thar that
+pa dang thams cad mkhyen pa'i lam ston 53 (TL)
+Nal by or gyi dbang phyug dam pa rje btsun mi la ras pa'i mam par thar
+pa thar pa dang thams cad mkhyen pa'i lam ston mgur chings dang
+bcas pa 53 (C)
+Nal 'byor gyi dbang phyug gtsang pa rgya ras kyi mam thar 'gur 'bum yon
+tan kun 'byung glang po rin po che'i sgra dbyangs 58 (C)
+sNang sa 46 (M)
+sNang sa 'od 'bum 46
+Padma bka' yi thang yig 49 (CI.)
+
+
+
+*Padma bka'i thang yig 49
+Pod chen drug gi gtam 38 (M)
+"Pag bsam gyi dga' tshal chos kyi sgra dbyangs 51
+dPal gyi chos 'khor lha sa dran glu 62 (TL)
+dPal dwags po zla 'od gzon nu'i mam thar 'gur bcas 'dsam gling kun khyab
+grags pa'i sgra dbyangs 55 (TL)
+Pal bde mchog 'khor lo'i grub pa bsnes pa dpal Idan te lo prad dsia bha
+tra'i mam par thar pa dang rdo rje'i 'gur cung zad bsdus pa byin belabs
+kyis sprin chen chos kyi sgra dbyangs 50 (C)
+Pal rdo rje 'chang gi sku gsung thugs kyi bkod pa kun khyab san pa'i
+sgra dbyangs 42 (TL)
+dPal Idan phag mo grub pa'i mam par thar pa 'gur dang bcas pa grags
+pa'i sgra dbyangs 56 (C)
+dPal Idan lha mo'i sgo nas bzlog bs gyur 27 (TL)
+dPal phag mo grub pa'i rnam thar 'gur 'bum grags pa'i sgra dbyangs 56 (TL)
+dPal mar pa lo tstsha'i mam par thar pa mgur 'bum cung Eig bkod pa byin
+brlabs bde chen bzug sgra sňan pa'i sgra dbyangs 52 (C)
+dPal mi la ras pa'i mam thar 'gur 'bum bsam yas lha Inga'i sgra dbyangs
+54 (TL)
+dPal mi la ras pa'i raam par thar pa dang 'gur 'bum rags rim bsdus pa bsam
+yas lha Inga'i sgra dbyangs 54 (C)
+dpal o rgyan sangs rgyas gdis pa padma 'byung gnas kyi skyes rabs mam
+par thar pa rgyas par bkod pa padma'i bka'i thang yig 49 (C II.)
+dPyad dpe 65 (M)
+* Phag mo grub pa 56
+Phyag rdor gos angon can gyi sgrub thabs 10 (TL)
+Phyag rdor gyi magon togs 11 (TL)
+Bar do'i gdams pathos pa tsam gyis grol ba bstan pa sam gyis grol ba
+Les byas chos did bar do'i ngo sprod 35 (C)
+Bal po a hum bcas pa'i dgongs don tshang ba glang chen nang 41 (TL)
+Bod kyi mkhas pa snga phyi dag gi grub mtha'i San "byed mthal dpyod dang
+bcas pa'i 'bel ba'i gtam skyes dpyod ldan mkhas pa'i lus rgyan rin
+chen mdses pa'i phra tshom bkod pa 38 (TL)
+Bod kyi brda yi bstan bcos bye brag gsal bar byed pa legs bśad ke ta ka
+yi do sal 64 (TL)
+* Byin slabs rol mtsho 8
+
+
+
+Byis pa bsrung ba'i man ngag 32 (TL)
+Byis pa'i gdon chen bco Inga Ai bar byed pa'i gzungs 31 (TL, C)
+Bla ma chos rjerin po che sgam po pa'i mam thar 'gur 'bum dang bcas
+pa 55 (C)
+Bla ma mchod pa'i tshogs mchod 15 (TL)
+Bla ma nor bu rgya mtsho las las by ang nor bu pad ma'i ljon Sing gi lhan
+thabs dang mchog sgrigs ltas mchog bkod pa 40 (TL)
+Bla ma yi dam phyag na rdo rje'i bzlog bsgyur gyi cho ga 22 (B)
+Bla ma'i mam thar 59 (M)
+Blo sbyong don bdun ma 37 (CM)
+Blo sbyong don bdun ma'i saan brgyud kyi tshig mams bkral ba 37 (TL)
+Blo sbyong don bdua ma'i sian brgyud kyi tshig mams yi ge nung agu'i
+sgo nas bkral ba 37 (C)
+* Mar pa 52
+Mi ro 47 (M)
+Mi la 53 (M)
+*Mi la ras pa 53, 54
+Mu tig phreng ba 43
+Myur mdsad mgon po'i tshogs mchod 13 (TL)
+sMan bla 7 (M)
+sMan bla'i ndo chog'don zur du bkol ba yid bain dbang rgyal 7.(TL)
+gTsang pa rgya ras kyi roam thar 'gur 'bum khyu mchog gi sgra dbyangs
+58 (TL)
+*g Tsang pa rgya ras pa 58
+Tse sgrung 47 (M)
+*Tshangs pa'i sgra dbyangs 50
+Tshangs dbyangs rgya mtsho'i mam thar sian 'grugs kyis blod pa 60,
+61 (TL)
+bTshogs bţing (1) 20 (TL)
+mDsad pa 48 (M)
+*Dsam gling kwn khyab grags pa'i sgra dbyangs 55
+*gzan la phan pa'i 'od zer 59; 59 (C)
+96
+
+
+
+*Zla 'od gzon nu 55
+Zang spyod smon lam gyi bzlog bsgyur mi mthun g.yul las mam royal
+29 (TL)
+Yi ge 65 (M)
+"Yid bzin dbang rgyal 7
+Yum gyi sa bcad 3 (CM)
+*Ye śes me 'od 17
+'phags ma Ri khrod ma lo ma gyon ma'i gzungs 9 (C)
+Rigs bzang gi mkha' 'gro ma snang sa 'od "bum gyi mam thar 46 (TL)
+Las byang nor bu pad ma'i ljon sing gi lhan thabs dang mchog sgrigs Itas
+mchog bkod pa 40 (TL)
+* Legs par bead pa padma'i tshal 59 (C)
+Lo ma gyon ma'i sgrub thabs ver 'tshe kun sel 9 (TL)
+Ser såing gi bzlog bsgyur 28 (TL)
+Ser sving rnam bsad 6 (M)
+Ser phyia brgyad stong pa dngos po brgyad don bdun cur bsgeigs pa'i sa
+bcad 5 (TL)
+Ser phyin brgyad stong sa bead 5 (C)
+Scr phyin ải khriỏi sa bcad 4 (C).
+Ser phyin stong phrag ili su Inga pa dngos po brgyad don bdun cur phye
+nas bsgrigs pali sa bead 4 (TL)
+Ser phyin yum stong phrag brgya pa dngos po begyad du bsgrigs pa'i sa
+bcad 3 (TL) 19
+'phags pa Ses rab kyi pha rol tu phyin pa brgyad stong pa 1 (TL, B)
+'phags pa Ses rab kyi pha rol tu phyin pa rdo rje gcod pa zes bya ba theg
+pa chen po'i mdo 2 (C)
+Ses rab sõing po'i ram bsad 6 (C)
+Ses rab sõing po'i mam bśad zab mo'i de kho na vid gsal bar byed pa'i
+ni ma 6 (TL)
+Sangs rgyas bcom Idandas kyi ram par thar pa rmad du byung ba mdsad
+pa "khrul pa med par brjod pa bde bar gśegs pa'i spyod pa mchog gi
+gter 48 (TL, B, C)
+
+
+
+*Seng ge'i sgra dbyangs 57
+Srid pa bar do'i ngo sprod gsal 'debs 36 (TL)
+Srid pa bar do'i ngo sprod gsal 'debs thos grol tes bya ba zab pa'i ring
+khu Zes by a ba'i dbus phyogs lags 36 (B)
+Srog chags grog ma la spyin pa gtong tshul 19 (TL)
+Srog chags grog ma la zas kyi spyin pa gtong tshul 19 (B)
+gSang nagags bla ma'i las byang le'u gsum pa nor bu padma'i ljon sing
+40 (C)
+*bSam yas Iha Inga'i sgra dbyangs 54
+IHa mo'i glud 33 (M)
+IHa mo'i vi khrod ma lo ma gyon ma'i sgrubs thabs åer 'tshe kun sel 9 (C)
+IHa mo'i stog, glud 33 (TL)
+U rgyan ghu ru padma 'byung gnas kyi skyes rabs mam par thar pa rgyas
+par bkod pa padma bka'i thang yig 49 (TL)
+Sanskrit
+(in Tibetan transcription)
+Arya Afta så ha sri ka bradsňa bā ta mi tā 1 (B)
+Bu ddha bha ga bā no bi mo kşă dbhu ta ka rā bhra ma wa tsa su ga ta
+sya tsa ro tta ma ni dhi na'ma bi ha ra ti sma 48 (TL)
+Bho ta sam da sa stran bi ma tra kah kā ra su bha si ta ke ta ka ba
+ra khya bi dsa ha fa 64 (TL)
+Ma ha sidhi pa aſta pa ri ka a si dha na ma 21/2 (B)
+Ma ha sidhi pa asta Sad tsa tur ka a sa agha gir ta na mah 21/3 (B)
+Mahasid dhi aşta Sad tsa dur na mo na mah 21/1 (B)
+Tsi ta ghutya dho ha gir ti na mah 21/4 (B)
+RA dsa ni ti sa stra bhū mi pa la sya langka ra nã ma bi ha ra ti sma
+63 (TL)
+
+
+
+Ra dsa ni ti Šāstra bhi mi pa la sya a langka ra nā ma 63 (B)
+Rädsa Šāstra 63 (M)
+U-rgyan
+(in Tibetan transcription)
+Ru ak sa sa ka ra na 49 (B)
+Chinese
+San p'an jo
+1 (M)
+English
+Memories of Lhasa 62 (TL)
+
+
+
+Appendix 2.
+INDEX OF AUTHORS AND OTHER PERSONS
+MENTIONED IN THE TEXT
+(1) References are to numbers in the Catalogue. n. (nn.) before the num-
+ber means that the given name is to be found in the respective note(s).
+(2) Forms followed by a number in parentheses () represent the names
+of other persons mentioned solely in the colophon (without further
+specification).
+(3) Abbreviations:
+(A) author
+(AP) author of a postscript
+(ED) editor and/or publisher
+(EX) exhorter (bskul-ba-po), sponsor, donor, etc.
+(R) reviser
+(s) scribe or block-cutter
+(T) translator
+Tibetan
+Kun dga' chos bzang 1 (R)
+Kun dga' phrin las rgya mtsbo 59 (ED)
+Kun dga' rin chen 6 (S)
+Klu sgrub (63)
+Klu sgrub siing po (47)
+Klu sgrub rin po che 47 (A)
+dkon mchog rgyal mtshan (9); n. 14
+bKra sis lha ste bosan 1 (EX)
+skal bzang chos kyi rgya musho bsod nams dbang po'i sde 48 (A)
+skal bzang sbyin pa (Ngag dbang blo bzang skal bzang sbyin pa) n. 44
+bskal bzang sbyin pa (Ngag dbang blo bzang skal bzang sbyin pa) 37
+(ED); n. 44
+100
+
+
+
+Khams brag pa (64)
+mKhan chen Chos kyi rgyal po (= Blo bzang bstandsin tgyal mtshan)
+n. 14
+mKhan chen Chos rgyal - Blo bzang bstan'dsin rgyal mtshan) n. 14
+Kha' 'gro ma 21/4 (A)
+mKhas grub rje dGe legs dpal bzang po n. 19
+mKhas grub thams cad mkhyen pa 14 (A)
+mKhas grub Ma ni mangga (64)
+mKhas grub sangs rgyas 15 (A)
+Grags pa rgyal mtshan 37 (EX)
+Grags pa dpal 'byor 6 (EX)
+Grags pa bśad sgrub 6 (A); n. 11
+Gling ras pa Padma rdo rje an. 57, 58
+de chos dar rgyas 29 (EX)
+dGe legs dpal bzang po, see Khas grub rje
+rGyal ba'i "byung gnas, see "Brom Gyal ba'i 'byung gnas
+Gyal sras Thogs med bzang po dpal (= Thogs med bzang po dpal) 37
+(A); n. 42
+Gyal sras rin po che Thogs med bzang po dpal (= Thogs med bzang po
+dpal) n. 42
+sGam po pa n. 55
+Ngag dbang rgya mtsho 9 (EX)
+Ngag dbang chos grags I. 38 (A); II. 64 (S)
+Ngag dbang 'jam dpal rin chen 63 (EX)
+Ngag dbang jig rten dbang phyug grags pa'i rdo rje (64)
+Ngag dbang bs tan dar (64)
+Ngag dbang bstan'dsin nor bu (64)
+Ngag dbang rdo rje (64)
+Ngag dbang phun tshogs 64 (EX)
+Ngag dbang blo bzang skal sbyin (Ngag dbang blo bzang skal bzang
+sby in pa) 3 (ED); n. 8
+Ngag dbang blo bzang skal bzang sbyin pa 4, 5 (ED); an. 8, 11, 44
+Ngag dbang blo bzang rgya mtsho 7 (A)
+Ngag dbang blo bzang chos Idan II (A); n. 17
+Ngag dbang blo bzang bs tan pa'i rgyal mtshan dpal bzang po, see I Cang
+lung Ärya pandita
+101
+
+
+
+Ngag dbang blo bzang mdo sngags bstan'dsin dpal bzang po 64 (EX)
+Ngag dbang yon tan (64)
+Ngag dbang yon tan pa 64 (A)
+1Сang skya Rol pa'i rdo rje (5), 7 (ED)
+Cang skya hutukhtu (Ngag dbang blo bzang chos ldan) n. 17
+Cang lung arya pandita Ngag dbang blo bzang bstan pa'i rgyal mtsban
+dpal bzang po n. 67
+Cha har dge bģes Blo bzang tshul khrims (Blo bzang tshul khrims) n. 8
+Chos kyi rgyal po, see.mKhan chen Chos kyi rgyal po
+Chos grags bzang po 38 (S)
+Chos rgyal, see mKhan chen Chos rgyal
+Chos sħan grags 17 (EX)
+Chos 'phel 27 (EX)
+mChog sred (63)
+'Chad kha pa Ye ses rdo rje n. 41
+Jaya pandita II Blo bzang bstan'dsin 'phrin las nn. 26, 42
+"Jam mgon Mi pham rgya mtsbo (Mi pham mam par rgyal ba) 0.63
+'Jam pa'i dbyangs dbang phyug dpal bzang (38)
+"Jam dpal dgyes pa'i rdo rje (Mi pham rnam par rgyal ba) 63 (A)
+"Jam dpal dgyes pa'i rdo rje, sec Mi pham 'Jam dpal dgyes pa'i rdo rje
+"Jam dbyangs dge legs chos 'phel 63 (AP)
+"Jam dbyangs rgyal mtshan 7 (EX)
+"Jam dbyangs ngag dbang kun dga' bs od nams bkra sis grags pa rgyal
+mtshan dpal bzang po 38 (EX)
+"Jam dbyangs chos grags (64)
+Je btsun thams cad mkhyen pa dPal bzang po 29 (A)
+Nan pa po bla ma dPal rin n. 59
+Ni ma sbas pa (63)
+bs Tan pa dar rgyas (yig dpon dad Idan dge slong) 49 (ED)
+bs Tan pa dar rgyas (er de ni Isas sang nang so) 26 (EX)
+bs Tan 'dsin ming can 18 (A)
+
+
+
+Tharchin (*m Thar phyin) 62 (ED)
+Thu'u bkwan hutukhtu III Blo bzang chos kyi di ma (= Dharma vajra) n. 13
+Thogs med (-Thogs med bzang po dpal) 37 (A)
+Thogs med bzang po dpal nn. 41, 59, 60
+Dam pa rgya gar (21/4)
+Dar ma grags 21/1 (T, R)
+Di na'i ming can (=Ngag dbang blo bzang skal bzang sbyin pa) 6 (ED);
+n. 11
+Don yod 'char (63)
+bDe mo sprul sku (30)
+Do rje grags pa, see Ras chung pa Do nje grags pa
+Do rje gdan pa 21/1 (A)
+Nor bu rgya mtsho 40 (A)
+Padma rdo rje, see Gling ras pa
+Pal khang lo tsa (64)
+dPal gyi rin chen 59 (A); n. 42, 59
+dPal ldan rgyal mtshan (64)
+d Pal 'byor rgyal mtsban 1 (R)
+dPal bzang po, see Je btsun thams cad mkhyen pa
+dPal rin, see Nan pa po bla ma
+Phag mo grub pa n. 56
+Bu ston rin po che n. 42
+Blo Idan ses tab 1 (R)
+Blo zi ming can (Sire getü chos tje Blo bzang ĉi ba dpal bzang po) 23
+(A); n. 26
+Blo bzang kun dga' 8, 17 (S)
+Blo bzang chos kyi rgyal mtshan dpal bzang po (9); n. 14
+Blo bzang chos kyi di ma, see Thu'u bk wan hutukhtu III
+Blo bzang soan grags dge legs enam rgyal dpal bzang po (26), (27)
+Blo bzang Itan pa 29 (EX)
+Blo bzang bstandsin rgyal mtshan 9 (A), 49 (AP); n. 14
+Blo bzang bstan'dsin 'phrin las, see Jaya pandita II
+103
+
+
+
+Blo bzang dpal mgoo ming can 26, 27 (A)
+Blo bzang 'phrin las ming can 28 (A)
+Blo bzang tshul khrims 3-5 (A); n. 8
+Blo bzang {i ba dpal bzang po, see Siregetü chos tje
+dByangs can grub pa (64)
+Brom rGyal ba'i 'byung gnas 1 (R)
+Ma ni mangga, see mKhas grub Ma ni mangga
+Mi pham rgya mtsho, see Jam ngon Mi pham rgya mtsho
+Mi pham Jam dpal dgyes pa'i rdo rje (Mi pham mam par rgyal ba) n. 63
+Mi pham mam par rgyal ba 63 (A); n. 63
+Mi pham phyogs las mam par rgyal ba, see sMra ba'i seng ge
+sMra ba'i seng ge Mi pham phyogs las ram par rgyal ba (Mi pham mam
+par rgyal ba) n. 63
+gTsang parGya ras pa Ye ses rdo rje n. 58
+bTsong kha pa (17); n. 19
+rTsis zur rgya mtsho (64)
+Tshangs dbyangs rgya mtsho 60, 61 (A)
+Tshul khrims rin chen 48 (AP)
+Tshe ring dbang rgyal (64)
+Tshe ring dbang dus 44 (A)
+za ma lo tstsha ba 21/4 (T)
+Za lu lo tså (64)
+i ba 'tsho (7)
+Zla'od gźon nu n. 55
+"Od dpag rdo rje ('Od dpag med rdo rje) 50, 51, 54-58 (A); n. 50
+*Od dpag med rdo rje 52 (A)
+Ye ses rdo rje, see 'Chad kha pa
+Ye ses rdo rje, see gТsang pa rGya ras pa
+Ye ses 'tsho rgyal (49)
+gYung drung dpal n. 58
+104
+
+
+
+Ras chung pa (54)
+Ras chung pa Do Eje grags pa 0. 53
+Rin chen chos kyi rgyal po 48 (EX)
+Rin chen chos skyong bzang po 1 (R)
+Rin chen bzang po 1 (R)
+Rus pa'i rgyan can 53 (A); n. 53
+Rol pa'i rdo rje, see Cang skya Rol pa'i rdo rje
+Siregetü chos rje Blo bzang {i ba dpal bzang po n. 26
+Sel gling 62 (A); see Shelkarlingpa
+Ses rab rgya mtsho (5)
+Shelkarlingpa (*ſel dkar gling pa) 62 (A)
+Sa skya pag chen (9)
+Sa skya pandita (63)
+Sa pan (64)
+Sangs rgyas grags pa 21/3 (T)
+Sangs rgyas gsang ba (63)
+bSod nams rgya mtsho (27)
+od nams rgya mtsho dpal bzang po 24 (A); n. 27
+bsod nas dpal grub 63 (S)
+Sod nams dpal grub (= 'Jam dbyangs dge legs chos 'phel) 63 (AP)
+bsod nams rab brtan 7 (EX)
+U rgyan gling pa (=Orgyan gling pa) 49 (?)
+Orgyan gling pa 49 (? A)
+Sanskrit
+Abhyakara (A bhya ka ra) 21/1 (T, R), 21/3 (T).
+Canaka (Tsa na ka) (63)
+Candraprabhakumāra n. 55
+Joanasiddhi (Dsia na siddhi) 1 (T)
+105
+
+
+
+Dipamkarastijñāna(Di pa ka ra sri dsvā na) 1 (R)
+Dharmataśīla (Dharma tā si la) 1 (T)
+Dharmabhadra (Dhamma bha dra) (64)
+Dharmavajra (Dharma/Dharma badsra) 8, 17, 19 (A); n. 13
+Maticitra (Ma ti tsi tra) (63)
+Masūrăksa (Ma su raksa) (63)
+Mitra (Mi tra) (39)
+Śákyasena (Sakya se na) 1 (T), (5)
+Subhāşita (Subha și ta) 1 (R)
+
+
+
+Appendix 3.
+LIST OF EDITIONS OF BLOCKPRINTS
+Edition
+Catalogue Number
+Buryat edn.
+1. Cugolsk Monastery
+3, 4, 5, 6, 37
+2. Gegetuevsk Monastery (7)
+15
+3. Gusinoe ozero Monastery
+Chinese edn.
+1, 65
+Derge edn.
+38, 48, 53, 59, 63
+Kalimpong edn. (G. Tharchin)
+Lhasa edn.
+43, 44, 45, 46, 60, 61
+Mongolian edn.
+Nepalese edn.
+Not identified (Eastern Tibetan edo.?) 47
+62
+107
+
+
+
+Appendix 4.
+TABLE OF PROVENANCE
+ORIENTAL INSTITUTE COLLECTION (54 items)
+A. Original property of the Oriental Institute (provenance unknown)
+Nos. 1, 2, 34, 35, 36, 43
+B. Presented by the Náprstek Museum, Prague, in 1960-61
+1. Origin unknown or uncertain
+i. Without inventory number
+Nos, 20, 40, 45
+il. Inventory no. 14.315
+No. 39
+2. Gift from Professor C. Šercl in 1914 (inv. po. 6847/b)
+Nos. 3, 4, 5, 6, 7, 37
+3. Former property of the castle Bilovice, near Uherské Hradiště
+(inv.no. UH 137/1.). Transferred to the Náprstek Museum in
+1948.
+Nos. 21/1-4, 42, 50, 51, 52, 54, 55, 56, 57, 58
+4. Gift from Mr. K. Betra in 1957 (inv. no. 205a, b, c/57)
+Nos. 44, 46, 60
+5. Gift from Professor Dr. B. Rinchen in 1958 (inv. no. 9/59)
+Nos. 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 23,
+24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 41
+JOSEF KOLMAS COLLECTION (11 items)
+A. Procured in Peking during the years 1957-59
+Nos. 38, 48, 53, 59, 61, 62, 63, 65
+B. Presented by friends in 1959-61
+No. 47 (Mr. Wang Yao in 1959)
+No. 49 (Mr. C. Žugder in 1961)
+No. 64 (Mr. Blo-bzang Kun-dga' in 1959)
+
+
+
+Appendix 5.
+CONCORDANCE OF THE ORIENTAL INSTITUTE
+LIBRARY ACCESSION NUMBERS AND
+CATALOGUE NUMBERS
+Catalogue Numbers
+Oriental Institute Library
+Accession Numbers
+(1960) 4450/60
+21/1-4, 42, 50, 51, 52, 54, 55, 56,
+-57, 58
+20, 40
+4461/60
+4493/60
+4494/60
+4495/60
+4496/60
+4520/60
+8, 9, 10, 11, 12, 13, 14, 15, 16,
+17, 18, 19, 22, 23, 24, 25, 26, 27,
+28, 29, 30, 31, 32, 33, 41
+3, 4, 5, 6, 7, 37
+(1961) 5442/61
+5447/61
+(1967) 2535/67
+2536/67
+2537/67
+2538/67
+2539/67
+2540/67
+
+
+
+Appendix 6.
+CONCORDANCE OF THE ORIENTAL INSTITUTE
+LIBRARY SIGNATURES AND CATALOGUE
+NUMBERS
+a. Manuscripts
+Catalogue Numbers
+Oriental Institute Library
+Signatures
+21/1-4
+RT1
+RT 2
+RT 3
+RT 4
+RT 5
+RT 6
+RT 7
+RT 8
+RT 9
+RT 10
+RT 11
+RT 12
+RT 13
+RT 14/1-4
+RT 15
+RT 16
+RT 17
+RT 18
+RT 19
+RT 20
+RT 21
+RT 22
+RT 23
+RT 24
+RT 25
+RT 26
+RT 27
+110
+
+
+
+RT 28
+RT 29
+RT 30
+RT 31
+RT 32
+RT 33
+RT 34
+RT 35
+RT 36
+RT 37
+RT 38
+RT 39
+RT 40
+RT 41
+b. Blockprints
+Catalogue Numbers
+Oriental Institute Library
+Signatures
+XyT 1/1-103
+The KANJUR (bka-gyur), including
+an Index-volume (dkar-chag). For furth-
+er details see J. Kolmas, "Notes on
+the Kanjur and Tanjur in Prague,
+Archiv orientální 30 (1962), pp. 314-
+317."
+The TANJUR (bs Tan-'gyur), including
+an Index-volume (dkar-cbag). See above."
+XyT 2/1-213
+XyT 3
+XyT 4
+XyT 5
+• Not included in the present Catalogue. See also note 2 above.
+
+
+
+Хут 6
+Хут 7
+Хут 8
+Хут 9
+Хут 10
+Хут 11
+Хут 12
+Хут 13
+Хут 14
+Хут 15
+&&&&caчли
+Účelový náklad Orientálního ústavu ČSAY
+Vytiskly Středočeské tiskárny, .p.
+závod 18, Praha
+Vydala Academia - MTS - B343 - 1969
+112
+
+
+
+DISSERTATIONES ORIENTALES
+Vol. 1: J. Kalousková, Les aspects du verbe chinois, 1964
+Vol. 2: L.Z gusta, Anatolische Personennamensippen, 1964
+Vol. 3: K. Zvelebil, Tamil in 550 A.D., 1964
+Vol. 4:0. Král et al., Rise and Development of Modern Literatures
+in Asia, I, 1965
+Vol. 5: H. Turková, Die Reisen Evliya Çelebis, 1965
+Vol, 6: V. Miltner, Early Hindi Morphology and Syntax, 1966
+Vol: 7: K. Petráček, Studien über die südsemitische Volkspoesie,
+1966
+Vol. 8: J. Kalousková, La phrase dans le chinois moderne, 1966
+Vol. 9: Z. Slupski, The Evolution of a Modern Chinese Writer, 1966
+Vol. 10: M. Shaki, Principles of Persian Bound Phraseology, 1967
+Vol. 11: Minn Latt, Modernization of Burmese, 1966
+Vol. 12: J. Kolmas, Genealogy of the Kings of Derge, 1968
+Vol. 13: D. Heroldová, Acupuncture and Moxibustion, I, 1968
+Vol. 14: J. Prašek, Origins and Authors of the hua-pen, 1967
+Vol. 15:0. Král et al., Rise and Development of Modern Literatures
+in Asia, II, 1968
+Vol. 16: J. Kolmas, Tibetan Manuscripts and Block prints, 1969
+Vol. 17: The East under Western Impact (Proceedings of Conferences.
+1), 1969
+Vol. 18: V. Klíma, Modern Nigerian Novels, 1969
+Vol. 19: J. Bečka, A Study in Pashto Stress, 1969
+Vol. 20: J.Průck, Three Sketches of Chinese Literature, 1969
+Vol. 21: Z. Heřmanová-Novotná, Semi-Affixal Word-Formation Patterns
+in Chinese, 1969
+The series will be continued
+The single volumes or the whole series
+can be obtained exclusively in the
+ORIENTAL INSTITUTE,
+Lázeňská 4, Prague I.
+Czechoslovakia
