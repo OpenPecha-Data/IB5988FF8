@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG15365
   title: ཏིབེཏན་མནུསཅྲིཔཙ་ཨནད་བློཅཀཔྲིནཙ་ཨིན་ཐེ་ལིབྲརཡ་ཨོཕ༹་ཐེ་ཨོརིཨེནཏལ་ཨིནསྟིཏུཏེ་པྲགུཨེ
-  volume: ''
+  volume:
+    4c4365485242438db9ae10fba5007e8c:
+      image_group_id: I1KG15391
+      title: Volume 1 of tibetan manuscripts and blockprints in the library of the
+        oriental institute prague
+      volume_number: 1
+      total_pages: 126
   author: ''
+ebook_metadata:
+  title: ཏིབེཏན་མནུསཅྲིཔཙ་ཨནད་བློཅཀཔྲིནཙ་ཨིན་ཐེ་ལིབྲརཡ་ཨོཕ༹་ཐེ་ཨོརིཨེནཏལ་ཨིནསྟིཏུཏེ་པྲགུཨེ
+  author: ''
+  sku: P006999
+  cover: cover.jpg
+  layers:
+  - pagination
